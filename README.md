@@ -1,4 +1,5 @@
 # Actuarial Analyst
+**Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
 
 ## If you’re looking for a professional career that involves solving problems, working with tons of numbers, and analysing data, well, the becoming an actuarial analyst may just be the job for you!
 
