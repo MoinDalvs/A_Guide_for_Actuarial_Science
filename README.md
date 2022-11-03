@@ -1,6 +1,12 @@
 # Actuarial Analyst
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
 
+**Actuarial science is a deeply sought-after field that plays a high role in the success of a company. Actuarial analysts help accredited actuaries make strategic decisions and communicate solutions for deeply complex financial issues.**
+
+**Many types of companies find value in hiring actuarial analysts. Some of the most common employers of actuarial analysts are insurance companies, consulting firms, government, hospitals, banks, and investment firms. There is typically a divide between those in life disciplines (life and health insurance) and those in non-life disciplines (auto, home, and property insurance).**
+
+**The day-to-day role of an actuarial analyst involves quite a bit of mathematical work and analysis. It’s a fairly competitive field, meaning that commitment and strong collegiate performance can give you a leg up when searching for a job.**
+
 ## If you’re looking for a professional career that involves solving problems, working with tons of numbers, and analysing data, well, the becoming an actuarial analyst may just be the job for you!
 
 ### Learn about the key requirements, duties, responsibilities, and skills that should be in an actuarial analyst job description.
@@ -98,6 +104,17 @@ Actuarial work regularly involves figuring out solutions to problems and a lot o
 Actuaries work with numbers every single day. Most of them love to dig into the details and figure out why trends are occurring. Actuaries use numbers and mathematical concepts in order to make business decisions that are in the best interest of the company and its policyholders.
 
 **`If you’re not good at math or don’t enjoy it, a career as an actuary likely won’t interest you for very long.`**
+
+### Skills an actuarial analyst needs
+Not everyone is cut out for the life of an actuarial analyst; it takes a very special set of skills. Thankfully, many of these skills are not inherent and can be developed through determination and hard work. These necessary skills are: 
+
++ Specialized math knowledge in calculus, statistics, and probability
++ Analytical, project management, and problem solving skills
++ Finance, accounting, economics
++ Interpersonal communication
+
+Computer skills such as simple coding, formulating spreadsheets, running statistical analysis programs, database manipulation, and programming languages
+An actuarial analyst must be self-motivated, creative, both independent and collaborative at times, and have a strong sense of ambition. Having an understanding for the common industries that actuarial analysts are employed in such as insurance, banking, and government can also set you ahead as a candidate in the field.
 
 ## Actuarial Analyst Job Description Template
 We are looking for a dedicated actuarial analyst with a strong statistics background to join our team. You will be using statistical modeling to analyze data relating to mortality, accidents, retirement, finance, etc. Other responsibilities include reporting to actuaries, providing technical support, and verifying the validity of data sources.
