@@ -11,6 +11,15 @@
 
 ### Learn about the key requirements, duties, responsibilities, and skills that should be in an actuarial analyst job description.
 
+### Actuarial science 
+It is a field of mathematics which studies and quantifies financial risk using probability and statistics. Students of actuarial science analyze financial implications of future events using mathematical and statistical methods.
+
+Insurance companies, pension providers and various financial firms employ different types of actuaries to analyze their risks and liabilities, improve their financial decision making and evaluate the impact of financial and economic events.
+
+Many colleges and universities offer a graduate degree in actuarial science which consists of several interrelated subjects like mathematics, statistics, economics, finance, probability theory and computer science.
+
+Getting a degree in actuarial science is challenging. You need to pass a series of actuarial exams that will make you a certified actuary. It requires that you have fairly good technical, mathematical and analytical skills.
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
