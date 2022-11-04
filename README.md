@@ -20,6 +20,44 @@ Many colleges and universities offer a graduate degree in actuarial science whic
 
 Getting a degree in actuarial science is challenging. You need to pass a series of actuarial exams that will make you a certified actuary. It requires that you have fairly good technical, mathematical and analytical skills.
 
+### What Is Financial Risk?
+Financial risk is the possibility of losing money in a business venture or investment. There are several types of financial risks, such as credit risk, liquidity risk, and operational risk. A financial risk is a potential loss of capital to an interested party.
+
+In other words, financial risk is a danger that can translate into the loss of capital. It relates to the odds of money loss. 
+
+In case of a financial risk, there is a possibility that a company’s cash flow might prove insufficient to satisfy its obligations. Some common financial risks are credit, operational, foreign investment, legal, equity, and liquidity risks. 
+
+In government sectors, financial risk implies the inability to control monetary policy and or other debt issues. Learn more about how financial risk is associated with different sectors, be it business, government, market, or individuals. 
+
+#### Types of Risks
+Risk can be referred to like the chances of having an unexpected or negative outcome. Any action or activity that leads to loss of any type can be termed as risk. There are different types of risks that a firm might face and needs to overcome. Widely, risks can be classified into three types: Business Risk, Non-Business Risk, and Financial Risk.
+
++ **Business Risk:** These types of risks are taken by business enterprises themselves in order to maximize shareholder value and profits. As for example, companies undertake high-cost risks in marketing to launch a new product in order to gain higher sales.
++ **Non- Business Risk:** These types of risks are not under the control of firms. Risks that arise out of political and economic imbalances can be termed as non-business risk.
++ **Financial Risk:** Financial Risk as the term suggests is the risk that involves financial loss to firms. Financial risk generally arises due to instability and losses in the financial market caused by movements in stock prices, currencies, interest rates and more.
+
+### Types of Financial Risks
+Risk Types: The different types of risks are categorized in several different ways. Risks are classified into some categories, including market risk, credit risk, operational risk, strategic risk, liquidity risk, and event risk.
+
+Financial risk is one of the high-priority risk types for every business. Financial risk is caused due to market movements and market movements can include a host of factors. Based on this, financial risk can be classified into various types such as Market Risk, Credit Risk, Liquidity Risk, Operational Risk, and Legal Risk.
+
+![image](https://user-images.githubusercontent.com/99672298/199900331-9f1105ae-4672-4534-9460-6d2f0134d729.png)
+
+#### Market Risk:
+This type of risk arises due to the movement in prices of financial instrument. Market risk can be classified as Directional Risk and Non-Directional Risk. Directional risk is caused due to movement in stock price, interest rates and more. Non-Directional risk, on the other hand, can be volatility risks.
+
+#### Credit Risk:
+This type of risk arises when one fails to fulfill their obligations towards their counterparties. Credit risk can be classified into Sovereign Risk and Settlement Risk. Sovereign risk usually arises due to difficult foreign exchange policies. Settlement risk, on the other hand, arises when one party makes the payment while the other party fails to fulfill the obligations.
+
+#### Liquidity Risk:
+This type of risk arises out of an inability to execute transactions. Liquidity risk can be classified into Asset Liquidity Risk and Funding Liquidity Risk. Asset Liquidity risk arises either due to insufficient buyers or insufficient sellers against sell orders and buys orders respectively.
+
+#### Operational Risk:
+This type of risk arises out of operational failures such as mismanagement or technical failures. Operational risk can be classified into Fraud Risk and Model Risk. Fraud risk arises due to the lack of controls and Model risk arises due to incorrect model application.
+
+#### Legal Risk:
+This type of financial risk arises out of legal constraints such as lawsuits. Whenever a company needs to face financial losses out of legal proceedings, it is a legal risk.
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
