@@ -151,6 +151,31 @@ Successful candidates will be those who demonstrate exceptional critical thinkin
 + **Basic knowledge of laws, legal codes, regulations, etc.**
 + **Basic understanding of business and finance.**
 
+## 12 Types Of Actuaries And Their Role Description
+
+Actuarial science is a field of mathematics which studies and quantifies financial risk using probability and statistics. Students of actuarial science analyze financial implications of future events using mathematical and statistical methods.
+
+Insurance companies, pension providers and various financial firms employ different types of actuaries to analyze their risks and liabilities, improve their financial decision making and evaluate the impact of financial and economic events.
+
+Many colleges and universities offer a graduate degree in actuarial science which consists of several interrelated subjects like mathematics, statistics, economics, finance, probability theory and computer science.
+
+Getting a degree in actuarial science is challenging. You need to pass a series of actuarial exams that will make you a certified actuary. It requires that you have fairly good technical, mathematical and analytical skills.
+
+### There are many different types of actuaries employed across various industries with insurance sector being the top recruiter. Let’s have a look at who they are and what they do.
+
++ **Life Insurance Actuary**
++ **Health Insurance Actuary**
++ **Pension Actuary**
++ **Property And Casualty Actuary**
++ **Enterprise Risk Management Actuary**
++ **Investment Actuary**
++ **Finance Actuary**
++ **Pricing Actuary**
++ **Valuation Actuary**
++ **Reinsurance Pricing Actuary**
++ **Corporate Actuary**
++ **Forensic Actuary**
+
 ## Actuarial Analyst Common Interview Questions
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
