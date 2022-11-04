@@ -58,6 +58,15 @@ This type of risk arises out of operational failures such as mismanagement or te
 #### Legal Risk:
 This type of financial risk arises out of legal constraints such as lawsuits. Whenever a company needs to face financial losses out of legal proceedings, it is a legal risk.
 
+### Insurance obligation
+what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
+
+#### What is the meaning by obligation?
+An act of making oneself responsible for doing something(as a promise or contract) that requires one to do something.
+
+#### What is an example of a obligation?
+For example, if you owe or will owe money to anybody, that is one of your financial obligations. Almost any form of payment or financial security represents a financial obligation.
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
