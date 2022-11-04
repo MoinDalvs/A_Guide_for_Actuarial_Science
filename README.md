@@ -176,6 +176,108 @@ Getting a degree in actuarial science is challenging. You need to pass a series 
 + **Corporate Actuary**
 + **Forensic Actuary**
 
+### Life Insurance Actuary
+Among all the actuaries, life insurance actuary is one of the most common. These types of actuaries work for insurance and reinsurance companies which offer products like whole life insurance and term life insurance.
+
+Insurance companies sell thousands of policies every year. Life insurance actuaries help these companies to properly price the life insurance policy and determine the insurance premium for such policies.
+
+Life insurance actuaries use mortality rates to find out the percentage of people that will die in any given year. The mortality rate for any person depends on various factors like age, gender and smoking status.
+
+They use these mortality rates to find out what should be the insurance premium for different policies. Someone who is expected to live more than 30 years will pay lower premium than someone who is expected to live less than 10 years.
+
+Life insurance claims are very hard to predict accurately as these are high cost low frequency claims. There is lot of variability involved in the amount insurance company has to pay each year.
+
+Life insurance actuaries also have to take into account the lapse rate which is the rate at which the policyholders cancel their policies. High frequency of early cancellations can result in high insurance premiums because most of the expenses are incurred at the beginning of the policy.
+
+### Health Insurance Actuary
+Health insurance actuaries work with health insurance companies and help them to predict the actual cost of healthcare covered under insurance contract. These predictions are based on various factors like family history, occupation and geographical location.
+
+Mostly health insurance actuaries are involved in designing group insurance plans which cover employer disability, dental, health and medication. They also provide policies to people who are self employed or employees who are not covered by their employer.
+
+Actuaries that work in disability insurance try to predict how many policyholders will be unable to work each year and how much money insurance company will have to pay these policyholders to replace their lost income.
+
+These types of actuaries also have to determine how soon the policy holder can get back to work because the longer the policyholder is out of work the longer the insurance company have to pay them.
+
+Health insurance claims are fairly easy to predict accurately as these are considered as low cost high frequency claims. Health insurance actuaries use past data in order to predict how much money the policyholders will be spending on prescription drugs, dental benefits and health related sessions.
+
+These types of actuaries use lot of data for analysis and most of the data is collected from policyholders. They also have to take into account the demographics, lapse rates, claim frequency and increasing medication costs.
+
+### Pension Actuary
+Pension actuaries are responsible for calculating the employer’s contribution as well as retirement benefits of pension plan participants. These types of actuaries help the plan sponsors to calculate sufficient balance required to fund the retirement benefits of pension plan participants.
+
+These calculations are based on various assumptions about future events like retirement, disability, death and termination of employment. They also take into account the future economic events like interest rates and increase in salaries.
+
+Pension actuaries do not deal with any insurance product but they create and price investment and annuity products which help the individuals to be financially prepared after retirement. These types of actuaries work with employers to develop retirement pension plans for employees.
+
+Pension actuaries use current interest rates to determine the pricing of annuities. If interest rates rise, then the price of annuity will decrease as the insurance company will be able to earn more form increasing interest rates.
+
+Pension actuaries try to predict how long people will live and how long people will be receiving payments. They also use mortality rates to determine the price of an annuity. Since mortality rates are higher among older people, pension actuaries would expect fewer annuity payments, hence reducing the price of the annuity.
+
+### Property And Casualty Actuary
+Property and casualty actuaries are one of the most common types of general actuaries or non-life actuaries. They work with general insurance companies and help them develop insurance policies that ensure against property loss and liabilities resulting from accidents, natural disasters or any other events.
+
+These types of actuaries use their skills to analyze the risk emerging from climate change, ride sharing, automated vehicles and cyber liability. They are also responsible for pricing, predictive modeling, capital and risk management, strategic and financial management and catastrophe modeling.
+
+Claims under property and casualty insurance are considered as high frequency low severity claims. These types of claims are easy to predict accurately. Vehicle insurance actuaries predict the probability of the policyholder getting into an accident and also the cost of the accident.
+
+Property insurance actuaries determine the likelihood of property getting damaged from flooding, fire, extreme weather and anything else that can cause damage to the property. Such policy also covers for the loss due to theft of the items within the house.
+
+Similar to health insurance actuaries, these types of actuaries also collect most of their data from policyholders. Demographics play an important role and due to high frequency of claims there is lot of data available for analysis.
+
+Companies that provide property and casualty insurance in high crime areas will demand a higher premium for their insurance policies compared to the companies which insures people in low crime areas.
+
+### Enterprise Risk Management Actuary
+Enterprise risk management is a process of identifying critical risks faced by an organization, prioritizing them, quantifying their financial impact and developing organizational solutions to address them.
+
+Primary responsibility of an enterprise risk management actuary is to consolidate all the risks which are faced by the company and determine the financial impact due to those risks. Their skills are not just limited to insurance companies.
+
+One of the examples of an ERM actuary is to determine the cost and the potential impact of negative reputation on the organization. Any negative reputation would result in lower sales, lower revenue and legal charges.
+
+Depending upon the severity, loss of reputation can even force the company to go out of business. The ERM actuary recognizes this and encourages the company to keep enough capital to survive such situations.
+
+This is very important for insurance companies as thousands of people rely on them to collect insurance claims when the time comes. Enterprise risk management can prevent such companies from going out of business and protect their policyholders.
+
+### Investment Actuary
+Investment actuary is an actuary that either manages investments directly or provides an advice on how to manage investments. As with all the actuaries, their main focus tends to be on risk management.
+
+Investment actuaries work in areas like investment banking, investment consulting, investment management and retail financial advice. They are also involved in day to day activities in capital markets, derivative markets, forex and property markets.
+
+Investment actuaries have strong analytical skills and deep understanding about interaction between assets and liabilities which is very important while advising or managing assets backing insurance and pension liabilities.
+
+### Finance Actuary
+Finance actuaries work in areas like corporate finance, mergers and acquisitions, capital management and financial reporting. They have strong understanding about the working of insurance companies and other financial institutions.
+
+Finance actuaries and financial analysts have very similar responsibilities as they both are involved in analyzing the data and reducing the risk of financial troubles. However, finance actuaries work closely with insurance companies whereas financial analysts are more focused on investment strategies.
+
+The job responsibility of a finance actuary includes gathering data, performing calculations, evaluating investment options, determining the likelihood of any specific event occurring and recommending policies or investments to other people.
+
+### Pricing Actuary
+Pricing actuaries are statisticians who primarily work for financial industries or insurance companies. They use their analytical and math skills to determine the price of the products by analyzing data and calculating risks.
+
+These types of actuaries collect and analyze statistical data to determine the claim payout in event of death, serious injury, property loss, disability or claims resulting from any casualties. They use this data to develop profitable yet competitive product pricing.
+
+The decisions made by pricing actuaries should be high enough to cover the expenses and cost associated with insurance claims and to maximize the returns for insurance company. They are also involved in developing the policies and plans for new products and designing financially sound insurance and pension plans.
+
+### Valuation Actuary
+Valuation actuaries are responsible for calculating the reserves for life insurance and annuity companies, calculating the liabilities for financial statements and determining the valuation of the companies involved in mergers and acquisitions.
+
+They ensure that the insurance company has enough reserves to pay for the expenses and claims that will be due in future. Once reserves are calculated they are also responsible for creating the source of earnings.
+
+These types of actuaries use different valuation models to determine the reserves required by insurance company. In order to keep these valuation models up to date and accurate, they have to update the assumptions used in these models on an annual basis.
+
+### Reinsurance Pricing Actuary
+Like primary insurance, reinsurance is also a mechanism to spread out the risk. The reinsurer takes on some portion of the risk assumed by the primary insurer and charges an appropriate premium for that.
+
+The main difference between reinsurance and primary insurance is that reinsurance contracts are more favorable to the buyer. The reinsurance pricing actuaries are responsible for estimating the risk and calculating the pricing of reinsurance contracts.
+
+### Corporate Actuary
+Corporate actuary is mostly involved either with product development or with financial reporting and valuation. They have special financial knowledge to analyze the results, feedback and the product pricing process.
+
+Corporate actuaries also involved in corporate mergers and acquisitions, expense management, risk management, capital management, asset liability management and also in developing new performance measures for the company.
+
+### Forensic Actuary
+Forensic actuaries have a key role to play in providing litigation support in insurance and reinsurance cases. They serve as an expert witness where loss reserves and pricing issues are important. They can also act as arbitrators while resolving a dispute for insurance policy or reinsurance contract.
+
 ## Actuarial Analyst Common Interview Questions
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
