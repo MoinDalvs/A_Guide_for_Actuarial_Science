@@ -404,7 +404,6 @@ Forensic actuaries have a key role to play in providing litigation support in in
 ![03 11 2022_19 18 38_REC](https://user-images.githubusercontent.com/99672298/199759739-e5dd9ea7-9e29-4c9f-b5f3-9be218a39844.png)
 ![03 11 2022_19 19 10_REC](https://user-images.githubusercontent.com/99672298/199759754-149cf97a-b4e9-48ca-b0a4-7caab9fc718d.png)
 ![03 11 2022_19 19 47_REC](https://user-images.githubusercontent.com/99672298/199759766-039c29e4-58b0-4212-9851-a8cdb474d7c0.png)
-![03 11 2022_19 19 47_REC](https://user-images.githubusercontent.com/99672298/199759779-3952e4b1-364b-4cad-a47a-2481f4767019.png)
 ![03 11 2022_19 20 21_REC](https://user-images.githubusercontent.com/99672298/199759904-ce20a0d0-5598-42a4-9d3e-77d62666cac2.png)
 ![03 11 2022_19 21 03_REC](https://user-images.githubusercontent.com/99672298/199759806-bfb87ca6-7dc2-4345-8570-177d95d76d4d.png)
 ![03 11 2022_19 22 03_REC](https://user-images.githubusercontent.com/99672298/199759932-47ba1235-c2a2-4258-b66a-57d457ba3f05.png)
