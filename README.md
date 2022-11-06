@@ -67,6 +67,36 @@ An act of making oneself responsible for doing something(as a promise or contrac
 #### What is an example of a obligation?
 For example, if you owe or will owe money to anybody, that is one of your financial obligations. Almost any form of payment or financial security represents a financial obligation.
 
+### What Is Reinsurance?
+Reinsurance is also known as insurance for insurers or stop-loss insurance. Reinsurance is the practice whereby insurers transfer portions of their risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an insurance claim.
+
+The party that diversifies its insurance portfolio is known as the ceding party. The party that accepts a portion of the potential obligation in exchange for a share of the insurance premium is known as the reinsurer.
+
+### How Reinsurance Works
+Reinsurance allows insurers to remain solvent(having assets in excess of liabilities; able to pay one's debts) by recovering some or all amounts paid to claimants. Reinsurance reduces the net liability on individual risks and catastrophe protection from large or multiple losses. The practice also provides ceding companies, those that seek reinsurance, the capacity to increase their underwriting capabilities in terms of the number and size of risks.
+
+According to the Insurance Information Institute, Hurricane Andrew caused $15.5 billion in damage in Florida in 1992, causing seven U.S. insurance companies to become insolvent(unable to pay debts owed).
+
+By spreading risk, an individual insurance company can take on clients whose coverage would be too great of a burden for the single insurance company to handle alone. When reinsurance occurs, the premium paid by the insured is typically shared by all of the insurance companies involved.
+
+If one company assumes the risk on its own, the cost could bankrupt or financially ruin the insurance company and possibly not cover the loss for the original company that paid the insurance premium.
+
+For example, consider a massive hurricane that makes landfall in Florida and causes billions of dollars in damage. If one company sold all the homeowners insurance, the chance of it being able to cover the losses would be unlikely. Instead, the retail insurance company spreads parts of the coverage to other insurance companies (reinsurance), thereby spreading the cost of risk among many insurance companies.
+
+Insurers purchase reinsurance for four reasons: To limit liability on a specific risk, to stabilize loss experience, to protect themselves and the insured against catastrophes, and to increase their capacity.  But reinsurance can help a company by providing the following:
+
++ **Risk Transfer:** Companies can share or transfer specific risks with other companies.
++ **Arbitrage:** Additional profits can be garnered by purchasing insurance elsewhere for less than the premium the company collects from policyholders.
++ **Capital Management:** Companies can avoid having to absorb large losses by passing risk; this frees up additional capital.
++ **Solvency Margins:** The purchase of surplus relief insurance allows companies to accept new clients and avoid the need to raise additional capital.
++ **Expertise:** The expertise of another insurer can help a company obtain a higher rating and premium.
+
+![image](https://user-images.githubusercontent.com/99672298/200164146-4369d068-0755-4780-8cb6-e37e6ffa1f80.png)
+
+#### Reinsurance occurs when multiple insurance companies share risk by purchasing insurance policies from other insurers to limit their own total loss in case of disaster. Described as "insurance of insurance companies" by the Reinsurance Association of America, the idea is that no insurance company has too much exposure to a particularly large event or disaster
+
+![image](https://user-images.githubusercontent.com/99672298/200164282-e90dfcda-6ce9-4053-bdab-c152eecfe339.png)
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
