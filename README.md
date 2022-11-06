@@ -97,6 +97,33 @@ Insurers purchase reinsurance for four reasons: To limit liability on a specific
 
 ![image](https://user-images.githubusercontent.com/99672298/200164282-e90dfcda-6ce9-4053-bdab-c152eecfe339.png)
 
+### What is the difference between “P&C” and “Life Insurance”?
+Insurance companies provide a guaranteed payment for an unforeseen future event. The party receiving the payment, the insured, pays a premium for this guarantee. Insurance companies also generate investment income by investing the cash premiums received in the financial markets.
+
+Although this basic concept remains constant throughout the sector, the types of events that are covered by each insurance company vary and so do the associated risks and risk mitigation strategies.
+
+Property and casualty (P&C) insurance, also known as general insurance, is a type of insurance that covers damages to property or a business.  This umbrella term covers multiple types of insurance such as auto insurance, home insurance, commercial insurance, and marine insurance.  The main risk associated with this sector is underwriting risk which is the risk that income from policies may not be sufficient to cover claims and is usually managed using reinsurance.
+
+Life insurance covers the risk of the death of a policyholder. The policy owner selects beneficiaries who will receive payments upon the policy owner’s death in exchange for premiums paid to the insurance company. The main risk in this sector is longevity risk, which has to do with the uncertainty of the estimated life expectancy of the policyholders. To manage this risk, life insurance policies generally also provide retirement products, which carry the inverse risk to longevity risk, known as mortality risk.
+
+Beyond the above-mentioned differences, the time horizon between the two varies significantly as well; P&C insurance lasts for a few years, whereas life insurance policies last for decades.
+
+![image](https://user-images.githubusercontent.com/99672298/200165450-3661aa8b-1628-45ee-bd05-14177112a18d.png)
+
+### P&C Insurance Risks
+One of the major risks that P&C insurance companies face are catastrophes – hurricanes, floods, and earthquakes. These create underwriting risks where the premiums may not be sufficient to cover future claims. Stop-loss reinsurance is important for managing this risk. Stop-loss reinsurance is a type of excess of loss reinsurance wherein the reinsurer is liable for the insured’s losses incurred over a certain period (usually a year) that exceed a specified dollar amount or percentage of some business measure, such as earned premiums written, up to the policy limit.
+
+P&C insurers also face market risk through their investment portfolio, where changes in market conditions can affect their investment portfolio. This is managed by having a diverse portfolio which reduces the effect of adverse movements within single assets within the portfolio.
+
+### Life Insurance Risks
+Actuaries working for life insurance companies use mortality tables to make informed assumptions of the expected lifespan of their policyholders. Life insurance companies subsequently face longevity risk and mortality risk.
+
+Longevity risk refers to the chance that life expectancies and actual survival rates exceed projections or pricing assumptions, resulting in greater-than-anticipated cash flow needs on the part of insurance companies. This risk is usually managed with reinsurance and by diversifying the range of products offered.
+
+The mortality risk is the risk that an insurance company can suffer financially because too many of their life insurance policyholders die before their expected lifespans. To mitigate against this risk,  life insurance companies sell retirement products. Retirement products provide a natural hedge against mortality risk.
+
+Life insurance companies also face interest rate risk, a type of market risk, on both investment portfolios and future payments to beneficiaries. Since payments are guaranteed long-term, the present value of the payments are affected by changes in future interest rates. This risk is managed by ensuring that cash flow from their investments are well-matched with expected pay-outs on policies. This is achieved by making investments that have similar long-term time horizons to the insurance products.
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
