@@ -150,9 +150,6 @@ From Summary of IAIS positions
 + any valuation or modelling assumptions should be based
   + on current data
   + on the most credible current assumptions
-
-From Summary of IAIS positions
-
 + Similar insurance obligations with similar risk profiles should result in the determination of similar values for technical provisions
 + The credit standing of an insurer should not be considered in the valuation of its insurance liabilities
 + The amount of the technical provisions should be consistent with an exit of the insurer, in the sense that any transfer of insurance obligations , based on the technical provisions, to another newly licenced insurer would result in the receiving insurer being capable of settling the obligations.
