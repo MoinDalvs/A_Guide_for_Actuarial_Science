@@ -124,6 +124,40 @@ The mortality risk is the risk that an insurance company can suffer financially 
 
 Life insurance companies also face interest rate risk, a type of market risk, on both investment portfolios and future payments to beneficiaries. Since payments are guaranteed long-term, the present value of the payments are affected by changes in future interest rates. This risk is managed by ensuring that cash flow from their investments are well-matched with expected pay-outs on policies. This is achieved by making investments that have similar long-term time horizons to the insurance products.
 
+### Definition of Technical Provisions
+
+Technical provisions represent the amount that an insurer( a person or company that contracts to indemnify another in the event of loss or damage) requires to fulfil its insurance obligations and settle all expected commitments to policyholders and other beneficiaries arising over the lifetime of the insurer's portfolio of insurance contracts.
+
+#### A starting point
+
++ Within a prudent insurer, management would record details of
++ Amount paid on each claim , both total paid and the history of payments
++ Amount and date of the case reserve or case estimate, being the difference between payments made and the estimated ultimate or final loss for each claim either
+  + an estimate based of the judgement of an experienced person within the insurer , typically for medium and large claims,
+  + an average claim amount, typically for smaller claims or as an initial amount until the claim is reviewed
++ These case estimates or incurred loss (i.e. paid loss plus case estimate) made be used to prioritise or allocate resources
++ However the total of the case estimates also represents an estimate of technical provisions in respect of claims notified.
++ The importance of technical provisions to the maintenance of solvency has led to the development of other estimation methods.
+
+#### Key Featues of Technical provisions
+
+From Summary of IAIS positions
+
++ comprise two components
++ the current estimate of the costs of meeting the insurance obligations (Current Estimate)
++ margin for risk (Margin over Current Estimate or MOCE)
++ undertaken on a market-consistent basis
++ any valuation or modelling assumptions should be based
+  + on current data
+  + on the most credible current assumptions
+
+From Summary of IAIS positions
+
++ Similar insurance obligations with similar risk profiles should result in the determination of similar values for technical provisions
++ The credit standing of an insurer should not be considered in the valuation of its insurance liabilities
++ The amount of the technical provisions should be consistent with an exit of the insurer, in the sense that any transfer of insurance obligations , based on the technical provisions, to another newly licenced insurer would result in the receiving insurer being capable of settling the obligations.
++ a prudent, reliable and objective manner to allow comparison across insurers worldwide
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
