@@ -61,6 +61,20 @@ This type of financial risk arises out of legal constraints such as lawsuits. Wh
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
+**Obligation #1:** An insurer must treat its insured’s interests with the same consideration it gives its own interests. This means that a claims adjuster must give the policy holder the benefit of the doubt. The claims adjuster should be looking for reasons to find coverage, not for reasons to deny coverage. The claims adjuster should be looking for reasons to pay the claim, not reasons to deny it. Unfortunately, sometimes insurance companies lose sight of this fundamental rule.
+
+**Obligation #2:** The claims adjuster has a duty to help the policy holder with the claim. A claims adjuster should help explain coverage and available benefits to the policy holder and should take other steps to help bring the claim to a prompt and fair conclusion. Claims adjusters should not view the process as insurance company versus policy holder.
+
+**Obligation #3:** The insurer must promptly and fairly investigate every claim. This obligation may best be illustrated by an example. A firm handled a case where the claims adjuster for the client’s insurance company did not obtain medical records, interview witnesses, or evaluate the claim in any meaningful way for a period of 2 ½ years. They did not promptly and fairly investigate the client’s claim.
+
+**Obligation #4:** If payment is owed, an insurer must promptly pay the claim. In Wisconsin, an insurer must pay a claim that is owed within 30 days, or the insurer may be subject to paying the policy holder 12 percent interest per year. Even though this is the law, there is no good reason for an insurance company to hold payment for 30 days if it owes benefits under a policy.
+
+**Obligation #5:** If the insurer denies the claim, it must give an explanation to the policy holder. An insurance company cannot simply refuse payment of a policy holder’s claim without an explanation. A policy holder has a right to know the reasons that payment of a claim is being denied so that he or she can respond appropriately.
+
+**Obligation #6:** The insurer must disclose significant facts to its policy holder. Throughout its investigation into a claim, the insurer must tell the policy holder about significant facts or circumstances it uncovers. An insurer has investigators and others experienced in the claims process. They are in the best position to conduct an investigation. In fact, if a policy holder takes certain actions or compromises an investigation, an insurer may argue that coverage has been voided. Because of the unique nature of the insurer/insured relationship and the realities of the claims process, an insurance company must disclose significant facts to its policy holder.
+
+Again, insurance companies must treat their insureds fairly and reasonably. If an insurer violates one or more of its obligations to you, may have committed bad faith.
+
 #### What is the meaning by obligation?
 An act of making oneself responsible for doing something(as a promise or contract) that requires one to do something.
 
