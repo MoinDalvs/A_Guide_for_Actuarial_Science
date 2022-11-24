@@ -462,3 +462,40 @@ Forensic actuaries have a key role to play in providing litigation support in in
 ![03 11 2022_19 25 01_REC](https://user-images.githubusercontent.com/99672298/199760085-4a2af573-462f-4a4f-a706-c3156a409025.png)
 ![03 11 2022_19 25 19_REC](https://user-images.githubusercontent.com/99672298/199760098-24e61fae-e18d-48c5-a2f2-9e5a80730c64.png)
 
+___
+
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
+     
+     moindalvs@gmail.com
+
+<p align="center">
+<a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/DalvsHubot"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/moin-dalvi-277b0214a//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
+[Table of Content](#0.1)
+
+<div style="display:fill;
+            border-radius: false;
+            border-style: solid;
+            border-color:#000000;
+            border-style: false;
+            border-width: 2px;
+            color:#CF673A;
+            font-size:15px;
+            font-family: Georgia;
+            background-color:#E8DCCC;
+            text-align:center;
+            letter-spacing:0.1px;
+            padding: 0.1em;">
+
+**<h2>♡ Thank you for taking the time ♡**
