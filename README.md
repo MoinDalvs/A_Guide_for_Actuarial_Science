@@ -169,6 +169,52 @@ From Summary of IAIS positions
 + The amount of the technical provisions should be consistent with an exit of the insurer, in the sense that any transfer of insurance obligations , based on the technical provisions, to another newly licenced insurer would result in the receiving insurer being capable of settling the obligations.
 + a prudent, reliable and objective manner to allow comparison across insurers worldwide
 
+### Wholesale and Retail Insurance?
+
+#### Wholesale Insurance
+Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
+
+Wholesale insurance is normally offered by nonadmitted carriers. These providers are also known as surplus line or excess line carriers. These companies don't necessarily have to follow regulations outlined for insurance companies by the state. As such, policies offered by nonadmitted carriers can be risky because they may not guarantee claims if the insurer becomes insolvent.
+
+![image](https://user-images.githubusercontent.com/99672298/206905920-1c3e2286-9083-405e-a00a-221139a9b384.png)
+
+#### Products for small businesses offered through wholesale insurance vary and generally include the following:
+
++ Environmental liability products
++ High-risk products for chemical and flammable incidents
++ Pharmaceutical and medical products against product failure
++ Privacy protection products against identity theft
++ Products that are critical to safety for transportation
++ Construction-related structural integrity products
+
+Insurance wholesalers rarely have direct contact with insured parties except when it comes to employee benefit and health plans. Because nonadmitted carriers don't operate under state insurance laws, they have more pricing flexibility to ensure against unusual circumstances such as catastrophic events. While there is a certain risk that comes with some nonadmitted carriers, the fact that they operate outside of state insurance laws shouldn't be a red flag of financial instability. State licensing, filing, and reporting requirements are simply different for these carriers. Larger nonadmitted carriers are usually well-capitalized subsidiaries of major financial services companies.
+
+#### Retail Insurance Markets
+The retail insurance market is generally comprised of "licensed producers" generating insurance policies that are underwritten by "admitted carriers." When you're in the market for p/c insurance, in the usual process, your retail agent or broker (producer) finds a policy from insurance carriers licensed to do business in your state. These licensed carriers, called admitted carriers, are under stringent regulatory supervision by your state's Department of Insurance. Insurance producers are also licensed, and are likewise under stringent regulatory supervision by your state's Department of Insurance.
+
+#### Wholesale Insurance Markets
+Producers are sometimes unable to find admitted carriers because the risks don't conform to carrier risk guidelines. In other instances, the coverage might entail expertise beyond the capability of the producer.
+
+In these instances, the producer will enlist the help of a wholesale insurance broker/agent to find a carrier, or enlist the help of a broker/agent having specialized capabilities. This new broker/agent, called a surplus line producer, acts as the middleman between the "retail" producer and the carrier with the needed resources, according to IRMI. This new middleman is called a surplus line producer or "wholesaler."
+
+Wholesaler insurance companies must have a surplus lines license because their market is quite unique. Insurance carriers operating in the wholesale market are called "non-admitted carriers." They are typically not licensed by your state's Department of Insurance. They're also called excess and surplus line carriers or "wholesale carriers..
+
+#### Wholesale Insurance vs. Retail Insurance
+Wholesale insurance coverage is unlike the retail insurance market. Most individuals are used to the retail insurance market where they buy auto, home, and life insurance. Policies in this market are normally underwritten by carriers who are admitted, or companies that are licensed in the state in which the policy is sold. Admitted carriers are regulated by the state, and broker-agents are also held to regulatory standards by the state as well.
+
+#### How the Wholesale Market Works
+The wholesale market provides coverage for risks outside of the risk preference of admitted carriers, according to Sapling. Some wholesalers also provide specialized capabilities such as administering employee benefit and health plans for small businesses or in a particular line of coverage or in a line of coverage that is unusual and/or have greater access to or influence with certain insurance markets, which is especially valuable when dealing with a difficult-to-place risk.
+
+Wholesalers rarely have direct contact with the insured except in instances such as employee benefit and health plans. Because non-admitted carriers don't operate under state insurance laws, they have more pricing flexibility to ensure against unusual circumstances such as catastrophic events.
+
+That non-admitted carriers operate outside of state insurance laws is not red flag signaling financial instability. State licensing, filing and reporting requirements are simply different for non-admitted carriers. Further, larger non-admitted carriers are usually well-capitalized subsidiaries of major financial services companies.
+
+Due diligence however, demands that you check A.M. Best to determine the financial stability of any insurance company you're considering as your carrier.
+
+Wholesale insurance agents place business brought to them by retail agents. Unlike a retail broker, wholesale brokers have a direct working relationship with the insurer, whereas the retail agent who produced the business does not. The same broker can function as a retailer or wholesaler, depending on the specific situation. 
+
+There are two types of wholesale brokers: managing general agents and surplus lines brokers. The latter work with retail agents and insurers to obtain coverage for the insured. Unlike a managing general agent, a surplus lines broker does not have binding authority from the insurer.
+
 ### What is an actuarial analyst?
 Before we talk about what an actuarial analyst is, it’s important that you first understand what an actuary is. Because, an actuarial analyst is just the job title of someone that is working in a role as an actuary, but isn’t yet a fully qualified actuary.
 
