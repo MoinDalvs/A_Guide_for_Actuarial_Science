@@ -7,7 +7,7 @@
 
 **The day-to-day role of an actuarial analyst involves quite a bit of mathematical work and analysis. It’s a fairly competitive field, meaning that commitment and strong collegiate performance can give you a leg up when searching for a job.**
 
-## If you’re looking for a professional career that involves solving problems, working with tons of numbers, and analysing data, well, the becoming an actuarial analyst may just be the job for you!
+## If you’re looking for a professional career that involves solving problems, working with tons of numbers, and analysing data, well, then becoming an actuarial analyst may just be the job for you!
 
 ### Learn about the key requirements, duties, responsibilities, and skills that should be in an actuarial analyst job description.
 
