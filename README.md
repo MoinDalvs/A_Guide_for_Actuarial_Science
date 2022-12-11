@@ -20,6 +20,11 @@ Many colleges and universities offer a graduate degree in actuarial science whic
 
 Getting a degree in actuarial science is challenging. You need to pass a series of actuarial exams that will make you a certified actuary. It requires that you have fairly good technical, mathematical and analytical skills.
 
+### What is Risk?
+Risk is an possibility of an adverse deviation from a desired outcome with uncertainty of expected or hoped for. Risk is the chance or probability that a person will be harmed or experience an adverse health effect if exposed to a hazard. It may also apply to situations with property or equipment loss, or harmful effects on the environment.
+
+Risk probability, or likelihood, is the possibility of a risk event occurring. The likelihood can be expressed in both a qualitative and quantitative manner. When discussing probability in a qualitative manner, terms such as frequent, possible, rare etc. are used
+
 ### What Is Financial Risk?
 Financial risk is the possibility of losing money in a business venture or investment. There are several types of financial risks, such as credit risk, liquidity risk, and operational risk. A financial risk is a potential loss of capital to an interested party.
 
