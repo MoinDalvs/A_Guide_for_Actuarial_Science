@@ -187,6 +187,59 @@ This principle says that as an owner, it is obligatory on the part of the insure
 
 Example – If a fire breaks out in your factory, you should take reasonable steps to put out the fire. You cannot just stand back and allow the fire to burn down the factory because you know that the insurance company will compensate for it.
 
+### Characteristics of an Ideally Insurable Risk
+Private insurers generally insure only pure risks. However, some pure risks are not privately insurable. From the viewpoint of a private insurer, an insurable risk ideally should have certain characteristics. There are ideally six characteristics of an insurable risk:
+
++ **There must be a large number of exposure units.**
+
++ **The loss must be accidental and unintentional.**
+
++ **The loss must be determinable and measurable.**
+
++ **The loss should not be catastrophic.**
+
++ **The chance of loss must be calculable.**
+
++ **The premium must be economically feasible.**
+
+Most insurance providers only cover pure risks, or those risks that embody most or all of the main elements of insurable risk. These elements are "due to chance," definiteness and measurability, statistical predictability, lack of catastrophic exposure, random selection, and large loss exposure.
+
+#### Pure Risk vs. Speculative Risk
+Insurance companies normally only indemnify against pure risks, otherwise known as event risks. A pure risk includes any uncertain situation where the opportunity for loss is present and the opportunity for financial gain is absent.
+
+Speculative risks are those that might produce a profit or loss, namely business ventures or gambling transactions. Speculative risks lack the core elements of insurability and are almost never insured.
+
+Examples of pure risks include natural events, such as fires or floods, or other accidents, such as an automobile crash or an athlete seriously injuring his or her knee. Most pure risks can be divided into three categories: personal risks that affect the income-earning power of the insured person, property risks, and liability risks that cover losses resulting from social interactions. Not all pure risks are covered by private insurers.
+
+#### Due to Chance
+An insurable risk must have the prospect of accidental loss, meaning that the loss must be the result of an unintended action and must be unexpected in its exact timing and impact.
+
+The insurance industry normally refers to this as "due to chance." Insurers only pay out claims for loss events brought about through accidental means, though this definition may vary from state to state. It protects against intentional acts of loss, such as a landlord burning down his or her own building.
+
+#### Definiteness and Measurability
+For a loss to be covered, the policyholder must be able to demonstrate a definite proof of loss, normally in the form of bills in a measurable amount. If the extent of the loss cannot be calculated or cannot be fully identified, then it is not insured. Without this information, an insurance company can neither produce a reasonable benefit amount or premium cost.
+
+![image](https://user-images.githubusercontent.com/99672298/207027058-46de9046-1fcc-4cbb-9ad3-099293e70157.png)
+
+#### Statistically Predictable
+Insurance is a game of statistics, and insurance providers must be able to estimate how often a loss might occur and the severity of the loss. Life and health insurance providers, for example, rely on actuarial science and mortality and morbidity tables to project losses across populations.(the word morbidity refers to the incidence or prevalence of a disease in a specific population or location (sometimes called the morbidity rate), while the word mortality refers to relative frequency of deaths in a specific population or location (sometimes called the mortality rate).)
+
+##### What Is the Morbidity Rate?
+Morbidity rate refers to the rate at which a disease or illness occurs in a population and can be used to determine the health of a population and its healthcare needs. Illnesses can range from acute to chronic, long-lasting conditions.
+
+Morbidity rates are also used in actuarial professions, such as health insurance, life insurance, and long-term care insurance, to determine the premiums to charge customers. This rate shouldn't be confused with the mortality rate, another metric used to highlight the frequency of death in a given population.
+
+#### Not Catastrophic
+Standard insurance does not guard against catastrophic perils. It might be surprising to see an exclusion against catastrophes listed among the core elements of an insurable risk, but it makes sense given the insurance industry's definition of catastrophic, often abbreviated as "cat."
+
+There are two kinds of catastrophic risk. The first is present whenever all or many units within a risk group, such as the policyholders in that class of insurance, are all be exposed to the same event. Examples of this kind of catastrophic risk include nuclear fallout, hurricanes, or earthquakes.
+
+The second kind of catastrophic risk involves any unpredictably large loss of value not anticipated by either the insurer or the policyholder. Perhaps the most infamous example of this kind of catastrophic event occurred during the terrorist attacks on Sept. 11, 2001.
+
+Some insurance companies specialize in catastrophic insurance, and many insurance companies enter into reinsurance agreements to guard against catastrophic events. Investors can even purchase risk-linked securities, called "cat bonds," which raise money for catastrophic risk transfers.
+
+#### 
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
@@ -319,21 +372,6 @@ Business owners are exposed to a range of liabilities, any of which can subject 
 + **Umbrella liability policies** are personal liability policies designed to protect against catastrophic losses. Coverage generally kicks in when the liability limits of other insurance are reached.
 + **Commercial liability insurance** is a standard commercial general liability policy also known as comprehensive general liability insurance. It provides insurance coverage for lawsuits arising from injury to employees and the public, property damage caused by an employee, as well as injuries suffered by the negligent action of employees. The policy may also cover infringement on intellectual property, slander, libel, contractual liability, tenant liability, and employment practices liability.
 + **Comprehensive general liability policies** are tailor-made for any small or large business, partnership or joint venture businesses, a corporation or association, an organization, or even a newly acquired business. Insurance coverage includes bodily injury, property damage, personal and advertising injury, medical payments, and premises and operations liability. Insurers provide coverage for compensatory and general damages for lawsuits but not punitive damages.
-
-### Characteristics of an Ideally Insurable Risk
-Private insurers generally insure only pure risks. However, some pure risks are not privately insurable. From the viewpoint of a private insurer, an insurable risk ideally should have certain characteristics. There are ideally six characteristics of an insurable risk:
-
-+ There must be a large number of exposure units.
-
-+ The loss must be accidental and unintentional.
-
-+ The loss must be determinable and measurable.
-
-+ The loss should not be catastrophic.
-
-+ The chance of loss must be calculable.
-
-+ The premium must be economically feasible.
 
 ### Definition of Technical Provisions
 
