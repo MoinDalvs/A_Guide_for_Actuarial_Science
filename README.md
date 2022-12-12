@@ -120,6 +120,53 @@ In simple words, insurance is a contract, a legal agreement between two parties,
 
 The contract of insurance between an insurer and insured is based on certain principles, let us know the principles of insurance in detail.
 
+### Principles of Insurance
+The concept of insurance is risk distribution among a group of people. Hence, cooperation becomes the basic principle of insurance.
+
+To ensure the proper functioning of an insurance contract, the insurer and the insured have to uphold the 7 principles of Insurances mentioned below:
+
++ Utmost Good Faith
++ Proximate Cause
++ Insurable Interest
++ Indemnity
++ Subrogation
++ Contribution
++ Loss Minimization
+
+Let us understand each principle of insurance with an example.
+
+#### Principle of Utmost Good Faith
+
+The fundamental principle is that both the parties in an insurance contract should act in good faith towards each other, i.e. they must provide clear and concise information related to the terms and conditions of the contract.
+
+The Insured should provide all the information related to the subject matter, and the insurer must give precise details regarding the contract.
+
+Example – Jacob took a health insurance policy. At the time of taking insurance, he was a smoker and failed to disclose this fact. Later, he got cancer. In such a situation, the Insurance company will not be liable to bear the financial burden as Jacob concealed important facts.
+
+#### Principle of Proximate Cause
+
+This is also called the principle of ‘Causa Proxima’ or the nearest cause. This principle applies when the loss is the result of two or more causes. The insurance company will find the nearest cause of loss to the property. If the proximate cause is the one in which the property is insured, then the company must pay compensation. If it is not a cause the property is insured against, then no payment will be made by the insured. 
+
+Example – 
+
++ **Due to fire, a wall of a building was damaged, and the municipal authority ordered it to be demolished. While demolition the adjoining building was damaged. The owner of the adjoining building claimed the loss under the fire policy. The court held that fire is the nearest cause of loss to the adjoining building, and the claim is payable as the falling of the wall is an inevitable result of the fire.**
+
++ **In the same example, the wall of the building damaged due to fire, fell down due to storm before it could be repaired and damaged an adjoining building. The owner of the adjoining building claimed the loss under the fire policy. In this case, the fire was a remote cause, and the storm was the proximate cause; hence the claim is not payable under the fire policy.**
+
+#### Principle of Insurable interest
+
+This principle says that the individual (insured) must have an insurable interest in the subject matter. Insurable interest means that the subject matter for which the individual enters the insurance contract must provide some financial gain to the insured and also lead to a financial loss if there is any damage, destruction or loss. 
+
+Example – the owner of a vegetable cart has an insurable interest in the cart because he is earning money from it. However, if he sells the cart, he will no longer have an insurable interest in it. 
+
+To claim the amount of insurance, the insured must be the owner of the subject matter both at the time of entering the contract and at the time of the accident. 
+
+#### Principle of Indemnity
+
+This principle says that insurance is done only for the coverage of the loss; hence insured should not make any profit from the insurance contract. In other words, the insured should be compensated the amount equal to the actual loss and not the amount exceeding the loss. The purpose of the indemnity principle is to set back the insured at the same financial position as he was before the loss occurred. Principle of indemnity is observed strictly for property insurance and not applicable for the life insurance contract.
+
+Example – The owner of a commercial building enters an insurance contract to recover the costs for any loss or damage in future. If the building sustains structural damages from fire, then the insurer will indemnify the owner for the costs to repair the building by way of reimbursing the owner for the exact amount spent on repair or by reconstructing the damaged areas using its own authorized contractors.
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
