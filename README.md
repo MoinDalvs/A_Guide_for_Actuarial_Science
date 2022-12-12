@@ -270,8 +270,6 @@ General Insurance can cover almost anything, and everything but the five key typ
 + Motor Insurance: offers financial protection to motor vehicles from damages due to accidents, fire, theft, or natural calamities.
 + Home Insurance: compensates the damage caused to home due to man-made disasters, natural calamities, or other threats
 
-
-
 ### What is the difference between “P&C” and “Life Insurance”?
 Insurance companies provide a guaranteed payment for an unforeseen future event. The party receiving the payment, the insured, pays a premium for this guarantee. Insurance companies also generate investment income by investing the cash premiums received in the financial markets.
 
@@ -321,6 +319,21 @@ Business owners are exposed to a range of liabilities, any of which can subject 
 + **Umbrella liability policies** are personal liability policies designed to protect against catastrophic losses. Coverage generally kicks in when the liability limits of other insurance are reached.
 + **Commercial liability insurance** is a standard commercial general liability policy also known as comprehensive general liability insurance. It provides insurance coverage for lawsuits arising from injury to employees and the public, property damage caused by an employee, as well as injuries suffered by the negligent action of employees. The policy may also cover infringement on intellectual property, slander, libel, contractual liability, tenant liability, and employment practices liability.
 + **Comprehensive general liability policies** are tailor-made for any small or large business, partnership or joint venture businesses, a corporation or association, an organization, or even a newly acquired business. Insurance coverage includes bodily injury, property damage, personal and advertising injury, medical payments, and premises and operations liability. Insurers provide coverage for compensatory and general damages for lawsuits but not punitive damages.
+
+### Characteristics of an Ideally Insurable Risk
+Private insurers generally insure only pure risks. However, some pure risks are not privately insurable. From the viewpoint of a private insurer, an insurable risk ideally should have certain characteristics. There are ideally six characteristics of an insurable risk:
+
++ There must be a large number of exposure units.
+
++ The loss must be accidental and unintentional.
+
++ The loss must be determinable and measurable.
+
++ The loss should not be catastrophic.
+
++ The chance of loss must be calculable.
+
++ The premium must be economically feasible.
 
 ### Definition of Technical Provisions
 
