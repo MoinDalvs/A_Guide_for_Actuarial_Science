@@ -167,6 +167,26 @@ This principle says that insurance is done only for the coverage of the loss; he
 
 Example – The owner of a commercial building enters an insurance contract to recover the costs for any loss or damage in future. If the building sustains structural damages from fire, then the insurer will indemnify the owner for the costs to repair the building by way of reimbursing the owner for the exact amount spent on repair or by reconstructing the damaged areas using its own authorized contractors.
 
+#### Principle of Subrogation
+
+Subrogation means one party stands in for another. As per this principle, after the insured, i.e. the individual has been compensated for the incurred loss to him on the subject matter that was insured, the rights of the ownership of that property goes to the insurer, i.e. the company.
+
+Subrogation gives the right to the insurance company to claim the amount of loss from the third-party responsible for the same.
+
+Example – If Mr A gets injured in a road accident, due to reckless driving of a third party, the company with which Mr A took the accidental insurance will compensate the loss occurred to Mr A and will also sue the third party to recover the money paid as claim. 
+
+#### Principle of Contribution
+
+Contribution principle applies when the insured takes more than one insurance policy for the same subject matter. It states the same thing as in the principle of indemnity, i.e. the insured cannot make a profit by claiming the loss of one subject matter from different policies or companies.
+
+Example – A property worth Rs. 5 Lakhs is insured with Company A for Rs. 3 lakhs and with company B for Rs.1 lakhs. The owner in case of damage to the property for 3 lakhs can claim the full amount from Company A but then he cannot claim any amount from Company B. Now,  Company A can claim the proportional amount reimbursed value from Company B.
+
+#### Principle of Loss Minimisation
+
+This principle says that as an owner, it is obligatory on the part of the insurer to take necessary steps to minimise the loss to the insured property. The principle does not allow the owner to be irresponsible or negligent just because the subject matter is insured.
+
+Example – If a fire breaks out in your factory, you should take reasonable steps to put out the fire. You cannot just stand back and allow the fire to burn down the factory because you know that the insurance company will compensate for it.
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
