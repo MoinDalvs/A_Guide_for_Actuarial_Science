@@ -111,6 +111,15 @@ This type of risk arises out of operational failures such as mismanagement or te
 #### Legal Risk:
 This type of financial risk arises out of legal constraints such as lawsuits. Whenever a company needs to face financial losses out of legal proceedings, it is a legal risk.
 
+### What is Insurance?
+Represented in a form of policy, Insurance is a contract in which the individual or an entity gets the financial protection, in other words, reimbursement from the insurance company for the damage (big or small) caused to their property. 
+
+The insurer and the insured enter a legal contract for the insurance called the insurance policy that provides financial security from the future uncertainties.
+
+In simple words, insurance is a contract, a legal agreement between two parties, i.e., the individual named insured and the insurance company called insurer. In this agreement, the insurer promises to help with the losses of the insured on the happening contingency. The insured, on the other hand, pays a premium in return for the promise made by the insurer.
+
+The contract of insurance between an insurer and insured is based on certain principles, let us know the principles of insurance in detail.
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
