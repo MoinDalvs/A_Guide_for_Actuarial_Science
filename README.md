@@ -25,6 +25,54 @@ Risk is an possibility of an adverse deviation from a desired outcome with uncer
 
 Risk probability, or likelihood, is the possibility of a risk event occurring. The likelihood can be expressed in both a qualitative and quantitative manner. When discussing probability in a qualitative manner, terms such as frequent, possible, rare etc. are used
 
+#### Explanation
+Risk Insurance shall involve assessing the price to be paid to Insurance policyholders who have suffered from the loss that occurred to them, which is covered by the policy. It involves various types of risks such as theft, loss, or damage of property or also may involve someone being injured; there is a chance that something unexpected or harmful may happen at any point in time.
+It evolves in calculating the pay of the financial value for the damages that might occur to the insured property or item that might be lost, injured, or destroyed accidentally or often occur to happen. It also states how much it would cost to replace
+ or repair such an insured item to cover the loss suffered by the policyholder in case of such damage. Insurers shall calculate claims and evaluate their risks.
+ 
+### Types of Risks
+The following are the different types of risk in insurance:
+
+![image](https://user-images.githubusercontent.com/99672298/206967477-a06899bd-f2e1-4a1c-895f-9b6324b19356.png)
+
+#### 1 – Pure Risk
+Pure risk refers to the situation where it is certain that the outcome will lead to loss of the person only or maximum it could lead to the condition of the no loss to the person, but it can never cause profit to the person. An example of pure risk includes the possibility of damage to the house due to natural calamity.
+In case any natural calamity occurs, it will damage the house of the person and its household items, or it will not affect the person’s home and household items. Still, this natural calamity will not give any profit or gain to the person. So, this will fall under the pure risk, and these risks are insurable.
+
+#### 2 – Speculative Risk
+Speculative risk refers to the situation where the direction of the outcome is not specific, i.e., it could lead to a condition of loss, profit, or no-loss. These risks are generally not insurable. An example of speculative risk includes the purchase of the shares of a company by a person.
+Now, the prices of the shares can go in any direction, and a person can make either loss, profit, or no loss, no profit at the time of the sale of those shares. So, this will fall under the Speculative risk.
+
+#### 3 – Financial Risk
+Financial risk refers to the danger in which the outcome of the event is measurable in terms of the money, i.e., any loss that could occur due to the risk can be measured by the concerned person in monetary value. An example of financial risk includes a loss to the goods in the warehouse of the company due to the fire. These risks are insurable and are generally the main subjects of the insurance.
+
+#### 4 – Non-Financial Risk
+Non-Financial risk refers to the risk in which the outcome of the event is not measurable in terms of the money, i.e., any loss that could occur due to the risk cannot be measured by the concerned person in the monetary value. An example of the non-financial risk includes the risk of poor selection of the brand while purchasing mobile phones. These risks are uninsurable since they cannot be measured.
+
+#### 5 – Particular Risk
+Particular risk refers to the risk which arises mainly because of the actions or the interventions of the individual or the group of some individuals. So, the origin of the particular risk by individual-level and impact of the same is felt at a localized level. An example of a specific chance includes an accident on the bus. These risks are insurable and are generally the main subjects of the insurance.
+
+#### 6 – Fundamental Risk
+Fundamental risk refers to the risk which arises due to the causes which are not under the control of any person. So, it can be said that the fundamental risk is impersonal in its origin and the consequences. The impact of these risks is essentially on the group, i.e., it affects the large population. The fundamental risk includes risks on the group by events such as natural calamity, economic slowdown, etc. These risks are insurable.
+
+##### Fundamental risk vs. particular risk
+Fundamental risk is risk that affects entire societies or a large population within a society. Natural disasters, such as earthquakes and hurricanes, fall into the category of fundamental risk, as do phenomena such as inflation and war, which typically affect large numbers of people. In distinction to static risk, fundamental risk may or may not be insurable.
+
+Particular risk, in contrast to fundamental risk, refers to risks that affect an individual, such as a fire that destroys a family home, theft of a car or robbery. Particular risk can be insured.
+
+#### 7 – Static Risk
+Static risk refers to the risk which remains constant over the period and is generally not affected by the business environment. These risks arise from human mistakes or actions of nature. An example of static risk includes the embezzlement of funds in a company by its employees. They are generally easily insurable as they are easy to measure.
+
+#### 8 – Dynamic Risk
+Dynamic risk refers to the risk which arises when there are any changes in the economy. These risks are generally not easy to predict. These changes might bring financial losses to the members of the economy. An example of the dynamic risk includes the changes in the income of the persons in an economy, their tastes, preferences, etc. They are generally not easily insurable.
+
+##### Static risk vs. dynamic risk
+Static risk is a type of pure risk that is predictable, measurable and doesn't change. It is a type of pure risk because it is not chosen and no financial gain can come from static risk.
+
+Insuranceopedia, an online repository of financial information and insurance definitions, defines static risk as "risks that involve losses brought about by acts of nature or by malicious and criminal acts by another person. These losses refer to damage or loss to property or entity that is not caused by the economy." A flood is an example of static risk. According to Insuranceopedia, static risks "are more easily taken care of by insurance coverage because of their relative predictability."
+
+Dynamic risk, in contrast to static risk, is a "risk brought on by sudden and unpredictable changes in the economy," according to Insuranceopedia. This type of risk is difficult to measure, sometimes resulting in sizable losses for individuals and businesses. Insuranceopedia pointed to the COVID-19 pandemic as an example of dynamic risk, not only due its unpredictability, but also its impact on many lines of insurance coverage, including business interruption, trade credit and cyber liability insurance. A recession is another example of a dynamic risk, as well as a fundamental risk.
+
 ### What Is Financial Risk?
 Financial risk is the possibility of losing money in a business venture or investment. There are several types of financial risks, such as credit risk, liquidity risk, and operational risk. A financial risk is a potential loss of capital to an interested party.
 
@@ -34,7 +82,7 @@ In case of a financial risk, there is a possibility that a company’s cash flow
 
 In government sectors, financial risk implies the inability to control monetary policy and or other debt issues. Learn more about how financial risk is associated with different sectors, be it business, government, market, or individuals. 
 
-#### Types of Risks
+#### Types of Financial Risks
 Risk can be referred to like the chances of having an unexpected or negative outcome. Any action or activity that leads to loss of any type can be termed as risk. There are different types of risks that a firm might face and needs to overcome. Widely, risks can be classified into three types: Business Risk, Non-Business Risk, and Financial Risk.
 
 + **Business Risk:** These types of risks are taken by business enterprises themselves in order to maximize shareholder value and profits. As for example, companies undertake high-cost risks in marketing to launch a new product in order to gain higher sales.
