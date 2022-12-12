@@ -240,6 +240,38 @@ Insurers purchase reinsurance for four reasons: To limit liability on a specific
 
 ![image](https://user-images.githubusercontent.com/99672298/200164282-e90dfcda-6ce9-4053-bdab-c152eecfe339.png)
 
+### Types Of Insurance
+There are two broad categories of insurance:
+
+#### 1. Life Insurance 
+#### 2. General insurance
+
+**Life Insurance –** The insurance policy whereby the policyholder (insured) can ensure financial freedom for their family members after death. It offers financial compensation in case of death or disability. 
+
+While purchasing the life insurance policy, the insured either pay the lump-sum amount or makes periodic payments known as premiums to the insurer. In exchange, of which the insurer promises to pay an assured sum to the family if insured in the event of death or disability or at maturity. 
+
+Depending on the coverage, life insurance can be classified into the below-mentioned types:
+
++ Term Insurance: Gives life coverage for a specific time period.
++ Whole life insurance: Offer life cover for the whole life of an individual
++ Endowment policy: a portion of premiums go toward the death benefit, while the remaining is invested by the insurer.
++ Money back Policy: a certain percentage of the sum assured is paid to the insured in intervals throughout the term as survival benefit.
++ Pension Plans: Also called retirement plans are a fusion of insurance and investment. A portion from the premiums is directed towards retirement corpus, which is paid as a lump-sum or monthly payment after the retirement of the insured.
++ Child Plans: Provides financial aid for children of the policyholders throughout their lives.
++ ULIPS – Unit Linked Insurance Plans: same as endowment plans, a part of premiums go toward the death benefit while the remaining goes toward mutual fund investments. 
+
+**General Insurance** – Everything apart from life can be insured under general insurance. It offers financial compensation on any loss other than death. General insurance covers the loss or damages caused to all the assets and liabilities. The insurance company promises to pay the assured sum to cover the loss related to the vehicle, medical treatments, fire, theft, or even financial problems during travel.
+
+General Insurance can cover almost anything, and everything but the five key types of insurances available under it are –
+
++ Health Insurance: Covers the cost of medical care. 
++ Fire Insurance: give coverage for the damages caused to goods or property due to fire.
++ Travel Insurance: compensates the financial liabilities arising out of non-medical  or medical emergencies during travel within the country or abroad
++ Motor Insurance: offers financial protection to motor vehicles from damages due to accidents, fire, theft, or natural calamities.
++ Home Insurance: compensates the damage caused to home due to man-made disasters, natural calamities, or other threats
+
+
+
 ### What is the difference between “P&C” and “Life Insurance”?
 Insurance companies provide a guaranteed payment for an unforeseen future event. The party receiving the payment, the insured, pays a premium for this guarantee. Insurance companies also generate investment income by investing the cash premiums received in the financial markets.
 
