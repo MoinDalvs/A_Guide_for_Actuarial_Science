@@ -143,6 +143,29 @@ The mortality risk is the risk that an insurance company can suffer financially 
 
 Life insurance companies also face interest rate risk, a type of market risk, on both investment portfolios and future payments to beneficiaries. Since payments are guaranteed long-term, the present value of the payments are affected by changes in future interest rates. This risk is managed by ensuring that cash flow from their investments are well-matched with expected pay-outs on policies. This is achieved by making investments that have similar long-term time horizons to the insurance products.
 
+### What Is Liability Insurance?
+Liability insurance is an insurance product that provides protection against claims resulting from injuries and damage to other people or property. Liability insurance policies cover any legal costs and payouts an insured party is responsible for if they are found legally liable. Intentional damage and contractual liabilities are generally not covered in liability insurance policies.
+
+Unlike other types of insurance, liability insurance policies pay third parties, and not policyholders.
+
+#### How Liability Insurance Works
+Liability insurance is critical for those who are liable and at fault for injuries sustained by other people or in the event that the insured party damages someone else's property. As such, liability insurance is also called third-party insurance. Liability insurance does not cover intentional or criminal acts even if the insured party is found legally responsible. Policies are taken out by anyone who owns a business, drives a car, practices medicine or law—basically anyone who can be sued for damages and/or injuries. Policies protect both the insured and third parties who may be injured as a result of the policyholder's unintentional negligence.
+
+For instance, most states require that vehicle owners have liability insurance under their automotive insurance policies to cover injury to other people and property in the event of accidents. A product manufacturer may purchase product liability insurance to cover them if a product is faulty and causes damage to the purchasers or another third party. Business owners may purchase liability insurance that covers them if an employee is injured during business operations. The decisions doctors and surgeons make while on the job also require liability insurance policies.
+
+#### Types of Liability Insurance
+Business owners are exposed to a range of liabilities, any of which can subject their assets to substantial claims. All business owners need to have an asset protection plan in place that's built around available liability insurance coverage.
+
+##### Here are the main types of liability insurance:
+
++ **Employer’s liability and workers' compensation** is mandatory coverage for employers which protects the business against liabilities arising from injuries or the death of an employee.
++ **Product liability insurance** is for businesses that manufacture products for sale on the general market. Product liability insurance protects against lawsuits arising from injury or death caused by their products.
++ **Indemnity insurance** provides coverage to protect a business against negligence claims due to financial harm resulting from mistakes or failure to perform.
++ **Director and officer liability coverage** covers a company's board of directors or officers against liability if the company should be sued. Some companies provide additional protection to their executive team even though corporations generally provide some degree of personal protection to their employees.
++ **Umbrella liability policies** are personal liability policies designed to protect against catastrophic losses. Coverage generally kicks in when the liability limits of other insurance are reached.
++ **Commercial liability insurance** is a standard commercial general liability policy also known as comprehensive general liability insurance. It provides insurance coverage for lawsuits arising from injury to employees and the public, property damage caused by an employee, as well as injuries suffered by the negligent action of employees. The policy may also cover infringement on intellectual property, slander, libel, contractual liability, tenant liability, and employment practices liability.
++ **Comprehensive general liability policies** are tailor-made for any small or large business, partnership or joint venture businesses, a corporation or association, an organization, or even a newly acquired business. Insurance coverage includes bodily injury, property damage, personal and advertising injury, medical payments, and premises and operations liability. Insurers provide coverage for compensatory and general damages for lawsuits but not punitive damages.
+
 ### Definition of Technical Provisions
 
 Technical provisions represent the amount that an insurer( a person or company that contracts to indemnify another in the event of loss or damage) requires to fulfil its insurance obligations and settle all expected commitments to policyholders and other beneficiaries arising over the lifetime of the insurer's portfolio of insurance contracts.
