@@ -243,6 +243,30 @@ All insurance schemes operate based on the law of large numbers. This law states
 
 A second related rule is that the number of exposure units, or policyholders, must also be large enough to encompass a statistically random sample of the overall population. This is designed to prevent insurance companies from only spreading risk among those most likely to generate a claim, as might occur under adverse selection.
 
+![image](https://user-images.githubusercontent.com/99672298/207230071-bea7c956-92a8-48aa-a996-f1a32a422b4c.png)
+
+### What Is the Law of Large Numbers?
+The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. This is due to the sample being more representative of the population as the sample become larger.
+
+#### Understanding the Law of Large Numbers
+The law of large numbers can refer to two different topics. First, in statistical analysis, the law of large numbers can be applied to a variety of subjects. It may not be feasible to poll every individual within a given population to collect the required amount of data, but every additional data point gathered has the potential to increase the likelihood that the outcome is a true measure of the mean.
+
+The law of large numbers does not mean that a given sample or group of successive samples will always reflect the true population characteristics, especially for small samples. This also means that if a given sample or series of samples deviates from the true population average, the law of large numbers does not guarantee that successive samples will move the observed average toward the population mean.
+
+Second, the term "law of large numbers" is sometimes used in business in relation to growth rates, stated as a percentage. It suggests that, as a business expands, the percentage rate of growth becomes increasingly difficult to maintain. This is because the underlying dollar amount is actually increasing even if the growth rate as a percentage is to remain constant.
+
+![image](https://user-images.githubusercontent.com/99672298/207236399-83eaec48-907c-4114-a7c1-67b109d7da83.png)
+
+#### Law of Large Numbers and Statistical Analysis
+If a person wanted to determine the average value of a data set of 100 possible values, he is more likely to reach an accurate average by choosing 20 data points instead of relying on just two. This is because there is greater probability of the two data points being outliers or non-representative of the average, while there is lower probability in all 20 data points being non-representative.
+
+For example, if the data set included all integers from one to 100, and sample-taker only drew two values, such as 95 and 40, he may determine the average to be approximately 67.5. If he continued to take random samplings up to 20 variables, the average should shift towards the true average as he considers more data points.
+
+#### Law of Large Numbers and Central Limit Theorem
+In statistical analysis, the law of large numbers is related to the central limit theorem. The central limit theorem states that as the sample size increases, the sample mean will be evenly distributed. This is often depicted as a bell-shaped curve where the peak of the curve depicts the mean and even distributions of sample data fall to the left and right of the curve.
+
+In a related manner, the law of large numbers also states that data is refined as the sample grows. However, the law of large numbers more closely relates to the center of the bell curve. The law of large numbers indicates that as a sample size increases, the mean of the sample will more closely resemble the mean of the population. Therefore, the law of large numbers relates to the peak (the mean) of a curve, while the central limit theorem relates to the distribution of a curve.
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
