@@ -238,7 +238,10 @@ The second kind of catastrophic risk involves any unpredictably large loss of va
 
 Some insurance companies specialize in catastrophic insurance, and many insurance companies enter into reinsurance agreements to guard against catastrophic events. Investors can even purchase risk-linked securities, called "cat bonds," which raise money for catastrophic risk transfers.
 
-#### 
+#### Randomly Selected and Large Loss Exposure
+All insurance schemes operate based on the law of large numbers. This law states there must be a sufficient large number of homogeneous exposures to any specific event in order to make a reasonable prediction about the loss related to an event.
+
+A second related rule is that the number of exposure units, or policyholders, must also be large enough to encompass a statistically random sample of the overall population. This is designed to prevent insurance companies from only spreading risk among those most likely to generate a claim, as might occur under adverse selection.
 
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
