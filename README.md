@@ -267,6 +267,13 @@ In statistical analysis, the law of large numbers is related to the central limi
 
 In a related manner, the law of large numbers also states that data is refined as the sample grows. However, the law of large numbers more closely relates to the center of the bell curve. The law of large numbers indicates that as a sample size increases, the mean of the sample will more closely resemble the mean of the population. Therefore, the law of large numbers relates to the peak (the mean) of a curve, while the central limit theorem relates to the distribution of a curve.
 
+#### Law of Large Numbers in Business Example
+In fiscal year 2020, Tesla reported automotive sales (not gross sales) of $24.604 billion. The next year, the company reported $44.125 billion, an increase of roughly 79%.
+
+ As electric vehicles are an emerging market and Tesla is beginning to finally experience economies of scale, the company is started to experience success very quickly.
+
+The law of large numbers indicates that as Tesla continues to grow, it will become harder for the company to maintain this level of productivity. For example, assuming a steady growth rate of the next several years, it becomes quickly apparent that Tesla simply cannot maintain its current growth trajectory due to the underlying dollar values becoming unreasonable.
+
 ### Insurance obligation
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
