@@ -407,6 +407,11 @@ Business owners are exposed to a range of liabilities, any of which can subject 
 + **Commercial liability insurance** is a standard commercial general liability policy also known as comprehensive general liability insurance. It provides insurance coverage for lawsuits arising from injury to employees and the public, property damage caused by an employee, as well as injuries suffered by the negligent action of employees. The policy may also cover infringement on intellectual property, slander, libel, contractual liability, tenant liability, and employment practices liability.
 + **Comprehensive general liability policies** are tailor-made for any small or large business, partnership or joint venture businesses, a corporation or association, an organization, or even a newly acquired business. Insurance coverage includes bodily injury, property damage, personal and advertising injury, medical payments, and premises and operations liability. Insurers provide coverage for compensatory and general damages for lawsuits but not punitive damages.
 
+### Definition of Administrative services only (ASO)
+ASO is a self-funded employee benefits plan structure made by the employer. The employer is then exclusively liable for all of the financial and legal aspects of the plan.
+
+Most often the employer hires an outside firm to administer the plan and process claims and payments. For instance, a firm can hire an insurance company in order to assess and proceed claims under its employee health plan, while retaining the responsibility to pay the claims itself.
+
 ### Stop-Loss Insurance 101
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
 
