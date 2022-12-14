@@ -410,12 +410,17 @@ Business owners are exposed to a range of liabilities, any of which can subject 
 ### Stop-Loss Insurance 101
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
 
+**In simple terms:**
+
+Stop-loss insurance (also known as excess insurance) is a product that provides protection against catastrophic or unpredictable losses. It is purchased by employers who have decided to self-fund their employee benefit plans, but do not want to assume 100% of the liability for losses arising from the plans. Under a stop-loss policy, the insurance company becomes liable for losses that exceed certain limits called deductibles.
+
 There are many different options for stop-loss coverages and contracts. Before you draft a contract or schedule a meeting with your insurance carrier, here is a brief introduction to the different stop-loss options, contracts, and terms.
 
-#### What Stop-Loss Coverages Are Available?
-**Specific Stop-Loss:** This form of stop-loss coverage protects a self-insured employer against large claims incurred by a single individual. Under a specific stop-loss policy, the employer will be reimbursed when claims for an individual exceed a specified deductible.
+#### There are two types of self-funded insurance:
+**Specific Stop-Loss:** This form of stop-loss coverage protects a self-insured employer against large claims incurred by a single individual. Under a specific stop-loss policy, the employer will be reimbursed when claims for an individual exceed a specified deductible. This is protection against abnormal severity of a single claim rather than abnormal frequency of claims in total. Specific stop-loss is also known as individual stop-loss.
 
 **Aggregate Stop-Loss:** This form of stop-loss provides a ceiling to the amount that an employer would pay in expenses on the entire plan, on an aggregate basis, during a contract period. Under this policy, the insurance carrier reimburses the employer after the end of the contract period for aggregate claims.
+It provides a ceiling on the dollar amount of eligible expenses that an employer would pay, in total, during a contract period. The carrier reimburses the employer after the end of the contract period for aggregate claims.
 
 There are a number of variations available for each of these coverages, and there are employers that protect their plan with a combination of both specific and aggregate stop-loss coverages. Here is a quick overview of what specific and aggregate stop-loss policies may look like for your organization.
 
@@ -450,6 +455,21 @@ The point at which the insurance carrier is liable is determined by the carrier,
 + $300 x 150% = $450
 + $450 x 1,000 = $450,000
 + $450,000 x 12 = $5,400,000
+
+#### Stop-Loss Insurance Contract Terms and Terminology
+In order to fully understand stop-loss policies, it is critical to know the different stop-loss contract terms. Stop-loss contracts are written depending on the agreement made between the insurance carrier and employer.
+
+These contracts specify the time period when the insurer is liable to cover claims and by what time employers must pay the claims they are liable for. There are many different term agreements, and which terms an employer is subject to depends on the contract between the employer and the insurance carrier. These different contract terms can include policies such as:
+
++ **“12/12” Contract:** Under this contract agreement, claims must be incurred and paid during the plan year.
++ **“12/15” Contract:** Under this contract agreement, claims must be incurred during the plan year and paid either during the plan year or during the three months after the end of the plan year.
++ **“15/12” Contract:** Under this contract agreement, claims must be incurred in the three months prior to the end of the plan date and paid during the plan year.
++ **Deductibles:** The limit at which the insurance company becomes liable for paying medical claims.
++ **Disclosure:** An insurance carrier will require the disclosure of known high claimants or high-risk individuals before giving a final quote.
++ **Lasering:** An insurance carrier can place a higher deductible on certain individuals or exclude them from coverage.
+
+#### Why Invest in a Stop-Loss Insurance Policy?
+By incorporating stop-loss into their insurance policy, these self-funded employers are limiting their risk, safeguarding themselves against high claims, and impacting their bottom-line by opting out of expensive, traditional insurance policies.
 
 ### Deductibles
 
