@@ -491,6 +491,16 @@ These contracts specify the time period when the insurer is liable to cover clai
 + **Disclosure:** An insurance carrier will require the disclosure of known high claimants or high-risk individuals before giving a final quote.
 + **Lasering:** An insurance carrier can place a higher deductible on certain individuals or exclude them from coverage.
 
+#### What is lasering?
+
+Lasering is a common stop loss practice in which an individual participant—based on prior claims experience or known conditions—is covered by the stop loss policy at a higher Specific deductible than the rest of the group. As a result, the employer takes on additional claim risk for the individual in exchange for lower annual premium across the entire plan.
+
+##### 3 reasons to consider lasering:
+
++ **Long-term savings:** Using lasers to manage anticipated high-cost claims for individual participants helps keep premium costs for the entire plan in check. And mitigating the cost of the current year’s premium sets a lower starting point for any future rate increases, allowing the group to realize long-term savings.
++ **Opportunities for cost-containment solutions:** When a single member or multiple members with similar conditions/diagnoses are projected to incur significant claims costs, employers can work with their administrator to implement cost-savings options for the overall plan.
++ **Potential cost savings for participants:** Adjusting stop loss coverage for individuals rather than raising rates across the entire group helps reduce overall expenses for the plan. If the group’s medical benefits include premium cost-share, these savings can then be passed on to plan participants, thereby reducing their contribution requirements.
+
 #### Why Invest in a Stop-Loss Insurance Policy?
 By incorporating stop-loss into their insurance policy, these self-funded employers are limiting their risk, safeguarding themselves against high claims, and impacting their bottom-line by opting out of expensive, traditional insurance policies.
 
