@@ -510,9 +510,21 @@ While aggregate stop loss coverage protected a self-funded employer against high
 
 Like with aggregate stop loss policies, a specific stop loss policy has a specific deductible. There are a number of factors involved in setting this number. Some self-funded plans have a specific deductible of $50,000, while others have a $1 million deductible. Somewhere around $200,000 to $300,000 is a pretty typical range. The self-insured employer is responsible for individual claims that fall below the deductible. For claims above the deductible, the employer pays upfront and the stop loss carrier reimburses any portion exceeding that threshold. Specific claims may be reimbursed as soon as the individual’s deductible has been met.
 
+#### Making the Right Choice For You
+It’s common for self-insured companies that buy stop loss coverage to choose both aggregate and specific policies. Few companies, outside of major corporations, have adequate resources to absorb whatever claims their members incur. And again, having both specific and aggregate stop loss policies is really useful for projecting costs, so this is a kind of protection that most self-insured employers want. Sometimes employers opt for just specific coverage, or just aggregate coverage, depending on their needs and circumstances.
+
+Just as aggregate and specific deductibles vary widely based on the employer’s needs, so do stop loss premiums. It’s tough to predict exactly what you’ll pay for your policy until you’ve sat down and worked through the options with a plan administrator. Your company’s risk tolerance will play a big role in what you pay for premiums. But if your company already has a budget established you may be able to tailor your plan to meet that budget, without compromising the quality of healthcare your employees receive. Remember, one of the prime benefits of self-funding is that it lets the employer trim waste and pay only for the services its employees receive.
+
 ### Deductibles
 
 #### Aggregating Specific Deductible
+
+An aggregate deductible is the limit deductible a policyholder would be required to pay on claims during a given period of time. Aggregate deductibles are most likely to be features of product liability policies or policies that might result in a large number of claims during a certain time period.
+
+##### How an Aggregate Deductible Works
+The draw of an aggregate deductible policy feature is that it puts a cap on the amount the insured has to pay. Manufacturers purchase product liability insurance to protect themselves from claims resulting from damages caused by their products. It is especially valuable for products that can cause significant damages if not manufactured correctly, such as medicines and automobiles, and with products that are sold in high volumes, such as toys.
+
+While policyholders may have product liability insurance batch clauses, not all states will allow the policyholder to treat all claims as if they were part of the same occurrence. If each claim is considered independent, then the policyholder will have to pay the deductible for each claim, even if the deductible is greater than the claim amount. This essentially creates a situation in which the policyholder is not insured.
 
 ##### What It Is
 With this feature, employers pay reduced stop-loss premiums in exchange for taking on more risk of a set dollar
@@ -528,9 +540,21 @@ Three employees each have claims that exceed the $200,000 Specific Deductible.
 
 ![image](https://user-images.githubusercontent.com/99672298/207512954-deb9e276-756e-4f77-8d65-70c157779f6b.png)
 
+##### Example of an Aggregate Deductible
+For example, a canning company is notified that some of its products are making the consumers sick. The company’s per occurrence deductible is $10,000, but it also has an aggregate deductible that designates that it does not have to pay more than $100,000 in deductibles in a given year.
+
+![image](https://user-images.githubusercontent.com/99672298/207523600-fca0d87c-a9cd-4edc-ba10-67d0a7b22a93.png)
+
+The total number of claims reaches 1,000, and each claim valued at $5,000. Without an aggregate deductible, the company would be responsible for the entire claim, and would ultimately have to pay out $5,000,000 ($5,000 claim value x 1,000 claims). The aggregate deductible, however, limits the company’s total deductible to $100,000.
+
 **The aggregating specific deductible** goes by many names. You may have heard the term referred to as the aggregating specific corridor or more affectionately the Agg Spec or even simply the ASD. Regardless of what you call it, the ASD can be a critical element in your Stop Loss contract. When an aggregating specific deductible is employed, the client assumes additional liability in exchange for a lower premium. The ASD is a set dollar amount that is used to cover a single claimant or many claimants, who exceed the specific deductible. In some instances, a group’s claims may not reach their agg spec. In this case, the group would save the premium dollars they would have spent had they opted not to pursue an ASD. When the total claims paid meets the value of the ASD, the stop loss carrier assumes liability for any claims exceeding the deductible.
 
 For example, a group opts to add a $100,000 aggregating specific deductible to their stop loss contract, which has a $150,000 specific deductible for each member. As in a standard stop loss contract, the group pays for all medical expenses up to $150,000 for all members. The first claims that exceed the $150,000 specific deductible, whether from a single member or several, are paid by the group’s aggregating specific deductible funds. Claims exceeding the $150,000 spec will continue to be paid by the group’s funds until the $100,000 has been paid out. At this point, the carrier will begin issuing reimbursements for additional claims.
+
+#### Aggregate Deductibles and Health Insurance
+Aggregate deductibles are also used in family health insurance policies. Under an aggregate deductible family health insurance plan, the total family deductible must be paid out-of-pocket before health insurance starts paying for the health care services incurred by any family member.
+
+With an aggregate deductible, there is no embedded deductible for each individual family member to meet. Aggregate deductible family health insurance may carry a lower monthly premium, but the coverage doesn't take effect until the full family deductible is paid out of pocket, which can be much higher than individual embedded deductibles for each family member.
 
 ### Definition of Technical Provisions
 
