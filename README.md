@@ -412,7 +412,7 @@ Stop-Loss Insurance Coverage is defined as a layer of coverage that provides rei
 
 **In simple terms:**
 
-Stop-loss insurance (also known as excess insurance) is a product that provides protection against catastrophic or unpredictable losses. It is purchased by employers who have decided to self-fund their employee benefit plans, but do not want to assume 100% of the liability for losses arising from the plans. Under a stop-loss policy, the insurance company becomes liable for losses that exceed certain limits called deductibles.
+Stop-loss insurance (also known as excess insurance) is a product that provides protection against catastrophic or unpredictable losses. It is purchased by employers who have decided to self-fund their employee benefit plans, but do not want to assume 100% of the liability for losses arising from the plans. Under a stop-loss policy, the insurance company becomes liable for losses that exceed certain limits called deductibles. 
 
 There are many different options for stop-loss coverages and contracts. Before you draft a contract or schedule a meeting with your insurance carrier, here is a brief introduction to the different stop-loss options, contracts, and terms.
 
@@ -420,7 +420,10 @@ There are many different options for stop-loss coverages and contracts. Before y
 **Specific Stop-Loss:** This form of stop-loss coverage protects a self-insured employer against large claims incurred by a single individual. Under a specific stop-loss policy, the employer will be reimbursed when claims for an individual exceed a specified deductible. This is protection against abnormal severity of a single claim rather than abnormal frequency of claims in total. Specific stop-loss is also known as individual stop-loss.
 
 **Aggregate Stop-Loss:** This form of stop-loss provides a ceiling to the amount that an employer would pay in expenses on the entire plan, on an aggregate basis, during a contract period. Under this policy, the insurance carrier reimburses the employer after the end of the contract period for aggregate claims.
-It provides a ceiling on the dollar amount of eligible expenses that an employer would pay, in total, during a contract period. The carrier reimburses the employer after the end of the contract period for aggregate claims.
+
+It provides a ceiling on the dollar amount of eligible expenses that an employer would pay, in total, during a contract period. **The carrier reimburses the employer after the end of the contract period for aggregate claims.** 
+
+This coverage ensures that a catastrophic claim (specific stop-loss) or numerous claims (aggregate stop-loss) do not drain the financial reserves of a self-funded plan. Aggregate stop-loss protects the employer against claims that are higher than expected. If total claims exceed the aggregate limit, the stop-loss insurer covers the claims or reimburses the employer.
 
 There are a number of variations available for each of these coverages, and there are employers that protect their plan with a combination of both specific and aggregate stop-loss coverages. Here is a quick overview of what specific and aggregate stop-loss policies may look like for your organization.
 
@@ -435,6 +438,10 @@ The contracts that specify these details can be written in a variety of ways dep
 Maximum liability per person is determined by employers and their insurance carriers, and the amount an insurance carrier is willing to be liable for is subject to their specific policies.
 
 #### Aggregate Stop-Loss At A Glance‍
+Aggregate stop-loss insurance is held for self-funded insurance plans for which an employer assumes the financial risk of providing healthcare benefits to its employees. In practical terms, self-funded employers pay for each claim as it is presented instead of paying a fixed premium to an insurance carrier for a fully insured plan. Stop-loss insurance is similar to purchasing high-deductible insurance. The employer remains responsible for claim expenses under the deductible amount.
+
+Stop-loss insurance differs from conventional employee benefit insurance. Stop-loss only covers the employer and provides no direct coverage to employees and health plan participants.
+
 Aggregate Stop-Loss protects against higher than anticipated claims for the entire plan. If the total paid claims exceed the established point amount, the carrier will reimburse the employer for the excess.
 
 The point at which the insurance carrier is liable is determined by the carrier, and is generally derived from the enrollment on the employer’s insurance plan and on the aggregate attachment factor. The process for determining the aggregate attachment factor is as follows:
@@ -442,6 +449,15 @@ The point at which the insurance carrier is liable is determined by the carrier,
 + First, the stop-loss carrier determines the average expected monthly claims PEPM based on the employer’s history.
 + Then, this figure is multiplied by a percentage ranging from 110%-150%.
 + That determined amount is then multiplied by the enrollment on a monthly basis to establish the aggregate deductible.
+
+#### How Aggregate Stop-Loss Insurance Is Used
+Aggregate stop-loss insurance is used by employers as coverage for risk against a high value of claims. Aggregate stop-loss insurance comes with a maximum level for claims. When a maximum threshold is exceeded, the employer no longer needs to make payments and may receive some reimbursements.
+
+Aggregate stop-loss insurance can either be added to an existing insurance plan or purchased independently. The threshold is calculated based on a certain percentage of projected costs (called attachment points)—usually 125% of anticipated claims for the year.
+
+An aggregate stop-loss threshold is usually variable and not fixed. This is because the threshold fluctuates as a percentage of an employer’s enrolled employees. The variable threshold is based on an aggregate attachment factor which is an important component in the calculation of a stop-loss level.
+
+As is the case with high deductible plans, most stop-loss plans will have relatively low premiums. This is because the employer is expected to cover over 100% of the value of claims they receive.
 
 ##### An example of deriving the Aggregate Stop-Loss coverage is as follows:
 
@@ -455,6 +471,8 @@ The point at which the insurance carrier is liable is determined by the carrier,
 + $300 x 150% = $450
 + $450 x 1,000 = $450,000
 + $450,000 x 12 = $5,400,000
+
+![image](https://user-images.githubusercontent.com/99672298/207517746-784795e7-a43b-45d2-8991-42f2ae03a26e.png)
 
 #### Stop-Loss Insurance Contract Terms and Terminology
 In order to fully understand stop-loss policies, it is critical to know the different stop-loss contract terms. Stop-loss contracts are written depending on the agreement made between the insurance carrier and employer.
