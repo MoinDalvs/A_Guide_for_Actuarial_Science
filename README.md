@@ -472,6 +472,11 @@ As is the case with high deductible plans, most stop-loss plans will have relati
 + $450 x 1,000 = $450,000
 + $450,000 x 12 = $5,400,000
 
+##### **Note:** 
+Enrollment can potentially vary per month. Due to enrollment variance, aggregate stop-loss coverage may have either a monthly deductible or an annual deductible.
+
+With a monthly deductible, the amount an employer must pay could change every month. With an annual deductible, the amount the employer must pay would be summed for the year and usually based on estimates from the initial month of coverage. Many stop-loss plans will offer an annual deductible that is slightly lower than the summation of deductibles over 12 months.
+
 ![image](https://user-images.githubusercontent.com/99672298/207517746-784795e7-a43b-45d2-8991-42f2ae03a26e.png)
 
 #### Stop-Loss Insurance Contract Terms and Terminology
@@ -488,6 +493,22 @@ These contracts specify the time period when the insurer is liable to cover clai
 
 #### Why Invest in a Stop-Loss Insurance Policy?
 By incorporating stop-loss into their insurance policy, these self-funded employers are limiting their risk, safeguarding themselves against high claims, and impacting their bottom-line by opting out of expensive, traditional insurance policies.
+
+### Understanding Aggregate Stop Loss vs. Specific Stop Loss
+
+Aggregate stop loss and specific stop loss are kind of like rain boots and umbrellas. They work in slightly different ways to address the same problem. You can choose to use both types or just one depending on what kind of protection you need, both using both is the best way to limit your exposure in a storm.
+
+Stop loss coverage creates a ceiling for how much a self-insured employer has to pay for high claims, and aggregate and specific are two forms of this coverage. Self-insured employers who want to manage risk may use both types of coverage to achieve maximum protection from high-value claims.
+
+#### What Aggregate Stop Loss Does
+Aggregate stop loss puts a cap on the amount that a self-insured employer has to pay across an entire plan year. Having an aggregate stop loss policy helps the employer budget for its healthcare costs with some accuracy, since this policy lets the employer put a dollar figure on its maximum potential liability for the plan year.
+
+Working with a third-party administrator or insurer, a client with this type of policy will set an aggregate deductible that’s based on its total expected monthly claims and its risk tolerance. That number is multiplied by a percentage (commonly 125 percent) to determine the plan’s aggregate attachment point. The company pays for its claims, and at the end of the policy period, it’s reimbursed for any claims that exceeded the aggregate attachment point.
+
+#### What Specific Stop Loss Does
+While aggregate stop loss coverage protected a self-funded employer against higher-than-expected costs across its entire plan, specific stop loss puts a cap on the amount that the employer will pay for any one individual claim. This type of protection shields the employer from great risk if any plan members incur catastrophic claims. An employee who needs a heart transplant, or has a serious accident and requires weeks of hospitalization, could easily incur hundreds of thousands of dollars in medical bills. Cancer, certain chronic conditions and childbirth complications are all pretty routine diagnoses that can cause individual employees’ claims to skyrocket.
+
+Like with aggregate stop loss policies, a specific stop loss policy has a specific deductible. There are a number of factors involved in setting this number. Some self-funded plans have a specific deductible of $50,000, while others have a $1 million deductible. Somewhere around $200,000 to $300,000 is a pretty typical range. The self-insured employer is responsible for individual claims that fall below the deductible. For claims above the deductible, the employer pays upfront and the stop loss carrier reimburses any portion exceeding that threshold. Specific claims may be reimbursed as soon as the individual’s deductible has been met.
 
 ### Deductibles
 
