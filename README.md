@@ -407,6 +407,72 @@ Business owners are exposed to a range of liabilities, any of which can subject 
 + **Commercial liability insurance** is a standard commercial general liability policy also known as comprehensive general liability insurance. It provides insurance coverage for lawsuits arising from injury to employees and the public, property damage caused by an employee, as well as injuries suffered by the negligent action of employees. The policy may also cover infringement on intellectual property, slander, libel, contractual liability, tenant liability, and employment practices liability.
 + **Comprehensive general liability policies** are tailor-made for any small or large business, partnership or joint venture businesses, a corporation or association, an organization, or even a newly acquired business. Insurance coverage includes bodily injury, property damage, personal and advertising injury, medical payments, and premises and operations liability. Insurers provide coverage for compensatory and general damages for lawsuits but not punitive damages.
 
+### Stop-Loss Insurance 101
+Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
+
+There are many different options for stop-loss coverages and contracts. Before you draft a contract or schedule a meeting with your insurance carrier, here is a brief introduction to the different stop-loss options, contracts, and terms.
+
+#### What Stop-Loss Coverages Are Available?
+**Specific Stop-Loss:** This form of stop-loss coverage protects a self-insured employer against large claims incurred by a single individual. Under a specific stop-loss policy, the employer will be reimbursed when claims for an individual exceed a specified deductible.
+
+**Aggregate Stop-Loss:** This form of stop-loss provides a ceiling to the amount that an employer would pay in expenses on the entire plan, on an aggregate basis, during a contract period. Under this policy, the insurance carrier reimburses the employer after the end of the contract period for aggregate claims.
+
+There are a number of variations available for each of these coverages, and there are employers that protect their plan with a combination of both specific and aggregate stop-loss coverages. Here is a quick overview of what specific and aggregate stop-loss policies may look like for your organization.
+
+#### Specific Stop-Loss At A Glance
+Under a Specific Stop-Loss Policy, an employer may elect for a maximum liability per person on their benefits plan. If the claims exceed that point, the stop-loss policy will reimburse the employer for the claims in excess of that amount.
+
+For example, if an employer elects that their maximum liability per person on their benefits plan for that policy year be $100,000, and a specific claimant exceeds that liability and their total claims are $102,000, the stop-loss policy will reimburse them for claims in excess of that amount, the $2,000.
+
+The maximum liability employers take on can range from $10,000 to $1 million, and generally fall within 3 to 6 percent of the expected annual claim amount.
+Under a specific stop-loss policy, employers can be eligible to receive coverage for both medical and prescription drugs.
+The contracts that specify these details can be written in a variety of ways depending on the insurance carrier.
+Maximum liability per person is determined by employers and their insurance carriers, and the amount an insurance carrier is willing to be liable for is subject to their specific policies.
+
+#### Aggregate Stop-Loss At A Glance‍
+Aggregate Stop-Loss protects against higher than anticipated claims for the entire plan. If the total paid claims exceed the established point amount, the carrier will reimburse the employer for the excess.
+
+The point at which the insurance carrier is liable is determined by the carrier, and is generally derived from the enrollment on the employer’s insurance plan and on the aggregate attachment factor. The process for determining the aggregate attachment factor is as follows:
+
++ First, the stop-loss carrier determines the average expected monthly claims PEPM based on the employer’s history.
++ Then, this figure is multiplied by a percentage ranging from 110%-150%.
++ That determined amount is then multiplied by the enrollment on a monthly basis to establish the aggregate deductible.
+
+##### An example of deriving the Aggregate Stop-Loss coverage is as follows:
+
++ First, the employer and stop-loss carrier establish the average expected monthly claims, for this example $300 PEPM.
++ This figure is then multiplied by a percentage usually ranging between 110%-150%, for this example 150%.
++ From these calculations, the aggregate attachment factor is established as $450.
++ This attachment factor is then multiplied by the employees enrolled, for this example 1,000. This calculation equals out to a total amount of $450,000.
++ That amount is the aggregate deductible for the month, and if that enrollment remains the same for the whole year, the annual aggregate will total $5,400,000.
++ Assuming enrollment stays level and the contract term is a year, the maximum out of pocket claims for this employer would be $5,400,000.
++ If claims exceed this amount, say $5,500,000, the stop-loss carrier will be liable to pay that excess, in this example $100,000.
++ $300 x 150% = $450
++ $450 x 1,000 = $450,000
++ $450,000 x 12 = $5,400,000
+
+### Deductibles
+
+#### Aggregating Specific Deductible
+
+##### What It Is
+With this feature, employers pay reduced stop-loss premiums in exchange for taking on more risk of a set dollar
+amount, known as the Aggregate Specific Deductible. This is in addition to the Specific Deductible that is already
+in place. The Aggregate Specific Deductible covers the entire group and must be satisfied before an employer can
+get reimbursed.
+
+##### How It Works
+This example shows an employer with a:
+■ $200,000 Specific Deductible
+■ $60,000 Aggregate Specific Deductible
+Three employees each have claims that exceed the $200,000 Specific Deductible. 
+
+![image](https://user-images.githubusercontent.com/99672298/207512954-deb9e276-756e-4f77-8d65-70c157779f6b.png)
+
+**The aggregating specific deductible** goes by many names. You may have heard the term referred to as the aggregating specific corridor or more affectionately the Agg Spec or even simply the ASD. Regardless of what you call it, the ASD can be a critical element in your Stop Loss contract. When an aggregating specific deductible is employed, the client assumes additional liability in exchange for a lower premium. The ASD is a set dollar amount that is used to cover a single claimant or many claimants, who exceed the specific deductible. In some instances, a group’s claims may not reach their agg spec. In this case, the group would save the premium dollars they would have spent had they opted not to pursue an ASD. When the total claims paid meets the value of the ASD, the stop loss carrier assumes liability for any claims exceeding the deductible.
+
+For example, a group opts to add a $100,000 aggregating specific deductible to their stop loss contract, which has a $150,000 specific deductible for each member. As in a standard stop loss contract, the group pays for all medical expenses up to $150,000 for all members. The first claims that exceed the $150,000 specific deductible, whether from a single member or several, are paid by the group’s aggregating specific deductible funds. Claims exceeding the $150,000 spec will continue to be paid by the group’s funds until the $100,000 has been paid out. At this point, the carrier will begin issuing reimbursements for additional claims.
+
 ### Definition of Technical Provisions
 
 Technical provisions represent the amount that an insurer( a person or company that contracts to indemnify another in the event of loss or damage) requires to fulfil its insurance obligations and settle all expected commitments to policyholders and other beneficiaries arising over the lifetime of the insurer's portfolio of insurance contracts.
