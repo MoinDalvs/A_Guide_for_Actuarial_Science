@@ -417,18 +417,83 @@ In an ASO, yearly funding levels are based on actual paid claims, while fully-in
 
 ASO plans are convinient for benefits such as short term disability, extended health and dental care, but may not be suitable for life insurance and high extended health care plans. It is up to the employer to weigh the risks and benefits of how different ASO arrangements may impact their organizations.
 
-### Coinsurance vs. Copay: What's the Difference?
-Coinsurance and copays are both important terms for understanding the costs of health insurance. These and other out-of-pocket costs affect how much you'll pay for the healthcare you and your family receive.
+### Deductibles
 
-![image](https://user-images.githubusercontent.com/99672298/207778989-67eb89cd-477f-434f-add1-df0895c4387e.png)
-![image](https://user-images.githubusercontent.com/99672298/207779099-1590f3c6-3156-4b26-8fd3-7a4917fc2f5a.png)
+A deductible is the amount of money that you are responsible for paying toward an insured loss. When a disaster strikes your home or you have a car accident, the deductible is subtracted, or "deducted," from what your insurance pays toward a claim. Deductibles are how risk is shared between you, the policyholder, and your insurer.
 
-#### What Is Coinsurance?
+Generally speaking, the larger the deductible, the less you pay in premiums for an insurance policy. A deductible can be either a specific dollar amount or a percentage of the total amount of insurance on a policy.
+
+#### How deductibles work
+A specific amount would be subtracted from your claim payment if you have a dollar amount deductible. For example, if your policy states a $500 deductible, and your insurer has determined that you have an insured loss worth $10,000, you would receive a claims check for $9,500.
+
+Percentage deductibles generally only apply to homeowners policies and are calculated based on a percentage of the home’s insured value. Therefore, if your house is insured for $100,000 and your insurance policy has a 2 percent deductible, $2,000 would be deducted from any claim payment. In the event of the $10,000 insurance loss, you would be paid $8,000. For a $25,000 loss, your claim check would be $23,000.
+
+Note that with auto insurance or a homeowners policy, the deductible applies each time you file a claim. There are exceptions to this practice in Florida and Louisiana, where hurricane deductibles are applied once per season rather than for each storm.
+
+Deductibles generally apply to property damage, not to the liability portion of homeowners or auto insurance policies. For example, with a homeowners policy, a deductible would apply to property damaged in a rogue outdoor grill fire; however, there would be no deductible against the policy's liability portion if a burned guest made a medical claim or sued.
+
+#### Raising your deductible can save money
+One way to save money on a homeowners or auto insurance policy is to raise the deductible. Therefore, if you're shopping for insurance, ask about the options for deductibles when comparing policies.
+
+Increasing your auto insurance's dollar deductible from $200 to $500 can reduce optional collision and comprehensive coverage premium costs. Going to a $1,000 deductible may save you even more. Most homeowners and renters insurers offer a minimum $500 or $1,000 deductible, and raising the deductible to more than $1,000 can save on the cost of the policy.
+
+Of course, remember that you'll be responsible for the deductible in the event of loss, so make sure that you're comfortable with the amount. 
+
+#### Homeowners disaster deductibles
+Standard homeowners insurance covers wind and hail damage from storms and hurricanes. Flood and earthquake policies are purchased separately. But each of these disasters has its own deductible rules. If you live in an area with a high risk for one of these natural disasters, understand how much deductible you will need to pay if a catastrophe strikes.
+
+Start here, check your policies and speak to your insurance professional to learn exactly how your deductibles work.
+
++ **Hurricane deductibles:** In hurricane-prone states, special deductibles may apply for homeowners insurance claims when the cause of damage is attributable to a hurricane. Whether a hurricane deductible applies to a claim depends on the specific "trigger" selected by the insurance company. These triggers vary by state and insurer and usually apply when the National Weather Service (NWS) officially names a tropical storm, declares a hurricane watch or warning, or defines a hurricane's intensity in terms of wind speed. Hurricane deductibles are generally higher than other homeowners' policy deductibles and usually take the form of a percentage of the policy limits. In some states, policyholders can choose to pay a higher premium in return for a traditional dollar deductible; however, in high-risk coastal areas, insurers may make the percentage deductible mandatory.
++ **Wind/hail deductibles** work in a similar way to hurricane deductibles and are most common in places that typically experience severe windstorms and hail. These include Midwestern states (like Ohio) and around Tornado Alley (including Texas, Oklahoma, Kansas, and Nebraska). Wind/hail deductibles are most commonly paid in percentages, typically from 1 percent to 5 percent.
++ **Flood insurance** offers a range of deductibles. If you have—or are considering buying—flood insurance, make sure you understand your deductible. Flood insurance deductibles vary by state and insurance company and are available in dollar amounts or percentages. Also, you can choose one deductible for your home's structure and another for the contents of your home. Note that your mortgage company may require that your flood insurance deductible under a certain amount to help ensure you will be able to pay it).
++ **Earthquake insurance** has percentage deductibles that range from 2 percent to 20 percent of the replacement value of your home, depending on location. Insurers in states with a higher than average risk of earthquakes (such as Washington, Nevada, and Utah) often set minimum deductibles at around 10 percent. In California, the basic California Earthquake Authority (CEA) policy includes a deductible that is 15 percent of the replacement cost of the main home structure and starting at 10 percent for additional coverages (such as on a garage or other outbuildings).
+
+#### Aggregating Specific Deductible
+
+An aggregate deductible is the limit deductible a policyholder would be required to pay on claims during a given period of time. Aggregate deductibles are most likely to be features of product liability policies or policies that might result in a large number of claims during a certain time period.
+
+##### How an Aggregate Deductible Works
+The draw of an aggregate deductible policy feature is that it puts a cap on the amount the insured has to pay. Manufacturers purchase product liability insurance to protect themselves from claims resulting from damages caused by their products. It is especially valuable for products that can cause significant damages if not manufactured correctly, such as medicines and automobiles, and with products that are sold in high volumes, such as toys.
+
+While policyholders may have product liability insurance batch clauses, not all states will allow the policyholder to treat all claims as if they were part of the same occurrence. If each claim is considered independent, then the policyholder will have to pay the deductible for each claim, even if the deductible is greater than the claim amount. This essentially creates a situation in which the policyholder is not insured.
+
+##### What It Is
+With this feature, employers pay reduced stop-loss premiums in exchange for taking on more risk of a set dollar
+amount, known as the Aggregate Specific Deductible. This is in addition to the Specific Deductible that is already
+in place. The Aggregate Specific Deductible covers the entire group and must be satisfied before an employer can
+get reimbursed.
+
+##### How It Works
+This example shows an employer with a:
+■ $200,000 Specific Deductible
+■ $60,000 Aggregate Specific Deductible
+Three employees each have claims that exceed the $200,000 Specific Deductible. 
+
+![image](https://user-images.githubusercontent.com/99672298/207512954-deb9e276-756e-4f77-8d65-70c157779f6b.png)
+
+##### Example of an Aggregate Deductible
+For example, a canning company is notified that some of its products are making the consumers sick. The company’s per occurrence deductible is $10,000, but it also has an aggregate deductible that designates that it does not have to pay more than $100,000 in deductibles in a given year.
+
+![image](https://user-images.githubusercontent.com/99672298/207523600-fca0d87c-a9cd-4edc-ba10-67d0a7b22a93.png)
+
+The total number of claims reaches 1,000, and each claim valued at $5,000. Without an aggregate deductible, the company would be responsible for the entire claim, and would ultimately have to pay out $5,000,000 ($5,000 claim value x 1,000 claims). The aggregate deductible, however, limits the company’s total deductible to $100,000.
+
+**The aggregating specific deductible** goes by many names. You may have heard the term referred to as the aggregating specific corridor or more affectionately the Agg Spec or even simply the ASD. Regardless of what you call it, the ASD can be a critical element in your Stop Loss contract. When an aggregating specific deductible is employed, the client assumes additional liability in exchange for a lower premium. The ASD is a set dollar amount that is used to cover a single claimant or many claimants, who exceed the specific deductible. In some instances, a group’s claims may not reach their agg spec. In this case, the group would save the premium dollars they would have spent had they opted not to pursue an ASD. When the total claims paid meets the value of the ASD, the stop loss carrier assumes liability for any claims exceeding the deductible.
+
+For example, a group opts to add a $100,000 aggregating specific deductible to their stop loss contract, which has a $150,000 specific deductible for each member. As in a standard stop loss contract, the group pays for all medical expenses up to $150,000 for all members. The first claims that exceed the $150,000 specific deductible, whether from a single member or several, are paid by the group’s aggregating specific deductible funds. Claims exceeding the $150,000 spec will continue to be paid by the group’s funds until the $100,000 has been paid out. At this point, the carrier will begin issuing reimbursements for additional claims.
+
+#### Aggregate Deductibles and Health Insurance
+Aggregate deductibles are also used in family health insurance policies. Under an aggregate deductible family health insurance plan, the total family deductible must be paid out-of-pocket before health insurance starts paying for the health care services incurred by any family member.
+
+With an aggregate deductible, there is no embedded deductible for each individual family member to meet. Aggregate deductible family health insurance may carry a lower monthly premium, but the coverage doesn't take effect until the full family deductible is paid out of pocket, which can be much higher than individual embedded deductibles for each family member.
+
+### What Is Coinsurance?
 Coinsurance is the percentage of covered medical expenses you pay after you've met your deductible. Your health insurance plan pays the rest. For example, if you have an "80/20" plan, it means your plan covers 80% and you pay 20%—up until you reach your maximum out-of-pocket limit.
 
 Still, coinsurance only applies to covered services. If you have expenses for services that the plan doesn't cover, you'll be responsible for the entire bill. If you're not sure what your plan covers, review your benefits booklet or call your plan provider.
 
-#### What Are Copays?
+### What Are Copays?
 Copays (or copayments) are set amounts you pay to your medical provider when you receive services. Copays typically start at $10 and go up from there, depending on the type of care you receive. Different copays usually apply to office visits, specialist visits, urgent care, emergency room visits, and prescriptions.
 
 Your copay applies even if you haven't met your deductible yet. For example, if you have a $50 specialist copay, that's what you'll pay to see a specialist—whether or not you've met your deductible.
@@ -436,12 +501,48 @@ Your copay applies even if you haven't met your deductible yet. For example, if 
 ![image](https://user-images.githubusercontent.com/99672298/207779571-070959b5-23e1-4a5e-a3a8-6008d31c72b6.png)
 ![image](https://user-images.githubusercontent.com/99672298/207779684-1fa59b34-30c8-4d13-9e3d-947595739259.png)
 
+#### Copay and Coinsurance Example
+To help explain copays and coinsurance, here's a simplified example.
+
+Say you have an individual plan (no dependents) with a $3,000 deductible, $50 specialist copays, 80/20 coinsurance, and a maximum out-of-pocket limit of $6,000.
+
+You go for your annual checkup (which is free because it's a preventive service) and mention that your shoulder has been hurting. Your doctor sends you to an orthopedic specialist (for a $50 copay) to take a closer look.
+
+That specialist recommends an MRI to find out what's going on. The MRI costs $1,500. You pay the entire amount because you haven't met your deductible yet.
+
+As it turns out, you have a torn rotator cuff and need surgery to fix it. The surgery costs $7,000. You've already paid $1,500 for the MRI, so you need to pay $1,500 of the surgery bills to meet your deductible and have the coinsurance kick in. After that, your share is 20%—which, in this example, is $1,100. All in, your torn rotator cuff costs you $4,100.
+
+### Coinsurance vs. Copay: What's the Difference?
+Coinsurance and copays are both important terms for understanding the costs of health insurance. These and other out-of-pocket costs affect how much you'll pay for the healthcare you and your family receive.
+
+![image](https://user-images.githubusercontent.com/99672298/207778989-67eb89cd-477f-434f-add1-df0895c4387e.png)
+![image](https://user-images.githubusercontent.com/99672298/207779099-1590f3c6-3156-4b26-8fd3-7a4917fc2f5a.png)
+
+#### Does Coinsurance Count Toward the Deductible?
+No. Coinsurance is the portion of healthcare costs that you pay after your spending has reached the deductible. For example, if you have a 20% coinsurance, then your insurance provider will pay for 80% of all costs after you have met the deductible.
+
+Do All Health Insurance Plans Have Copays and Coinsurance?
+No. Some healthcare plans might not require customers to pay a copay for certain medical services, although these plans will typically come with higher premiums. On the other end, a catastrophic health plan with a very high deductible might pay as much as 100% of many preventive expenses, without coinsurance.
+
+#### Are Copays and Coinsurance Tax-Deductible?
+Healthcare costs such as copays, coinsurance, and premiums may be tax-deductible if they exceed 7.5% of your adjusted gross income. If your healthcare expenses exceed that threshold, the amount over 7.5% can be deducted.
+
+
 ### What Are Out-of-Pocket Maximums?
 Out-of-pocket expenses are healthcare costs that are not covered by insurance, for example, if your spending has not yet reached your plan deductible. The out-of-pocket maximum is the maximum amount of out-of-pocket expenses you will have to pay in one year.
 
 When you reach your out-of-pocket maximum, your health insurance plan covers 100% of all covered services for the rest of the year. Any money you spend on deductibles, copays, and coinsurance counts toward your out-of-pocket maximum. However, premiums don't count, and neither does anything you spend on services that your plan doesn't cover.
 
 Like deductibles, you might have two out-of-pocket limits—an individual one and a family one. Under the Affordable Care Act, the highest allowable out-of-pocket maximum is set at $8,550 for individual coverage and $17,100 for family coverage.
+
+### In-Network vs. Out-of-Network
+Some plans have two sets of deductibles, copays, coinsurance, and out-of-pocket maximums: one for in-network providers and one for out-of-network providers.
+
+In-network providers are doctors or medical facilities with which your plan has negotiated special rates. Out-of-network providers are everything else—and they are generally much more expensive.
+
+Keep in mind that in-network doesn't necessarily mean close to where you live. You could have a North Carolina plan and see an in-network provider at the Cleveland Clinic in Ohio.
+
+Whenever possible, be sure you're using in-network providers for all of your healthcare needs. If there are certain doctors and facilities you'd like to use, be sure they're part of your plan's network. If not, it might make financial sense to switch plans during the next open enrollment period.
 
 ### Stop-Loss Insurance 101
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
@@ -560,77 +661,6 @@ Like with aggregate stop loss policies, a specific stop loss policy has a specif
 It’s common for self-insured companies that buy stop loss coverage to choose both aggregate and specific policies. Few companies, outside of major corporations, have adequate resources to absorb whatever claims their members incur. And again, having both specific and aggregate stop loss policies is really useful for projecting costs, so this is a kind of protection that most self-insured employers want. Sometimes employers opt for just specific coverage, or just aggregate coverage, depending on their needs and circumstances.
 
 Just as aggregate and specific deductibles vary widely based on the employer’s needs, so do stop loss premiums. It’s tough to predict exactly what you’ll pay for your policy until you’ve sat down and worked through the options with a plan administrator. Your company’s risk tolerance will play a big role in what you pay for premiums. But if your company already has a budget established you may be able to tailor your plan to meet that budget, without compromising the quality of healthcare your employees receive. Remember, one of the prime benefits of self-funding is that it lets the employer trim waste and pay only for the services its employees receive.
-
-### Deductibles
-
-A deductible is the amount of money that you are responsible for paying toward an insured loss. When a disaster strikes your home or you have a car accident, the deductible is subtracted, or "deducted," from what your insurance pays toward a claim. Deductibles are how risk is shared between you, the policyholder, and your insurer.
-
-Generally speaking, the larger the deductible, the less you pay in premiums for an insurance policy. A deductible can be either a specific dollar amount or a percentage of the total amount of insurance on a policy.
-
-#### How deductibles work
-A specific amount would be subtracted from your claim payment if you have a dollar amount deductible. For example, if your policy states a $500 deductible, and your insurer has determined that you have an insured loss worth $10,000, you would receive a claims check for $9,500.
-
-Percentage deductibles generally only apply to homeowners policies and are calculated based on a percentage of the home’s insured value. Therefore, if your house is insured for $100,000 and your insurance policy has a 2 percent deductible, $2,000 would be deducted from any claim payment. In the event of the $10,000 insurance loss, you would be paid $8,000. For a $25,000 loss, your claim check would be $23,000.
-
-Note that with auto insurance or a homeowners policy, the deductible applies each time you file a claim. There are exceptions to this practice in Florida and Louisiana, where hurricane deductibles are applied once per season rather than for each storm.
-
-Deductibles generally apply to property damage, not to the liability portion of homeowners or auto insurance policies. For example, with a homeowners policy, a deductible would apply to property damaged in a rogue outdoor grill fire; however, there would be no deductible against the policy's liability portion if a burned guest made a medical claim or sued.
-
-#### Raising your deductible can save money
-One way to save money on a homeowners or auto insurance policy is to raise the deductible. Therefore, if you're shopping for insurance, ask about the options for deductibles when comparing policies.
-
-Increasing your auto insurance's dollar deductible from $200 to $500 can reduce optional collision and comprehensive coverage premium costs. Going to a $1,000 deductible may save you even more. Most homeowners and renters insurers offer a minimum $500 or $1,000 deductible, and raising the deductible to more than $1,000 can save on the cost of the policy.
-
-Of course, remember that you'll be responsible for the deductible in the event of loss, so make sure that you're comfortable with the amount. 
-
-#### Homeowners disaster deductibles
-Standard homeowners insurance covers wind and hail damage from storms and hurricanes. Flood and earthquake policies are purchased separately. But each of these disasters has its own deductible rules. If you live in an area with a high risk for one of these natural disasters, understand how much deductible you will need to pay if a catastrophe strikes.
-
-Start here, check your policies and speak to your insurance professional to learn exactly how your deductibles work.
-
-+ **Hurricane deductibles:** In hurricane-prone states, special deductibles may apply for homeowners insurance claims when the cause of damage is attributable to a hurricane. Whether a hurricane deductible applies to a claim depends on the specific "trigger" selected by the insurance company. These triggers vary by state and insurer and usually apply when the National Weather Service (NWS) officially names a tropical storm, declares a hurricane watch or warning, or defines a hurricane's intensity in terms of wind speed. Hurricane deductibles are generally higher than other homeowners' policy deductibles and usually take the form of a percentage of the policy limits. In some states, policyholders can choose to pay a higher premium in return for a traditional dollar deductible; however, in high-risk coastal areas, insurers may make the percentage deductible mandatory.
-+ **Wind/hail deductibles** work in a similar way to hurricane deductibles and are most common in places that typically experience severe windstorms and hail. These include Midwestern states (like Ohio) and around Tornado Alley (including Texas, Oklahoma, Kansas, and Nebraska). Wind/hail deductibles are most commonly paid in percentages, typically from 1 percent to 5 percent.
-+ **Flood insurance** offers a range of deductibles. If you have—or are considering buying—flood insurance, make sure you understand your deductible. Flood insurance deductibles vary by state and insurance company and are available in dollar amounts or percentages. Also, you can choose one deductible for your home's structure and another for the contents of your home. Note that your mortgage company may require that your flood insurance deductible under a certain amount to help ensure you will be able to pay it).
-+ **Earthquake insurance** has percentage deductibles that range from 2 percent to 20 percent of the replacement value of your home, depending on location. Insurers in states with a higher than average risk of earthquakes (such as Washington, Nevada, and Utah) often set minimum deductibles at around 10 percent. In California, the basic California Earthquake Authority (CEA) policy includes a deductible that is 15 percent of the replacement cost of the main home structure and starting at 10 percent for additional coverages (such as on a garage or other outbuildings).
-
-#### Aggregating Specific Deductible
-
-An aggregate deductible is the limit deductible a policyholder would be required to pay on claims during a given period of time. Aggregate deductibles are most likely to be features of product liability policies or policies that might result in a large number of claims during a certain time period.
-
-##### How an Aggregate Deductible Works
-The draw of an aggregate deductible policy feature is that it puts a cap on the amount the insured has to pay. Manufacturers purchase product liability insurance to protect themselves from claims resulting from damages caused by their products. It is especially valuable for products that can cause significant damages if not manufactured correctly, such as medicines and automobiles, and with products that are sold in high volumes, such as toys.
-
-While policyholders may have product liability insurance batch clauses, not all states will allow the policyholder to treat all claims as if they were part of the same occurrence. If each claim is considered independent, then the policyholder will have to pay the deductible for each claim, even if the deductible is greater than the claim amount. This essentially creates a situation in which the policyholder is not insured.
-
-##### What It Is
-With this feature, employers pay reduced stop-loss premiums in exchange for taking on more risk of a set dollar
-amount, known as the Aggregate Specific Deductible. This is in addition to the Specific Deductible that is already
-in place. The Aggregate Specific Deductible covers the entire group and must be satisfied before an employer can
-get reimbursed.
-
-##### How It Works
-This example shows an employer with a:
-■ $200,000 Specific Deductible
-■ $60,000 Aggregate Specific Deductible
-Three employees each have claims that exceed the $200,000 Specific Deductible. 
-
-![image](https://user-images.githubusercontent.com/99672298/207512954-deb9e276-756e-4f77-8d65-70c157779f6b.png)
-
-##### Example of an Aggregate Deductible
-For example, a canning company is notified that some of its products are making the consumers sick. The company’s per occurrence deductible is $10,000, but it also has an aggregate deductible that designates that it does not have to pay more than $100,000 in deductibles in a given year.
-
-![image](https://user-images.githubusercontent.com/99672298/207523600-fca0d87c-a9cd-4edc-ba10-67d0a7b22a93.png)
-
-The total number of claims reaches 1,000, and each claim valued at $5,000. Without an aggregate deductible, the company would be responsible for the entire claim, and would ultimately have to pay out $5,000,000 ($5,000 claim value x 1,000 claims). The aggregate deductible, however, limits the company’s total deductible to $100,000.
-
-**The aggregating specific deductible** goes by many names. You may have heard the term referred to as the aggregating specific corridor or more affectionately the Agg Spec or even simply the ASD. Regardless of what you call it, the ASD can be a critical element in your Stop Loss contract. When an aggregating specific deductible is employed, the client assumes additional liability in exchange for a lower premium. The ASD is a set dollar amount that is used to cover a single claimant or many claimants, who exceed the specific deductible. In some instances, a group’s claims may not reach their agg spec. In this case, the group would save the premium dollars they would have spent had they opted not to pursue an ASD. When the total claims paid meets the value of the ASD, the stop loss carrier assumes liability for any claims exceeding the deductible.
-
-For example, a group opts to add a $100,000 aggregating specific deductible to their stop loss contract, which has a $150,000 specific deductible for each member. As in a standard stop loss contract, the group pays for all medical expenses up to $150,000 for all members. The first claims that exceed the $150,000 specific deductible, whether from a single member or several, are paid by the group’s aggregating specific deductible funds. Claims exceeding the $150,000 spec will continue to be paid by the group’s funds until the $100,000 has been paid out. At this point, the carrier will begin issuing reimbursements for additional claims.
-
-#### Aggregate Deductibles and Health Insurance
-Aggregate deductibles are also used in family health insurance policies. Under an aggregate deductible family health insurance plan, the total family deductible must be paid out-of-pocket before health insurance starts paying for the health care services incurred by any family member.
-
-With an aggregate deductible, there is no embedded deductible for each individual family member to meet. Aggregate deductible family health insurance may carry a lower monthly premium, but the coverage doesn't take effect until the full family deductible is paid out of pocket, which can be much higher than individual embedded deductibles for each family member.
 
 ### Definition of Technical Provisions
 
