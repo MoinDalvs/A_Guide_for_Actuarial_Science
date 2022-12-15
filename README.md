@@ -494,12 +494,17 @@ Coinsurance is the percentage of covered medical expenses you pay after you've m
 Still, coinsurance only applies to covered services. If you have expenses for services that the plan doesn't cover, you'll be responsible for the entire bill. If you're not sure what your plan covers, review your benefits booklet or call your plan provider.
 
 ### What Are Copays?
+A co-pay, short for co-payment, is a fixed amount that a healthcare beneficiary pays for covered medical services. The remaining balance is covered by the person’s insurance company.
+
+Co-pays typically vary for different services within the same plans, particularly when they involve services that are considered essential or routine and others that are considered less routine or in the domain of a specialist.
+
+Co-pays are typically lower for standard doctor visits than for seeing specialists. Co-pays for emergency room visits tend to be the highest.
+
 Copays (or copayments) are set amounts you pay to your medical provider when you receive services. Copays typically start at $10 and go up from there, depending on the type of care you receive. Different copays usually apply to office visits, specialist visits, urgent care, emergency room visits, and prescriptions.
 
 Your copay applies even if you haven't met your deductible yet. For example, if you have a $50 specialist copay, that's what you'll pay to see a specialist—whether or not you've met your deductible.
 
 ![image](https://user-images.githubusercontent.com/99672298/207779571-070959b5-23e1-4a5e-a3a8-6008d31c72b6.png)
-![image](https://user-images.githubusercontent.com/99672298/207779684-1fa59b34-30c8-4d13-9e3d-947595739259.png)
 
 #### Copay and Coinsurance Example
 To help explain copays and coinsurance, here's a simplified example.
@@ -517,6 +522,33 @@ Coinsurance and copays are both important terms for understanding the costs of h
 
 ![image](https://user-images.githubusercontent.com/99672298/207778989-67eb89cd-477f-434f-add1-df0895c4387e.png)
 ![image](https://user-images.githubusercontent.com/99672298/207779099-1590f3c6-3156-4b26-8fd3-7a4917fc2f5a.png)
+![image](https://user-images.githubusercontent.com/99672298/207779684-1fa59b34-30c8-4d13-9e3d-947595739259.png)
+
+### Co-pay vs. Deductible: What’s the Difference?
+Co-pays and deductibles are features of health insurance plans. They involve payment on the part of the insured, but the amount and frequency differ.
+
+![image](https://user-images.githubusercontent.com/99672298/207823835-d17ea0be-82ad-460f-9545-05d05f0707dc.png)
+
+#### What Are Deductibles?
+A deductible is a fixed amount that a patient must pay each year before their health insurance benefits begin to cover the costs.
+
+After meeting a deductible, beneficiaries typically pay co-insurance—a certain percentage of costs—for any services covered by the plan. They continue to pay the co-insurance until they meet their out-of-pocket maximum for the year.
+
+![image](https://user-images.githubusercontent.com/99672298/207827825-8d3a39ce-61e1-4cc5-8bd7-92d9e98e0c33.png)
+
+### Preventive Services
+In most cases, preventive services are covered at 100%—meaning that the patient doesn’t owe anything for the appointment. Plans offered through the Patient Protection and Affordable Care Act pay in full for routine checkups and other screenings considered preventive, such as mammograms and colonoscopies for people over a certain age.
+
+### Real-Life Example
+Suppose a patient has a health insurance plan with a $30 co-pay to visit a primary care physician, a $50 co-pay to see a specialist, and a $10 co-pay for generic drugs.
+
+The patient pays these fixed amounts for those services regardless of what the services actually cost. The insurance company pays the remaining balance (the “covered amount”). Therefore, if a visit to the patient’s endocrinologist (a specialist) costs $250, the patient pays $50 and the insurance company pays $200.
+
+Now suppose the same patient has a $2,000 annual deductible before insurance starts to pay, and 20% co-insurance after that.
+
+In March, he sprains his ankle playing basketball, and treatment costs $300. He pays the full cost because he has yet to meet his deductible. In May, he has back problems, which cost $500 to treat. Again, he pays the full cost.
+
+In August, he breaks his arm playing touch football, and the bill for his hospital visit comes to $3,500. On this bill, the patient pays $1,200—the balance of his deductible. Once he meets the deductible, he also pays 20% (his co-insurance amount). In this case, that would be an additional $460 (20% of $2,300—the difference between the deductible and the hospital visit).
 
 #### Does Coinsurance Count Toward the Deductible?
 No. Coinsurance is the portion of healthcare costs that you pay after your spending has reached the deductible. For example, if you have a 20% coinsurance, then your insurance provider will pay for 80% of all costs after you have met the deductible.
@@ -527,13 +559,20 @@ No. Some healthcare plans might not require customers to pay a copay for certain
 #### Are Copays and Coinsurance Tax-Deductible?
 Healthcare costs such as copays, coinsurance, and premiums may be tax-deductible if they exceed 7.5% of your adjusted gross income. If your healthcare expenses exceed that threshold, the amount over 7.5% can be deducted.
 
-
 ### What Are Out-of-Pocket Maximums?
 Out-of-pocket expenses are healthcare costs that are not covered by insurance, for example, if your spending has not yet reached your plan deductible. The out-of-pocket maximum is the maximum amount of out-of-pocket expenses you will have to pay in one year.
 
 When you reach your out-of-pocket maximum, your health insurance plan covers 100% of all covered services for the rest of the year. Any money you spend on deductibles, copays, and coinsurance counts toward your out-of-pocket maximum. However, premiums don't count, and neither does anything you spend on services that your plan doesn't cover.
 
 Like deductibles, you might have two out-of-pocket limits—an individual one and a family one. Under the Affordable Care Act, the highest allowable out-of-pocket maximum is set at $8,550 for individual coverage and $17,100 for family coverage.
+
+### What’s a High-Deductible Health Plan?
+A high-deductible health plan is an inexpensive health insurance plan with low premiums but a very high deductible. Because they may come with significant out-of-pocket expenses, these plans are popular for young, healthy workers with low routine medical expenses who are worried about catastrophic healthcare events.
+
+An additional benefit of high-deductible plans is the Health Savings Account, which is only available to workers with an HDHP. These savings accounts are tax-free, so long as the money is used for qualified medical expenses.
+
+#### What’s a Health Insurance Premium?
+A health insurance premium is the upfront cost of maintaining health insurance coverage. Most premiums are paid on a monthly or biweekly basis. If your healthcare is provided by your employer, they will usually deduct the premium from your paycheck.
 
 ### In-Network vs. Out-of-Network
 Some plans have two sets of deductibles, copays, coinsurance, and out-of-pocket maximums: one for in-network providers and one for out-of-network providers.
