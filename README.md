@@ -493,6 +493,26 @@ Coinsurance is the percentage of covered medical expenses you pay after you've m
 
 Still, coinsurance only applies to covered services. If you have expenses for services that the plan doesn't cover, you'll be responsible for the entire bill. If you're not sure what your plan covers, review your benefits booklet or call your plan provider.
 
+Coinsurance is the amount, generally expressed as a fixed percentage, an insured must pay toward a covered claim after the deductible is satisfied. It is common in health insurance. Some property insurance policies also contain coinsurance provisions. In this case, coinsurance is the amount of coverage that the property owner must purchase for a structure.
+
+![image](https://user-images.githubusercontent.com/99672298/207841913-540aa98a-c55d-443f-9114-22958d053854.png)
+
+#### How Coinsurance Works
+A coinsurance provision is similar to a copayment, or "copay," provision, except that copays require the insured to pay a set dollar amount at the time of the service, and coinsurance is a percentage amount.
+
+One of the most common coinsurance breakdowns is the 80/20 split. Under the terms of an 80/20 coinsurance plan, the insured is billed for 20% of medical costs, while the insurer pays the remaining 80%.
+
+However, these terms only apply after the insured has reached the policy's out-of-pocket deductible amount. Also, most health insurance policies include an out-of-pocket maximum that limits the total amount the insured pays for care in a given period.
+
+![image](https://user-images.githubusercontent.com/99672298/207842421-7e33c983-a946-4176-8f13-52592a9a82ca.png)
+
+#### Example of Coinsurance
+Here's how it typically works: Assume you take out a health insurance policy with an 80/20 coinsurance provision, a $1,000 out-of-pocket deductible, and a $5,000 out-of-pocket maximum. Unfortunately, you require outpatient surgery early in the year that costs $5,500. Because you have not yet met your deductible, you must pay the first $1,000 of the bill. After meeting your $1,000 deductible, you are then only responsible for 20% of the remaining $4,500, or $900. Your insurance company will cover 80%, the remaining balance.
+
+If you require another expensive procedure later in the year, your coinsurance provision takes effect immediately because you have previously met your annual deductible. Also, because you have already paid a total of $1,900 out-of-pocket during the policy term, the maximum amount that you will be required to pay for services for the rest of the year is $3,100.
+
+After you reach the $5,000 out-of-pocket maximum, your insurance company is responsible for paying up to the maximum policy limit, or the maximum benefit allowable under a given policy.
+
 ### What Are Copays?
 A co-pay, short for co-payment, is a fixed amount that a healthcare beneficiary pays for covered medical services. The remaining balance is covered by the person’s insurance company.
 
