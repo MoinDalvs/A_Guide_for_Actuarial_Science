@@ -417,6 +417,32 @@ In an ASO, yearly funding levels are based on actual paid claims, while fully-in
 
 ASO plans are convinient for benefits such as short term disability, extended health and dental care, but may not be suitable for life insurance and high extended health care plans. It is up to the employer to weigh the risks and benefits of how different ASO arrangements may impact their organizations.
 
+### Coinsurance vs. Copay: What's the Difference?
+Coinsurance and copays are both important terms for understanding the costs of health insurance. These and other out-of-pocket costs affect how much you'll pay for the healthcare you and your family receive.
+
+![image](https://user-images.githubusercontent.com/99672298/207778989-67eb89cd-477f-434f-add1-df0895c4387e.png)
+![image](https://user-images.githubusercontent.com/99672298/207779099-1590f3c6-3156-4b26-8fd3-7a4917fc2f5a.png)
+
+#### What Is Coinsurance?
+Coinsurance is the percentage of covered medical expenses you pay after you've met your deductible. Your health insurance plan pays the rest. For example, if you have an "80/20" plan, it means your plan covers 80% and you pay 20%—up until you reach your maximum out-of-pocket limit.
+
+Still, coinsurance only applies to covered services. If you have expenses for services that the plan doesn't cover, you'll be responsible for the entire bill. If you're not sure what your plan covers, review your benefits booklet or call your plan provider.
+
+#### What Are Copays?
+Copays (or copayments) are set amounts you pay to your medical provider when you receive services. Copays typically start at $10 and go up from there, depending on the type of care you receive. Different copays usually apply to office visits, specialist visits, urgent care, emergency room visits, and prescriptions.
+
+Your copay applies even if you haven't met your deductible yet. For example, if you have a $50 specialist copay, that's what you'll pay to see a specialist—whether or not you've met your deductible.
+
+![image](https://user-images.githubusercontent.com/99672298/207779571-070959b5-23e1-4a5e-a3a8-6008d31c72b6.png)
+![image](https://user-images.githubusercontent.com/99672298/207779684-1fa59b34-30c8-4d13-9e3d-947595739259.png)
+
+### What Are Out-of-Pocket Maximums?
+Out-of-pocket expenses are healthcare costs that are not covered by insurance, for example, if your spending has not yet reached your plan deductible. The out-of-pocket maximum is the maximum amount of out-of-pocket expenses you will have to pay in one year.
+
+When you reach your out-of-pocket maximum, your health insurance plan covers 100% of all covered services for the rest of the year. Any money you spend on deductibles, copays, and coinsurance counts toward your out-of-pocket maximum. However, premiums don't count, and neither does anything you spend on services that your plan doesn't cover.
+
+Like deductibles, you might have two out-of-pocket limits—an individual one and a family one. Under the Affordable Care Act, the highest allowable out-of-pocket maximum is set at $8,550 for individual coverage and $17,100 for family coverage.
+
 ### Stop-Loss Insurance 101
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
 
