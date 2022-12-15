@@ -412,6 +412,11 @@ ASO is a self-funded employee benefits plan structure made by the employer. The 
 
 Most often the employer hires an outside firm to administer the plan and process claims and payments. For instance, a firm can hire an insurance company in order to assess and proceed claims under its employee health plan, while retaining the responsibility to pay the claims itself.
 
+#### Benefits and usage of ASO
+In an ASO, yearly funding levels are based on actual paid claims, while fully-insured plans are affected by the insurer's evaluation of anticipated claims for a chosen year. When given claims come to be less then anticipated, employers keep the surplus and that can be reinvested. However, when budgeted amounts are exceeded the employer is held responsible.
+
+ASO plans are convinient for benefits such as short term disability, extended health and dental care, but may not be suitable for life insurance and high extended health care plans. It is up to the employer to weigh the risks and benefits of how different ASO arrangements may impact their organizations.
+
 ### Stop-Loss Insurance 101
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
 
