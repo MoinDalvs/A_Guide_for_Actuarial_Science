@@ -14,10 +14,10 @@
  	- 4.1 [Principles of Insurance](#4.1)
  	- 4.2 [Average Deviation](#4.2)
  	- 4.3 [What Is Liability Insurance?](#4.3)
+ 	- 4.4 [Characteristics of an Ideally Insurable Risk](#4.4)
 5. [What Is the Morbidity Rate?](#5)
 6. [What Is the Law of Large Numbers?](#6)
 7. [Insurance obligation](#7)
-	- 7.1 [What is a Quantile?](#7.1)
 8. [What Is Reinsurance?](#8)
 	- 8.1 [How Reinsurance Works](#8.1)
 9. [Deductibles](#9)
@@ -78,7 +78,7 @@ By doing much of the technical work, an actuarial analyst is able to dig deep in
 
 Having this in-depth insight into the business workings allows the actuarial analyst to develop in their career and become prepared for the requirements of a fully-qualified actuary.
 
-### 1.3 ) How do I become an actuarial analyst?<a class="anchor" id="1.3"></a>
+#### 1.3 ) How do I become an actuarial analyst?<a class="anchor" id="1.3"></a>
 There are two primary requirements that are necessary in order to be an actuarial analyst. First, you need to get a Bachelor’s degree, and second you need to pass at least 1 actuarial exam.
 
 ### Bachelor’s Degree
@@ -87,9 +87,6 @@ Due to the nature of an actuarial analyst position, you need to be well-versed i
 As a result, the first thing you’d need to do in order to become one is get a Bachelor’s degree. It doesn’t have to be a degree in one of the fields listed above, but it would be helpful in your career if it was. Actually, a degree technically isn’t required, but nearly all good candidates have one and an actuarial employer would be unlikely to hire someone without one.
 
 Another option is to get your Bachelor’s degree in “actuarial science”. These courses are only offered in certain colleges and universities. They teach math concepts that are very specific to the actuarial field.
-
-[Table of Content](#0.1)
-___
 
 ## 1.4 ) Job Responsibilities are the Main Difference<a class="anchor" id="1.4"></a>
 Aside from those requirements and the salary, there is a big difference in the job responsibilities of an actuarial analyst and a fully qualified actuary.
@@ -126,9 +123,6 @@ But, these tasks aren’t really utilizing the specialized knowledge and analyti
 Having an actuarial assistant also makes sense from a financial standpoint because they don’t need to be paid as high of a salary as an actuarial analyst would.
 
 Having actuarial assistants is a company choice. Some companies have them, and others don’t. But for someone looking to get into an actuarial analyst position, an actuarial assistant job can be very beneficial in making connections and learning about actuarial work.
-
-[Table of Content](#0.1)
-___
 
 ## 1.5 )  Is the actuarial analyst career right for you?<a class="anchor" id="1.5"></a>
 Most people don’t go into the actuarial profession without the intention to become a fully qualified actuary. The actuarial analyst job is a stepping stone on that journey. So, really, you have to think about whether a career as an actuary is right for you.
@@ -184,9 +178,6 @@ Successful candidates will be those who demonstrate exceptional critical thinkin
 + **General understanding of computers and electronics**
 + **Basic knowledge of laws, legal codes, regulations, etc.**
 + **Basic understanding of business and finance.**
-
-[Table of Content](#0.1)
-___
 
 ## 1.6 ) 12 Types Of Actuaries And Their Role Description<a class="anchor" id="1.6"></a>
 
@@ -340,8 +331,7 @@ Risk Insurance shall involve assessing the price to be paid to Insurance policyh
 It evolves in calculating the pay of the financial value for the damages that might occur to the insured property or item that might be lost, injured, or destroyed accidentally or often occur to happen. It also states how much it would cost to replace
  or repair such an insured item to cover the loss suffered by the policyholder in case of such damage. Insurers shall calculate claims and evaluate their risks.
 
-[Table of Content](#0.1)
-___
+
 ## 3.1) Types of Risks<a class="anchor" id="3.1"></a>
 The following are the different types of risk in insurance:
 
@@ -384,9 +374,6 @@ Static risk is a type of pure risk that is predictable, measurable and doesn't c
 Insuranceopedia, an online repository of financial information and insurance definitions, defines static risk as "risks that involve losses brought about by acts of nature or by malicious and criminal acts by another person. These losses refer to damage or loss to property or entity that is not caused by the economy." A flood is an example of static risk. According to Insuranceopedia, static risks "are more easily taken care of by insurance coverage because of their relative predictability."
 
 Dynamic risk, in contrast to static risk, is a "risk brought on by sudden and unpredictable changes in the economy," according to Insuranceopedia. This type of risk is difficult to measure, sometimes resulting in sizable losses for individuals and businesses. Insuranceopedia pointed to the COVID-19 pandemic as an example of dynamic risk, not only due its unpredictability, but also its impact on many lines of insurance coverage, including business interruption, trade credit and cyber liability insurance. A recession is another example of a dynamic risk, as well as a fundamental risk.
-
-[Table of Content](#0.1)
-___
 
 ### 3.2) What Is Financial Risk?<a class="anchor" id="3.2"></a>
 Financial risk is the possibility of losing money in a business venture or investment. There are several types of financial risks, such as credit risk, liquidity risk, and operational risk. A financial risk is a potential loss of capital to an interested party.
@@ -440,9 +427,6 @@ The contract of insurance between an insurer and insured is based on certain pri
 
 #### What’s a Health Insurance Premium?
 A health insurance premium is the upfront cost of maintaining health insurance coverage. Most premiums are paid on a monthly or biweekly basis. If your healthcare is provided by your employer, they will usually deduct the premium from your paycheck.
-
-[Table of Content](#0.1)
-___
 
 ## 4.1 ) Principles of Insurance<a class="anchor" id="4.1"></a>
 The concept of insurance is risk distribution among a group of people. Hence, cooperation becomes the basic principle of insurance.
@@ -518,9 +502,6 @@ Speculative risks are those that might produce a profit or loss, namely business
 
 Examples of pure risks include natural events, such as fires or floods, or other accidents, such as an automobile crash or an athlete seriously injuring his or her knee. Most pure risks can be divided into three categories: personal risks that affect the income-earning power of the insured person, property risks, and liability risks that cover losses resulting from social interactions. Not all pure risks are covered by private insurers.
 
-[Table of Content](#0.1)
-___
-
 ### 4.2 ) Types Of Insurance<a class="anchor" id="4.2"></a>
 There are two broad categories of insurance:
 
@@ -578,10 +559,6 @@ The mortality risk is the risk that an insurance company can suffer financially 
 
 Life insurance companies also face interest rate risk, a type of market risk, on both investment portfolios and future payments to beneficiaries. Since payments are guaranteed long-term, the present value of the payments are affected by changes in future interest rates. This risk is managed by ensuring that cash flow from their investments are well-matched with expected pay-outs on policies. This is achieved by making investments that have similar long-term time horizons to the insurance products.
 
-[Table of Content](#0.1)
-___
-
-
 ### 4.3 ) What Is Liability Insurance?<a class="anchor" id="4.3"></a>
 Liability insurance is an insurance product that provides protection against claims resulting from injuries and damage to other people or property. Liability insurance policies cover any legal costs and payouts an insured party is responsible for if they are found legally liable. Intentional damage and contractual liabilities are generally not covered in liability insurance policies.
 
@@ -616,7 +593,7 @@ In an ASO, yearly funding levels are based on actual paid claims, while fully-in
 ASO plans are convinient for benefits such as short term disability, extended health and dental care, but may not be suitable for life insurance and high extended health care plans. It is up to the employer to weigh the risks and benefits of how different ASO arrangements may impact their organizations.
 
 
-### 4.3) Characteristics of an Ideally Insurable Risk<a class="anchor" id="4.3"></a>
+### 4.4) Characteristics of an Ideally Insurable Risk<a class="anchor" id="4.4"></a>
 Private insurers generally insure only pure risks. However, some pure risks are not privately insurable. From the viewpoint of a private insurer, an insurable risk ideally should have certain characteristics. There are ideally six characteristics of an insurable risk:
 
 + **There must be a large number of exposure units.**
@@ -662,10 +639,16 @@ A second related rule is that the number of exposure units, or policyholders, mu
 
 ![image](https://user-images.githubusercontent.com/99672298/207230071-bea7c956-92a8-48aa-a996-f1a32a422b4c.png)
 
+[Table of Content](#0.1)
+___
+
 # 5.) What Is the Morbidity Rate?<a class="anchor" id="5"></a>
 Morbidity rate refers to the rate at which a disease or illness occurs in a population and can be used to determine the health of a population and its healthcare needs. Illnesses can range from acute to chronic, long-lasting conditions.
 
 Morbidity rates are also used in actuarial professions, such as health insurance, life insurance, and long-term care insurance, to determine the premiums to charge customers. This rate shouldn't be confused with the mortality rate, another metric used to highlight the frequency of death in a given population.
+
+[Table of Content](#0.1)
+___
 
 # 6.) What Is the Law of Large Numbers?<a class="anchor" id="6"></a>
 The law of large numbers, in probability and statistics, states that as a sample size grows, its mean gets closer to the average of the whole population. This is due to the sample being more representative of the population as the sample become larger.
@@ -696,6 +679,9 @@ In fiscal year 2020, Tesla reported automotive sales (not gross sales) of $24.60
 
 The law of large numbers indicates that as Tesla continues to grow, it will become harder for the company to maintain this level of productivity. For example, assuming a steady growth rate of the next several years, it becomes quickly apparent that Tesla simply cannot maintain its current growth trajectory due to the underlying dollar values becoming unreasonable.
 
+[Table of Content](#0.1)
+___
+
 # 7.) Insurance obligation<a class="anchor" id="7"></a>
 what it means, is that on any date, the sum of (a) all Reimbursement Amounts, (b) all accrued and unpaid premium and charges for "Unutilized Credit Limit Capacity" under the Insurance Policy and (c) all other accrued and unpaid amounts then due and payable to the Insurer under the Insurance Policy and any other Transaction Document.
 
@@ -718,6 +704,9 @@ An act of making oneself responsible for doing something(as a promise or contrac
 
 #### What is an example of a obligation?
 For example, if you owe or will owe money to anybody, that is one of your financial obligations. Almost any form of payment or financial security represents a financial obligation.
+
+[Table of Content](#0.1)
+___
 
 # 8.) What Is Reinsurance?<a class="anchor" id="8"></a>
 Reinsurance is also known as insurance for insurers or stop-loss insurance. Reinsurance is the practice whereby insurers transfer portions of their risk portfolios to other parties by some form of agreement to reduce the likelihood of paying a large obligation resulting from an insurance claim.
@@ -748,6 +737,9 @@ Insurers purchase reinsurance for four reasons: To limit liability on a specific
 #### Reinsurance occurs when multiple insurance companies share risk by purchasing insurance policies from other insurers to limit their own total loss in case of disaster. Described as "insurance of insurance companies" by the Reinsurance Association of America, the idea is that no insurance company has too much exposure to a particularly large event or disaster
 
 ![image](https://user-images.githubusercontent.com/99672298/200164282-e90dfcda-6ce9-4053-bdab-c152eecfe339.png)
+
+[Table of Content](#0.1)
+___
 
 # 9.) Deductibles<a class="anchor" id="9"></a>
 
@@ -820,6 +812,9 @@ Aggregate deductibles are also used in family health insurance policies. Under a
 
 With an aggregate deductible, there is no embedded deductible for each individual family member to meet. Aggregate deductible family health insurance may carry a lower monthly premium, but the coverage doesn't take effect until the full family deductible is paid out of pocket, which can be much higher than individual embedded deductibles for each family member.
 
+[Table of Content](#0.1)
+___
+
 # 10.) What Is Coinsurance?<a class="anchor" id="10"></a>
 Coinsurance is the percentage of covered medical expenses you pay after you've met your deductible. Your health insurance plan pays the rest. For example, if you have an "80/20" plan, it means your plan covers 80% and you pay 20%—up until you reach your maximum out-of-pocket limit.
 
@@ -845,6 +840,9 @@ If you require another expensive procedure later in the year, your coinsurance p
 
 After you reach the $5,000 out-of-pocket maximum, your insurance company is responsible for paying up to the maximum policy limit, or the maximum benefit allowable under a given policy.
 
+[Table of Content](#0.1)
+___
+
 # 11.) What Are Copays?<a class="anchor" id="11"></a>
 A co-pay, short for co-payment, is a fixed amount that a healthcare beneficiary pays for covered medical services. The remaining balance is covered by the person’s insurance company.
 
@@ -869,12 +867,18 @@ That specialist recommends an MRI to find out what's going on. The MRI costs $1,
 
 As it turns out, you have a torn rotator cuff and need surgery to fix it. The surgery costs $7,000. You've already paid $1,500 for the MRI, so you need to pay $1,500 of the surgery bills to meet your deductible and have the coinsurance kick in. After that, your share is 20%—which, in this example, is $1,100. All in, your torn rotator cuff costs you $4,100.
 
+[Table of Content](#0.1)
+___
+
 # 12.) Coinsurance vs. Copay: What's the Difference?<a class="anchor" id="12"></a>
 Coinsurance and copays are both important terms for understanding the costs of health insurance. These and other out-of-pocket costs affect how much you'll pay for the healthcare you and your family receive.
 
 ![image](https://user-images.githubusercontent.com/99672298/207778989-67eb89cd-477f-434f-add1-df0895c4387e.png)
 ![image](https://user-images.githubusercontent.com/99672298/207779099-1590f3c6-3156-4b26-8fd3-7a4917fc2f5a.png)
 ![image](https://user-images.githubusercontent.com/99672298/207779684-1fa59b34-30c8-4d13-9e3d-947595739259.png)
+
+[Table of Content](#0.1)
+___
 
 # 13.) Co-pay vs. Deductible: What’s the Difference?<a class="anchor" id="13"></a>
 Co-pays and deductibles are features of health insurance plans. They involve payment on the part of the insured, but the amount and frequency differ.
@@ -911,6 +915,9 @@ No. Some healthcare plans might not require customers to pay a copay for certain
 #### Are Copays and Coinsurance Tax-Deductible?
 Healthcare costs such as copays, coinsurance, and premiums may be tax-deductible if they exceed 7.5% of your adjusted gross income. If your healthcare expenses exceed that threshold, the amount over 7.5% can be deducted.
 
+[Table of Content](#0.1)
+___
+
 #  14.) What Are Out-of-Pocket Maximums?<a class="anchor" id="14"></a>
 Out-of-pocket expenses are healthcare costs that are not covered by insurance, for example, if your spending has not yet reached your plan deductible. The out-of-pocket maximum is the maximum amount of out-of-pocket expenses you will have to pay in one year.
 
@@ -918,10 +925,16 @@ When you reach your out-of-pocket maximum, your health insurance plan covers 100
 
 Like deductibles, you might have two out-of-pocket limits—an individual one and a family one. Under the Affordable Care Act, the highest allowable out-of-pocket maximum is set at $8,550 for individual coverage and $17,100 for family coverage.
 
+[Table of Content](#0.1)
+___
+
 # 15.) What’s a High-Deductible Health Plan?<a class="anchor" id="15"></a>
 A high-deductible health plan is an inexpensive health insurance plan with low premiums but a very high deductible. Because they may come with significant out-of-pocket expenses, these plans are popular for young, healthy workers with low routine medical expenses who are worried about catastrophic healthcare events.
 
 An additional benefit of high-deductible plans is the Health Savings Account, which is only available to workers with an HDHP. These savings accounts are tax-free, so long as the money is used for qualified medical expenses.
+
+[Table of Content](#0.1)
+___
 
 # 16.) In-Network vs. Out-of-Network<a class="anchor" id="16"></a>
 Some plans have two sets of deductibles, copays, coinsurance, and out-of-pocket maximums: one for in-network providers and one for out-of-network providers.
@@ -931,6 +944,9 @@ In-network providers are doctors or medical facilities with which your plan has 
 Keep in mind that in-network doesn't necessarily mean close to where you live. You could have a North Carolina plan and see an in-network provider at the Cleveland Clinic in Ohio.
 
 Whenever possible, be sure you're using in-network providers for all of your healthcare needs. If there are certain doctors and facilities you'd like to use, be sure they're part of your plan's network. If not, it might make financial sense to switch plans during the next open enrollment period.
+
+[Table of Content](#0.1)
+___
 
 # 17.) Stop-Loss Insurance 101<a class="anchor" id="17"></a>
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
@@ -1040,6 +1056,9 @@ These contracts specify the time period when the insurer is liable to cover clai
 + **Disclosure:** An insurance carrier will require the disclosure of known high claimants or high-risk individuals before giving a final quote.
 + **Lasering:** An insurance carrier can place a higher deductible on certain individuals or exclude them from coverage.
 
+[Table of Content](#0.1)
+___
+
 # 18.) What is lasering?<a class="anchor" id="18"></a>
 
 Lasering is a common stop loss practice in which an individual participant—based on prior claims experience or known conditions—is covered by the stop loss policy at a higher Specific deductible than the rest of the group. As a result, the employer takes on additional claim risk for the individual in exchange for lower annual premium across the entire plan.
@@ -1049,6 +1068,9 @@ Lasering is a common stop loss practice in which an individual participant—bas
 + **Long-term savings:** Using lasers to manage anticipated high-cost claims for individual participants helps keep premium costs for the entire plan in check. And mitigating the cost of the current year’s premium sets a lower starting point for any future rate increases, allowing the group to realize long-term savings.
 + **Opportunities for cost-containment solutions:** When a single member or multiple members with similar conditions/diagnoses are projected to incur significant claims costs, employers can work with their administrator to implement cost-savings options for the overall plan.
 + **Potential cost savings for participants:** Adjusting stop loss coverage for individuals rather than raising rates across the entire group helps reduce overall expenses for the plan. If the group’s medical benefits include premium cost-share, these savings can then be passed on to plan participants, thereby reducing their contribution requirements.
+
+[Table of Content](#0.1)
+___
 
 ### 19.) Definition of Technical Provisions<a class="anchor" id="19"></a>
 
@@ -1080,6 +1102,9 @@ From Summary of IAIS positions
 + The credit standing of an insurer should not be considered in the valuation of its insurance liabilities
 + The amount of the technical provisions should be consistent with an exit of the insurer, in the sense that any transfer of insurance obligations , based on the technical provisions, to another newly licenced insurer would result in the receiving insurer being capable of settling the obligations.
 + a prudent, reliable and objective manner to allow comparison across insurers worldwide
+
+[Table of Content](#0.1)
+___
 
 # 20.) Wholesale and Retail Insurance?<a class="anchor" id="20"></a>
 
@@ -1126,6 +1151,9 @@ Due diligence however, demands that you check A.M. Best to determine the financi
 Wholesale insurance agents place business brought to them by retail agents. Unlike a retail broker, wholesale brokers have a direct working relationship with the insurer, whereas the retail agent who produced the business does not. The same broker can function as a retailer or wholesaler, depending on the specific situation. 
 
 There are two types of wholesale brokers: managing general agents and surplus lines brokers. The latter work with retail agents and insurers to obtain coverage for the insured. Unlike a managing general agent, a surplus lines broker does not have binding authority from the insurer.
+
+[Table of Content](#0.1)
+___
 
 ## 21.) Actuarial Analyst Common Interview Questions
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
