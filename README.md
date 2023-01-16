@@ -33,7 +33,7 @@
 18. [What is lasering?](#18)
 19. [Definition of Technical Provisions](#19)
 20. [Wholesale and Retail Insurance?](#20)
-21. [Acturial Common Interview Questions](#21)
+21. [Actuarial Common Interview Questions](#21)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
