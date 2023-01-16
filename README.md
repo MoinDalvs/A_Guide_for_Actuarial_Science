@@ -32,9 +32,10 @@
 	- 17.1 [There are two types of self-funded insurance:](#17.1)
 18. [What is lasering?](#18)
 19. [Definition of Technical Provisions](#19)
-20. [What Is Incurred But Not Reported (IBNR)?](#20)
-21. [Wholesale and Retail Insurance?](#21)
-22. [Actuarial Common Interview Questions](#22)
+20. [What Is a Health Reimbursement Arrangement (HRA)?](#20)
+21. [What Is Incurred But Not Reported (IBNR)?](#21)
+22. [Wholesale and Retail Insurance?](#22)
+23. [Actuarial Common Interview Questions](#23)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
@@ -1107,7 +1108,112 @@ From Summary of IAIS positions
 [Table of Content](#0.1)
 ___
 
-# 20.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="20"></a>
+# 20.) What Is a Health Reimbursement Arrangement (HRA)?<a class="anchor" id="20"></a>
+
+![image](https://user-images.githubusercontent.com/99672298/212736228-eed077da-e7ef-4a23-a584-7c9f0334a8ad.png)
+
+A health reimbursement arrangement (HRA) is an employer-funded plan that reimburses employees for qualified medical expenses and, in some cases, insurance premiums. Employers are allowed to claim a tax deduction for the reimbursements they make through these plans, and reimbursement dollars received by employees are generally tax-free.
+
+![image](https://user-images.githubusercontent.com/99672298/212736408-d927205a-4a37-4597-8ae0-341297eb63d5.png)
+
+### How a Health Reimbursement Arrangement (HRA) Works
+A health reimbursement arrangement is a plan set up by an employer to cover medical expenses for its employees. The employer decides how much it will put into the plan, and the employee can request reimbursement for actual medical expenses incurred up to that amount. All employees in the same class must receive the same HRA contribution.
+
+An HRA is not an account. Therefore, employees cannot withdraw funds in advance and then use them to pay medical expenses. Instead, they must incur the expense first, then have it reimbursed. Reimbursement at the time of service is possible if the employer provides an HRA debit card.
+
+An employee who uses up all the allocated funds in the HRA before year-end will have to cover any subsequent health bills out-of-pocket or with the funds in a flexible spending account (FSA), also known as a flexible spending arrangement, when available, or a health savings account (HSA) for employees who have a high-deductible health plan (HDHP)
+
+![image](https://user-images.githubusercontent.com/99672298/212736672-1668ffa1-92c2-405d-bec0-ced1c64c80b9.png)
+
+### Types of HRAs
+There are a few kinds of health reimbursement arrangements.
+
+Qualified Small Employer Health Reimbursement Arrangement (QSEHRA)
+A Qualified Small Employer Health Reimbursement Arrangement (QSEHRA) is a health coverage subsidy plan for employees working for businesses that employ less than 50 full-time workers. Also known as a small business HRA, a QSEHRA can be used to offset health insurance coverage or repay medical expenses that would be otherwise uncovered.
+
+The yearly limits are set by the Internal Revenue Service (IRS). For 2022, a company with a QSEHRA can reimburse individual employees for up to $5,450 per year and employees that have families for up to $11,050 per year.
+ In 2023, the limits change to $5,850 per individual and $11,800 per family.
+
+The money that is reimbursed is tax-free for the employees and tax-deductible for the employers.
+
+Individual Coverage HRA (ICHRA)
+An Individual Coverage HRA (ICHRA) is relatively new, having only been available since January 2020. Previously, HRAs could not be used to pay individual health insurance premiums. But as of January 2020, the government allows employers to offer their employees a new type of HRA called an individual coverage HRA—instead of group health insurance.
+
+Employees can use these HRAs to buy their own comprehensive individual health insurance with pretax dollars either on or off the Affordable Care Act's health insurance marketplace. Individual coverage HRAs can also reimburse employees for qualified health expenses such as copayments and deductibles.
+
+Whether or not your ICHRA makes you eligible for a premium tax credit to help pay for health insurance coverage under the Affordable Care Act depends on whether your employer's ICHRA meets minimum standards for so-called "affordability," and whether you choose to opt-in or opt-out of the coverage.
+
+Excepted Benefit HRAs (EBHRA)
+In addition, employers that continue to offer traditional group health insurance can offer Excepted Benefit HRAs (EBHRA) to reimburse employees for up to $1,950 a year in qualified medical expenses.
+
+Employees can enroll in an "excepted benefit HRA" even if they decline group health insurance coverage, but they cannot use the funds to buy comprehensive health insurance. They can, however, use the funds to pay for short-term health insurance, dental and vision insurance premiums, and qualified medical expenses.
+
+### Benefits of Health Reimbursement Arrangements
+HRAs can be used to pay for qualified medical expenses, which include prescription medications, insulin, an annual physical exam, crutches, birth control pills, meals paid for while receiving treatment at a medical facility, care from a psychologist or psychiatrist, substance abuse treatment, transportation costs incurred to get medical care, and much more.
+
+![image](https://user-images.githubusercontent.com/99672298/212737015-3f7b2966-cb57-4459-bfe2-b9f6a2d303e0.png)
+![image](https://user-images.githubusercontent.com/99672298/212737285-35512951-288a-4201-b87b-c9ae5eb54461.png)
+
+### Health Reimbursement Arrangements vs. Other Arrangements
+An employee with both an FSA and an HRA—and an expense that is eligible to be reimbursed through both plans—can't choose which will cover the expense. Instead, the costs will be reimbursed by the plan that the employer has set up to pay first. When this primary plan has been depleted, the second plan will be used to cover any subsequent eligible medical expenses that are reported for reimbursement.
+
+Here's a closer look at two other options for funding out-of-pocket medical expenses.
+
+#### FSA
+A flexible spending arrangment (FSA) is funded using a portion of an employee's pre-tax salary.
+ In contrast to an HRA, each employee determines how much money should go into these arrangements annually—up to $2,850 in 2022 and $3,050 in 2023.
+
+Unused funds in HRAs may be carried over to the following year according to the employer's discretion.
+ Unused FSA funds generally cannot be used in the next plan year, although an employer may offer either a short grace period (2.5 months) or allow up to $610 to be carried over.
+
+### HSA
+Compared to an HRA, a health savings account (HSA) is a fully vested tax-advantaged account that is not subject to forfeiture if funds remain in the account at the end of the year. An HSA is paired with a high-deductible health plan (HDHP) to pay for medical and dental expenses. The employee or employer funds the account and, like an FSA, cannot be used to pay insurance premiums. Unlike HRAs and FSAs, employees can keep their HSAs if they change employers. 
+
+### How Can I Use HRA Funds?
+Your employer determines the types of medical expenses that an HRA can be used for. Some plans can only reimburse services in your health plan, while others might include dental, vision, or pharmacy services.
+
+HRAs often, but do not always, reimburse other expenses such as copays, hospital expenses, medical equipment, eyeglasses, or routine doctor's visits.
+
+In addition, the IRS also excludes certain other expenses as being unqualified. For example, expenses that do not qualify as necessary medical expenses include teeth whitening, maternity clothes, funeral services, health club membership fees, controlled substances, childcare for a healthy baby, medication from other countries, and non-prescription medications.
+
+### HRAs Are Not Portable
+HRA Funding and Portability
+The health reimbursement arrangement is funded solely by the employer, which also decides the maximum annual contribution for each employee’s HRA. Employers determine how much to contribute to employees’ HRAs, except that all workers in the same class of employees must receive the same contribution, as noted above. Workers who are older or who have dependents may receive more.
+
+Any HRA money unspent by year-end may be rolled over to the following year, although an employer may set a maximum rollover limit that can be carried over from one year to the next.
+ Furthermore, if an employee is terminated or leaves the company to work for another firm, the HRA does not go with them. That makes it different from an HSA—health savings account—which is portable.
+
+### HRA Tax Advantages
+As a benefit to employers, reimbursements through the HRA are 100% tax-deductible.
+ As an alternative to more expensive traditional healthcare, an employer may use an HRA to cover the health costs of several classes of employees.
+ In addition, since employers fully fund the plans, they offer predictability, allowing employers to anticipate their approximate maximum expense for HRA health benefits for the year.
+
+Employees may use the arrangement to pay for a wide range of medical expenses not covered by their health insurance policies. Depending on the HRA type, they may also use it for medical, dental, or vision insurance premiums.
+
+Furthermore, reimbursements are tax-free up to a maximum amount for a coverage period. Some businesses may offer employees the added advantage of other employer-provided health benefits, such as an FSA, in conjunction with an HRA.
+
+### Frequently Asked Questions
+What Is a HRA in Health Insurance?
+A health reimbursement arrangement (HRA) is an employer's plan to cover employee medical expenses.
+
+How Does a HRA Work?
+The employer determines the amount of money that will go into the plan, and the employee can ask to be reimbursed for qualified medical expenses up to the designated amount. Employers can take a tax deduction for the reimbursements made through these plans, and the reimbursements given to employees are usually tax-free.
+
+### What Is a HRA vs. a HSA?
+A health reimbursement arrangement (HRA) is a benefit used to pay employees back in tax-free money for certain qualified medical expenses and health coverage premiums.
+
+A health savings account (HSA) is a tax-advantaged account used by individuals covered under a high-deductible health plan (HDHP) looking to save up to cover the cost of qualified medical expenses.
+
+### Can I Cash out My HRA?
+No. HRA money that hasn't been used by the end of the year can usually be rolled over to the following year, with an employer determining the maximum amount that can be carried from one year to another.
+
+### What Qualifies for HRA Reimbursement?
+Examples of medical and dental expenses considered necessary might be an annual check-up, prescriptions, or substance abuse treatment.
+
+[Table of Content](#0.1)
+___
+
+# 21.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="21"></a>
 
 Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
 
@@ -1149,7 +1255,7 @@ Determining the right and proper formula for calculating an appropriate IBNR has
 [Table of Content](#0.1)
 ___
 
-# 21.) Wholesale and Retail Insurance?<a class="anchor" id="21"></a>
+# 22.) Wholesale and Retail Insurance?<a class="anchor" id="22"></a>
 
 #### Wholesale Insurance
 Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
@@ -1198,7 +1304,7 @@ There are two types of wholesale brokers: managing general agents and surplus li
 [Table of Content](#0.1)
 ___
 
-## 22.) Actuarial Analyst Common Interview Questions<a class="anchor" id="22"></a>
+## 23.) Actuarial Analyst Common Interview Questions<a class="anchor" id="23"></a>
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
 ![03 11 2022_19 01 11_REC - Copy](https://user-images.githubusercontent.com/99672298/199759274-47b4f657-c2ed-4e9c-82a7-52668301f8d7.png)
