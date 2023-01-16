@@ -32,8 +32,9 @@
 	- 17.1 [There are two types of self-funded insurance:](#17.1)
 18. [What is lasering?](#18)
 19. [Definition of Technical Provisions](#19)
-20. [Wholesale and Retail Insurance?](#20)
-21. [Actuarial Common Interview Questions](#21)
+20. [What Is Incurred But Not Reported (IBNR)?](#20)
+21. [Wholesale and Retail Insurance?](#21)
+22. [Actuarial Common Interview Questions](#22)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
@@ -1106,7 +1107,49 @@ From Summary of IAIS positions
 [Table of Content](#0.1)
 ___
 
-# 20.) Wholesale and Retail Insurance?<a class="anchor" id="20"></a>
+# 20.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="20"></a>
+
+Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
+
+In IBNR situations, an actuary will estimate potential damages, and the insurance company may decide to set up reserves to allocate funds for the expected losses. To an actuary, these types of events and losses are said to have been incurred but not reported.
+
+![image](https://user-images.githubusercontent.com/99672298/212716462-f78111c7-1f2b-4169-a75f-436b78732d7e.png)
+
+### How Incurred But Not Reported (IBNR) Works
+IBNR is frequently used by insurance companies, particularly along the East and Gulf Coasts of the United States (where hurricanes and other natural disasters are common). After a storm hits, actuaries estimate the potential damage to infrastructure and the claims that may be anticipated. Based on this analysis, money is then set aside (in a reserve) to pay for claims. Again, in this example, the actual losses have been incurred, but have not officially been reported.
+
+There are numerous scenarios that can conspire and make it necessary for insurance companies to maintain funding provisions for IBNR claims.
+
+For example, the potential impact of slowly developing occupational disease claims on workers' compensation claims. Such examples include silicosis, asbestosis, and certain cancers determined to be related to occupational exposures. Defective product or product liability claims often have delayed reporting, such as lead-based paint, asbestos insulation, and defective drywall.
+
+Poor environmental practices can also result in delayed reporting of environmental liability claims. Finally, short-term workers compensation injuries and healthcare claims to a group healthcare plan can experience delayed reporting.
+
+ It is very important to understand how insurance carriers use IBNR to calculate your account’s performance.
+Delayed reporting impacts several types of insurance coverages, which require an IBNR calculation. These include workers' compensation, environmental/pollution, healthcare, general liability, and products liability.
+
+### How IBNR Is Calculated
+Determining the right and proper formula for calculating an appropriate IBNR has always been one of the toughest challenges of the insurance industry. Insurance claim variables are non-normally distributed, which makes estimating them problematic–and not getting it right is not without consequence. Inaccurate estimates can project an incorrect view of an insurer’s health and may result in action being taken that could be detrimental to the company.
+
+#### At a minimum, an actuary would likely use this client data to calculate IBNR:
+
++ Claim amount
++ Claim number
++ Claim paid dates
++ Claim settlement expense
++ Class of business
++ Intimation date
++ Loss date
++ Policy from date
++ Policy number
++ Policy to date
++ Product type
++ Reinsurance paid – a share of the claim amount
++ Reinsurance paid – a share of claim settlement expenses
+
+[Table of Content](#0.1)
+___
+
+# 21.) Wholesale and Retail Insurance?<a class="anchor" id="21"></a>
 
 #### Wholesale Insurance
 Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
@@ -1155,7 +1198,7 @@ There are two types of wholesale brokers: managing general agents and surplus li
 [Table of Content](#0.1)
 ___
 
-## 21.) Actuarial Analyst Common Interview Questions
+## 22.) Actuarial Analyst Common Interview Questions<a class="anchor" id="22"></a>
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
 ![03 11 2022_19 01 11_REC - Copy](https://user-images.githubusercontent.com/99672298/199759274-47b4f657-c2ed-4e9c-82a7-52668301f8d7.png)
