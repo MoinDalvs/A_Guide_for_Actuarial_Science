@@ -951,7 +951,7 @@ Whenever possible, be sure you're using in-network providers for all of your hea
 [Table of Content](#0.1)
 ___
 
-# 17.) What is Inpatient vs. Outpatient Care?
+# 17.) What is Inpatient vs. Outpatient Care?<a class="anchor" id="17"></a>
 The terms “inpatient” and “outpatient” have very different meanings in the health care world. Knowing the difference between inpatient vs. outpatient care can give you the edge when it comes to managing your health care, choosing a health plan, and planning ahead for out-of-pocket medical expenses related to outpatient or inpatient care.
 
 ## What’s the main difference between inpatient and outpatient care?
