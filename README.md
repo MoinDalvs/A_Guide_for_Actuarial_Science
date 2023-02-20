@@ -33,10 +33,13 @@
 	- 18.1 [There are two types of self-funded insurance:](#18.1)
 19. [What is lasering?](#19)
 20. [Definition of Technical Provisions](#20)
-21. [What Is a Health Reimbursement Arrangement (HRA)?](#21)
-22. [What Is Incurred But Not Reported (IBNR)?](#22)
-23. [Wholesale and Retail Insurance?](#23)
-24. [Actuarial Common Interview Questions](#24)
+21. [Health Reimbursement Arrangement (HRA)?](#21)
+22. [Health Savings Account (HSA)](#22)
+23. [Prefered Provider Organization (PPO)](#23)
+24. [Health Maintenance Organization (HMO)](#24)
+25. [What Is Incurred But Not Reported (IBNR)?](#25)
+26. [Wholesale and Retail Insurance?](#26)
+27. [Actuarial Common Interview Questions](#27)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
@@ -1292,7 +1295,58 @@ Examples of medical and dental expenses considered necessary might be an annual 
 [Table of Content](#0.1)
 ___
 
-# 22.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="22"></a>
+# 22.) Health Savings Account (HSA)<a class="anchor" id="22"></a>
+
+## What Is a Health Savings Account (HSA)?
+A Health Savings Account (HSA) is a tax-advantaged account created for or by individuals covered under high-deductible health plans (HDHPs) to save for qualified medical expenses. Contributions are made into the account by the individual or their employer and are limited to a maximum amount each year. The contributions are invested over time and can be used to pay for qualified medical expenses, such as medical, dental, and vision care and prescription drugs.
+
+![image](https://user-images.githubusercontent.com/99672298/220158730-17cb5c51-d447-4087-940f-523f87625e9d.png)
+
+## How an HSA Works
+As mentioned above, people with HDHPs can open HSAs. Individuals with HDHPs may qualify for HSAs, and the two are usually paired together. To qualify for an HSA, the taxpayer must meet eligibility standards established by the Internal Revenue Service (IRS). An eligible individual is someone who:
+
+- Has a qualified HDHP
+- Has no other health coverage
+- Is not enrolled in Medicare
+- Is not claimed as a dependent on someone else’s tax return
+
+The maximum contribution for an HSA in 2022 is $3,650 for an individual ($3,850 for 2023) and $7,300 for a family ($7,750 in 2023).
+ The annual limits on contributions apply to the total of the amounts contributed by both the employer and the employee. Individuals age 55 or older by the end of the tax year can make catch-up contributions of an additional $1,000 to their HSAs.
+
+An HSA can also be opened at certain financial institutions. Contributions can only be made in cash, while employer-sponsored plans can be funded by the employee and their employer. Any other person, such as a family member, can also contribute to the HSA of an eligible individual. Self-employed or unemployed individuals may also contribute to an HSA, provided that they meet the eligibility requirements.
+
+Individuals who enroll in Medicare can no longer contribute to an HSA as of the first month of enrollment.However, they can receive tax-free distributions for qualified medical expenses.
+
+## HSA Special Considerations
+HDHPs have higher annual deductibles (the plan pays nothing until you reach these amounts in out-of-pocket expenses) but lower premiums than other health plans. The financial benefit of an HDHP’s low-premium and high-deductible structure depends on your personal situation.
+
+The minimum deductible required to open an HSA is $1,400 for an individual or $2,800 for a family for the 2022 tax year ($1,500 and $3,000, respectively, for 2023). The plan must also have an annual out-of-pocket maximum of $7,050 for self-coverage for the 2022 tax year ($7,500 for 2023) and $14,100 for families for the 2022 tax year ($15,000 for 2023). These maximums cap your out-of-pocket expenses.
+
+When an individual pays qualified medical expenses equal to a plan’s deductible amount, additional qualified expenses are divided between the individual and the plan. For instance, the insurer covers a percentage of the qualified expenses per the contract (usually 80% to 90%), while the plan holder pays the remaining 10% to 20% or a specified co-pay.
+
+Using this guide, an individual with an annual deductible of $1,500 (in 2023) and a medical claim of $3,500 pays the first $1,500 to cover the annual deductible. The insured pays 10% to 20% of the remaining $2,000, while the insurance company covers the rest.
+
+Once the annual deductible is met in a given plan year, the plan typically covers any additional medical expenses, except for any uncovered costs under the contract, such as co-pays. The insured can withdraw money accumulated in an HSA to cover these out-of-pocket expenses.
+
+## Advantages
+Employer and individual contributions by payroll deduction to an HSA are excluded from the employee’s taxable income. An individual’s direct contributions to an HSA are 100% tax deductible from the employee’s income. Earnings in the account are also tax free. However, excess contributions to an HSA incur a 6% tax and are not tax deductible.
+13
+
+Distributions from an HSA are tax free, provided that the funds are used for qualified medical expenses as outlined by the IRS. Distributions used for medical expenses covered under the HDHP plan are included in determining if the HDHP’s deductible has been met.
+
+You can also use the money in your HSA to invest in stocks and other securities, potentially allowing for higher returns over time.
+
+## Disadvantages
+The most obvious key drawback is that you need to be a good candidate for an HDHP. In addition, you must have a high-deductible plan, lower insurance premiums, or be affluent enough to afford the high deductibles and benefit from the tax advantages.
+
+Individuals who fund their own HSAs, whether through payroll deductions or directly, should be financially capable of setting aside an amount that would cover a substantial portion of their HDHPs’ deductibles. Individuals without enough spare cash to set aside in an HSA may find the high deductible amount burdensome.
+
+HSAs also come with filing requirements regarding contributions, specific rules on withdrawals, distribution reporting, and a record-keeping burden that may be difficult to maintain.
+
+[Table of Content](#0.1)
+___
+
+# 25.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="25"></a>
 
 Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
 
