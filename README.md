@@ -28,14 +28,15 @@
 14. [What Are Out-of-Pocket Maximums?](#14)
 15. [What’s a High-Deductible Health Plan?](#15)
 16. [In-Network vs. Out-of-Network](#16)
-17. [Stop-Loss Insurance 101](#17)
-	- 17.1 [There are two types of self-funded insurance:](#17.1)
-18. [What is lasering?](#18)
-19. [Definition of Technical Provisions](#19)
-20. [What Is a Health Reimbursement Arrangement (HRA)?](#20)
-21. [What Is Incurred But Not Reported (IBNR)?](#21)
-22. [Wholesale and Retail Insurance?](#22)
-23. [Actuarial Common Interview Questions](#23)
+17. [In-Patient vs Out-Patient](#17)
+18. [Stop-Loss Insurance 101](#18)
+	- 18.1 [There are two types of self-funded insurance:](#18.1)
+19. [What is lasering?](#19)
+20. [Definition of Technical Provisions](#20)
+21. [What Is a Health Reimbursement Arrangement (HRA)?](#21)
+22. [What Is Incurred But Not Reported (IBNR)?](#22)
+23. [Wholesale and Retail Insurance?](#23)
+24. [Actuarial Common Interview Questions](#24)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
@@ -950,7 +951,85 @@ Whenever possible, be sure you're using in-network providers for all of your hea
 [Table of Content](#0.1)
 ___
 
-# 17.) Stop-Loss Insurance 101<a class="anchor" id="17"></a>
+# 17.) What is Inpatient vs. Outpatient Care?
+The terms “inpatient” and “outpatient” have very different meanings in the health care world. Knowing the difference between inpatient vs. outpatient care can give you the edge when it comes to managing your health care, choosing a health plan, and planning ahead for out-of-pocket medical expenses related to outpatient or inpatient care.
+
+## What’s the main difference between inpatient and outpatient care?
+Generally speaking, inpatient care requires you to stay in a hospital and outpatient care does not. The big difference is whether you need to be hospitalized or not.
+
+What is inpatient care?
+Inpatient care is care provided in a hospital or other type of inpatient facility, where you are admitted, and spend at least one night—sometimes more—depending on your condition.
+
+## As an inpatient:
+
+- You are under the care of doctors, nurses, and other types of health care professionals within a hospital.
+- You are often admitted to a particular service, such as Neurology, Cardiology, Orthopedics, Oncology, General Surgery, etc., depending on what you are being treated for.
+- You may be an inpatient due to surgery, illness, childbirth, or traumatic injury. There are inpatient facilities and hospitals for substance use and mental health illness, as well.
+- Your inpatient stay may have been planned ahead—such as a knee replacement surgery or childbirth.
+- Your stay may have been the result of an emergency or unplanned illness or injury, such as a heart attack or serious car accident.
+- You are in need of medicine, care, monitoring, and medical treatment—the kind that’s provided by around-the-clock medical staff.
+- Once a doctor decides you no longer require inpatient care, you are discharged from the facility. Discharge notes often include instructions to follow up with various doctors, take prescribed medications, and even receive outpatient services, if needed.
+
+## What is outpatient care?
+Outpatient care—the kind that you don’t have to stay in a hospital for—can vary greatly. Other than an annual check-up or blood test, almost any other kind of care can be defined as outpatient. These may be diagnostic tests, treatments, or other types of procedures.
+
+**`Outpatient care may be provided in a hospital, as well as a walk-in clinic, an outpatient surgery center, and even your doctor’s office.`**
+
+### What determines if you need inpatient vs. outpatient care?
+Whether you need outpatient or inpatient care is often determined by the type of care you require. Intensive care, around-the-clock care, major surgery, and treatment for a serious illness, are examples of medical situations that would require you to be admitted to the hospital.
+
+On the other hand, there are plenty of minor surgeries, procedures, medical screenings, and treatments that do not require overnight stays or hospitalization.
+
+### What are some examples of inpatient care?
+Types of inpatient care include:
+
+- Serious illness, such as flu, stroke, heart attack
+- Traumatic injury
+- Severe burns
+- Serious mental health issues, treatment for substance use disorder, and overdoses
+- Chronic diseases, such as cancer and chronic obstructive pulmonary disease (COPD), that require specialized treatment and ongoing care
+- Some cosmetic procedures requiring extensive plastic surgery or reconstruction
+
+### What are some examples of outpatient care?
+#### Types of outpatient care include:
+
+- Medical screenings such as mammogram, colonoscopy, and endoscopy
+- Oral surgeries and other dental procedures, such as extractions, implants, root canal, and gum grafts
+- Minor surgeries and procedures that don’t require advanced medical care, such as laser surgery, hand or foot surgery, mole removal, and Lasik eye surgery
+- Certain types of treatment used for ongoing or long-term illnesses, such as dialysis and chemotherapy
+
+## What are the costs for outpatient vs. inpatient?
+
+The costs for inpatient care can add up. In addition to the cost for the treatment or surgery you’re getting, there are many other costs associated with being cared for in a hospital, including:
+
+- Administrative costs
+- Pharmacy costs
+- Lab tests
+- Costs for nurses, radiologists, technicians, and specialists
+
+Equipment and supplies that contribute to your care while you’re there
+And more
+### The costs for outpatient care are typically considerably less than inpatient care. You often have some control over the costs too. For example:
+
+Costs for diagnostic radiology and imaging can vary greatly, so shop around for things like MRIs, PET, and CT scans to see how you can best keep your cost low.
+When it comes to needing unplanned medical care, understanding the difference between urgent care and the ER can ensure you don’t pay more than you need to.
+There are some outpatient screenings and procedures that are considered preventive care and covered by your plan. Things like a routine mammogram and colonoscopy are often covered 100% by your health plan.*
+Learn more about how to pay less for out-of-pocket medical costs.
+
+### Do you have coverage for inpatient vs. outpatient health care?
+Your health plan covers you for medical care, in general, regardless of whether it’s outpatient or inpatient. And some outpatient care may be covered 100% as part of your preventive care. Things like a routine mammogram or routine colonoscopy are examples of outpatient preventive care.
+
+### Here’s how your plan covers you for care and services:
+
+- You pay for care and services until you meet your plan deductible.
+- Once you meet your deductible, your health plan kicks in to start sharing costs as part of coinsurance. For example, you may pay 20% of the cost for services and your plan may pay the remaining 80%.
+- If you hit your out-of-pocket maximum for the year—that’s the most you’re required to pay out-of-pocket—then your health plan will start paying 100% of the costs for your care.
+- Understanding the difference between inpatient vs. outpatient care and services can help give you more control over your health care. It gives you more control when you’re comparing health plans, when you’re planning ahead for a medical procedure or treatment, and anticipating costs for inpatient or outpatient services.
+
+[Table of Content](#0.1)
+___
+
+# 18.) Stop-Loss Insurance 101<a class="anchor" id="18"></a>
 Stop-Loss Insurance Coverage is defined as a layer of coverage that provides reimbursement to self-insured employers for catastrophic claims exceeding predetermined levels. This coverage is purchased by employers who self-fund their employee benefit plan so that they don’t have to assume all of the liability for losses arising from an extremely high medical claim.
 
 **In simple terms:**
@@ -959,7 +1038,7 @@ Stop-loss insurance (also known as excess insurance) is a product that provides 
 
 There are many different options for stop-loss coverages and contracts. Before you draft a contract or schedule a meeting with your insurance carrier, here is a brief introduction to the different stop-loss options, contracts, and terms.
 
-#### 17.1 ) There are two types of self-funded insurance:<a class="anchor" id="17.1"></a>
+#### 18.1 ) There are two types of self-funded insurance:<a class="anchor" id="18.1"></a>
 **Specific Stop-Loss:** This form of stop-loss coverage protects a self-insured employer against large claims incurred by a single individual. Under a specific stop-loss policy, the employer will be reimbursed when claims for an individual exceed a specified deductible. This is protection against abnormal severity of a single claim rather than abnormal frequency of claims in total. Specific stop-loss is also known as individual stop-loss.
 
 **Aggregate Stop-Loss:** This form of stop-loss provides a ceiling to the amount that an employer would pay in expenses on the entire plan, on an aggregate basis, during a contract period. Under this policy, the insurance carrier reimburses the employer after the end of the contract period for aggregate claims.
@@ -1061,7 +1140,7 @@ These contracts specify the time period when the insurer is liable to cover clai
 [Table of Content](#0.1)
 ___
 
-# 18.) What is lasering?<a class="anchor" id="18"></a>
+# 19.) What is lasering?<a class="anchor" id="19"></a>
 
 Lasering is a common stop loss practice in which an individual participant—based on prior claims experience or known conditions—is covered by the stop loss policy at a higher Specific deductible than the rest of the group. As a result, the employer takes on additional claim risk for the individual in exchange for lower annual premium across the entire plan.
 
@@ -1074,7 +1153,7 @@ Lasering is a common stop loss practice in which an individual participant—bas
 [Table of Content](#0.1)
 ___
 
-### 19.) Definition of Technical Provisions<a class="anchor" id="19"></a>
+### 20.) Definition of Technical Provisions<a class="anchor" id="20"></a>
 
 Technical provisions represent the amount that an insurer( a person or company that contracts to indemnify another in the event of loss or damage) requires to fulfil its insurance obligations and settle all expected commitments to policyholders and other beneficiaries arising over the lifetime of the insurer's portfolio of insurance contracts.
 
@@ -1108,7 +1187,7 @@ From Summary of IAIS positions
 [Table of Content](#0.1)
 ___
 
-# 20.) What Is a Health Reimbursement Arrangement (HRA)?<a class="anchor" id="20"></a>
+# 21.) What Is a Health Reimbursement Arrangement (HRA)?<a class="anchor" id="21"></a>
 
 ![image](https://user-images.githubusercontent.com/99672298/212736228-eed077da-e7ef-4a23-a584-7c9f0334a8ad.png)
 
@@ -1213,7 +1292,7 @@ Examples of medical and dental expenses considered necessary might be an annual 
 [Table of Content](#0.1)
 ___
 
-# 21.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="21"></a>
+# 22.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="22"></a>
 
 Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
 
@@ -1255,7 +1334,7 @@ Determining the right and proper formula for calculating an appropriate IBNR has
 [Table of Content](#0.1)
 ___
 
-# 22.) Wholesale and Retail Insurance?<a class="anchor" id="22"></a>
+# 23.) Wholesale and Retail Insurance?<a class="anchor" id="23"></a>
 
 #### Wholesale Insurance
 Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
@@ -1304,7 +1383,7 @@ There are two types of wholesale brokers: managing general agents and surplus li
 [Table of Content](#0.1)
 ___
 
-## 23.) Actuarial Analyst Common Interview Questions<a class="anchor" id="23"></a>
+## 24.) Actuarial Analyst Common Interview Questions<a class="anchor" id="24"></a>
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
 ![03 11 2022_19 01 11_REC - Copy](https://user-images.githubusercontent.com/99672298/199759274-47b4f657-c2ed-4e9c-82a7-52668301f8d7.png)
