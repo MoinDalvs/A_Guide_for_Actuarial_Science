@@ -1451,6 +1451,13 @@ There’s also a very good likelihood that you’ll have to deal with the insure
 
 The quality of care is generally higher with an HMO plan. That is because patients are encouraged to get annual physicals and seek out treatment early.
 
+## Disadvantages of HMOs
+If you’re paying for an HMO, then you’re restricted on how you can use the plan. You’ll have to designate a doctor, who will be responsible for your healthcare needs, including your primary care and referrals. However, this doctor must be part of the network. This means that you are responsible for any costs incurred if you see someone out of the network, even if there’s no contracted doctor in your area.
+
+You’ll need referrals for any specialists if you want your HMO to pay for any visits. If you need to visit a rheumatologist or a dermatologist, for example, your PCP must make a referral before you can see one for the plan to pay for your visit. If not, you’re responsible for the entire cost.
+
+There are very specific conditions that you must meet for certain medical claims, such as emergencies. For instance, there are usually very strict definitions of what constitutes an emergency. If your condition doesn’t fit the criteria, then the HMO plan won’t pay.
+
 [Table of Content](#0.1)
 ___
 
@@ -1496,7 +1503,7 @@ Determining the right and proper formula for calculating an appropriate IBNR has
 [Table of Content](#0.1)
 ___
 
-# 23.) Wholesale and Retail Insurance?<a class="anchor" id="23"></a>
+# 26.) Wholesale and Retail Insurance?<a class="anchor" id="26"></a>
 
 #### Wholesale Insurance
 Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
@@ -1545,7 +1552,7 @@ There are two types of wholesale brokers: managing general agents and surplus li
 [Table of Content](#0.1)
 ___
 
-## 24.) Actuarial Analyst Common Interview Questions<a class="anchor" id="24"></a>
+## 27.) Actuarial Analyst Common Interview Questions<a class="anchor" id="27"></a>
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
 ![03 11 2022_19 01 11_REC - Copy](https://user-images.githubusercontent.com/99672298/199759274-47b4f657-c2ed-4e9c-82a7-52668301f8d7.png)
