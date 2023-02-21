@@ -1346,6 +1346,114 @@ HSAs also come with filing requirements regarding contributions, specific rules 
 [Table of Content](#0.1)
 ___
 
+# 23.) Preferred Provider Organization (PPO)<a class="anchor" id="23"></a>
+
+## What Is a Preferred Provider Organization (PPO)?
+A preferred provider organization (PPO) is a popular health insurance plan designed for individuals and families. PPOs involve networks that are made up of contracted medical professionals and health insurance companies. Healthcare facilities and practitioners, known as preferred providers, offer services to the insurer's plan policyholders at reduced rates. Plan participants receive the maximum PPO benefit when they visit in-network healthcare professionals and are also offered coverage when they see out-of-network providers.
+
+![image](https://user-images.githubusercontent.com/99672298/220427687-5f31f3b8-90b5-429f-83ea-ac6770ce79b9.png)
+
+## How Preferred Provider Organizations (PPOs) Work
+A preferred provider organization is a managed-care network consisting of medical professionals and facilities, such as primary and specialty physicians, hospitals, and other healthcare professionals, who contract with insurance providers to render services to subscribed participants. These are plan participants or consumers who are covered by the insurer's healthcare plan.
+
+Plans negotiate fees and schedules for services with healthcare professionals and facilities. As such, the agreed-upon rate is typically lower than their usual charges. In exchange for reduced rates, insurers pay the PPO a fee to access the network of providers.
+
+PPO participants are free to use the services of any provider within their network. They are encouraged, but not required, to name a primary care physician, and don't need referrals to visit a specialist. Subscribers may go out of network for coverage but it often comes at a higher cost.
+
+## The Costs of a PPO Plan
+There are a number of costs associated with PPOs, and premiums tend to be higher than other types of insurance plans. PPO plans tend to charge higher premiums because they are costlier to administer and manage. Participants are generally responsible for copayments, which are paid directly to the provider at each visit. There are also deductibles that patients must meet before the plans start kicking in and paying claims in full.
+
+As noted above, plan participants are also allowed to visit out-of-network facilities, usually at a higher cost. These charges are based on a reasonable and customary fee schedule. If those claims made by these healthcare providers exceed the reasonable and customary fees for services rendered, coverage may not apply or, most commonly, the excess charge is passed on to the patient.
+
+One important point to note is the degree of flexibility associated with the higher cost of PPOs. These plans offer more options than others available on the market. PPO networks are typically large, with providers in many cities and states. Choosing a provider or accessing one in urgent situations provides value to participants.
+
+## Preferred Provider Organization (PPO) vs. Health Maintenance Organization (HMO)
+In contrast to PPOs, health maintenance organization (HMO) plans require participants to receive healthcare services from an assigned provider. This is a primary care doctor who coordinates the insured's care. Both programs allow the insured to seek specialist care but under an HMO plan, the designated primary care physician must provide a referral to a specialist.
+
+As noted above, PPO plans charge higher premiums than almost every other plan for the convenience, accessibility, and freedom they offer. This includes a wider choice of hospitals and doctors. Plans with the lowest/fewest out-of-pocket expenses, such as those with low deductibles and low copayments, have higher premiums. The elevated premium cost is due to the insurer absorbing more of the associated costs. Conversely, lower-premium alternatives translate into higher out-of-pocket costs for the insured and lower costs for the insurer.
+
+PPO plans come with more comprehensive coverage, including many services that other managed-care programs might exclude or for which they would charge an additional premium.
+
+PPO plans have historically been the preferred choice among employer group participants. However, today, participants want more options for managed healthcare. Therefore, many employers offer HMO plans as well. Because HMO premiums are less expensive, some participants favor HMO plans for their affordability, although services and freedoms typically associated with PPO plans are often restricted. 
+
+## How Do PPO Deductibles Work?
+A health insurance deductible is an amount you must pay out of pocket for medical services each year; after you've met it, your insurance coverage kicks in. PPO plans may have two different annual deductibles. One applies to providers in the PPO network, the other—usually a larger sum—to providers outside the network. The latter is larger because the PPO wants to encourage you to stay in network, using its preferred providers.
+
+## What Are Disadvantages of PPO Plans?
+PPO plans tend to be more expensive than other managed-care options. They typically have higher monthly premiums and out-of-pocket costs, like deductibles. You often have both coinsurance and copays. This is the tradeoff for the flexibility PPOs provide, of letting you use providers both within and outside the PPO system, without needing referrals.
+
+The costs for coinsurance and deductibles can be different for in-network and out-of-network providers and services. Some may find it onerous to have more responsibility for managing and coordinating their own care without a primary care doctor.
+
+## What Is the Difference Between a PPO and a POS?
+The biggest difference between PPO and POS plans is generally flexibility. Both plans cover you whether you use providers and facilities in or out of the network. However, a POS requires you to have a primary care physician and get referrals from them if you want to see a specialist or anyone else. PPOs don't. Costs are another consideration. PPOs tend to be more expensive than POS plans—the premiums are higher and they usually come with deductibles that must be met before your coverage begins.
+
+[Table of Content](#0.1)
+___
+
+# 24.) Preferred Provider Organization (PPO)<a class="anchor" id="23"></a>
+
+## What Is a Health Maintenance Organization (HMO)?
+An individual who needs to secure health insurance may find a variety of insurance providers with unique features. One type of insurance provider that is popular on the Health Insurance Marketplace is a health maintenance organization (HMO), an insurance structure that provides coverage through a network of physicians.
+
+There are several key differences between HMO plans and preferred provider organization (PPO) plans. With an HMO plan, your primary care physician (PCP) will refer you to specialists, and you must stay within a network of providers to receive coverage. On the other hand, HMO plans typically have lower premiums than PPO plans.
+
+![image](https://user-images.githubusercontent.com/99672298/220436738-7e99a905-b528-441f-b0de-9e567b39e28f.png)
+
+## How a Health Maintenance Organization (HMO) Works
+HMOs provide health insurance coverage for a monthly or annual fee. An HMO limits member coverage to medical care provided through a network of doctors and other healthcare providers who are under contract with the HMO. These contracts allow for premiums to be lower than for traditional health insurance—since the healthcare providers have the advantage of having patients directed to them. However, they also add additional restrictions to the HMO’s members.
+
+When deciding whether to choose an HMO plan, you should take into consideration the cost of premiums, out-of-pocket costs, any requirements you may have for specialized medical care, and whether it’s important to you to have your own primary care physician (PCP).
+
+An HMO is an organized public or private entity that provides basic and supplemental health services to its subscribers. The organization secures its network of health providers by entering into contracts with PCPs, clinical facilities, and specialists. The medical entities that enter into contracts with the HMO are paid an agreed-upon fee to offer a range of services to the HMO’s subscribers. The agreed payment allows an HMO to offer lower premiums than other types of health insurance plans while retaining a high quality of care from its network.
+
+The HMO as it exists today was established under the Health Maintenance Organization Act of 1973. Signed by then-President Richard Nixon, the law clarified the definition of HMOs as “a public or private entity organized to provide basic and supplemental health services to its members.” The law further requires that plans provide insured individuals with basic healthcare in exchange for regular, fixed premiums that are established “under a community rating system.”
+
+## Rules for HMO Subscribers
+HMO subscribers pay a monthly or annual premium to access medical services in the organization’s network of providers, but they are limited to receiving their care and services from doctors within the HMO network. However, some out-of-network services, including emergency care and dialysis, can be covered under the HMO.
+
+Those who are insured under an HMO may have to live or work in the plan’s network area to be eligible for coverage. In cases where a subscriber receives urgent care while out of the HMO network region, the HMO may cover the expenses. But HMO subscribers who receive nonemergency, out-of-network care have to pay for it out of pocket.
+
+In addition to low premiums, there are typically low or no deductibles with an HMO. Instead, the organization charges a co-pay for each clinical visit, test, or prescription. Co-pays in HMOs are typically low—usually, $5, $10, or $20 per service—thereby minimizing out-of-pocket expenses and making HMO plans affordable for families and employers.
+
+## Role of the Primary Care Physician (PCP)
+The insured party must choose a PCP from the network of local healthcare providers under an HMO plan. A PCP is typically an individual’s first point of contact for all health-related issues. This means that an insured person cannot see a specialist without first receiving a referral from their PCP.
+However, certain specialized services, such as screening mammograms, do not require referrals. Specialists to whom PCPs typically refer insured members are within the HMO coverage, so their services are covered under the HMO plan after co-pays are made. If a PCP leaves the network, subscribers are notified and are required to choose another PCP from within the HMO plan.
+
+## HMO Regulation
+HMOs are regulated by both states and the federal government. The McCarran-Ferguson Act of 1945 established that even though the insuring or provision of healthcare may be national in scope, the regulation of insurance should be largely left to the states. Likewise, the Health Maintenance Organization Act provides that HMO or health service plans are regulated by the states. As a result of these two federal statutes, much of the task of health insurance regulation is left to the states.
+
+That said, the federal government does maintain some oversight on health maintenance organizations. The 2010 Dodd-Frank Act created the Federal Insurance Office (FIO), which can monitor all aspects of the insurance industry. Similarly, the Affordable Care Act of 2010 created an agency charged with overseeing insurance agencies, called the Center for Consumer Information and Insurance Oversight (CCIIO).
+
+## HMO vs. Preferred Provider Organization (PPO)
+A preferred provider organization (PPO) is a medical care plan in which health professionals and facilities provide services to subscribed clients at reduced rates. PPO medical and healthcare providers are called preferred providers.
+
+PPO participants are free to use the services of any provider within their network. Out-of-network care is available, but it costs more to the insured. In contrast to PPO plans, HMO plans require that participants receive healthcare services from an assigned provider. PPO plans usually have deductibles, while HMO plans usually do not.
+
+Both programs allow for specialist services. However, the designated PCP must provide a referral to a specialist under an HMO plan. PPO plans are the oldest and—due to their flexibility and relatively low out-of-pocket costs—have been the most popular managed healthcare plans. That has been changing, however, as plans have reduced the size of their provider networks and taken other steps to control costs.
+
+## HMO vs. Point-of-Service (POS)
+A point-of-service (POS) plan is like an HMO plan in that it requires a policyholder to choose an in-network PCP and get referrals from that doctor if they want the plan to cover a specialist’s services. A POS plan is also like a PPO plan in that it still provides coverage for out-of-network services, but the policyholder has to pay more for those services than if they used in-network providers.
+
+However, a POS plan will pay more toward an out-of-network service if the policyholder gets a referral from their PCP than if they don’t secure a referral. The premiums for a POS plan fall between the lower premiums offered by an HMO and the higher premiums of a PPO.
+
+POS plans require the policyholder to make co-pays, but in-network co-pays are often just $10 to $25 per appointment. POS plans also do not have deductibles for in-network services, which is a significant advantage over PPOs.
+
+Also, POS plans offer nationwide coverage, which benefits patients who travel frequently. A disadvantage is that out-of-network deductibles tend to be high for POS plans, so patients who use out-of-network services will pay the full cost of care out of pocket until they reach the plan’s deductible. However, a patient who never uses a POS plan’s out-of-network services probably would be better off with an HMO because of its lower premiums.
+
+ If you don’t travel frequently, you’ll be better off with an HMO plan than a POS plan because of the lower costs.
+Advantages and Disadvantages of HMOs
+It’s important to weigh the advantages and disadvantages of HMO plans before you choose a plan, just as you would with any other option. We’ve listed some of the most common pros and cons of the program below.
+
+## Advantages of HMOs
+The first and most obvious advantage of participating in an HMO is the low cost. You’ll pay fixed premiums on a monthly or annual basis that are lower than traditional forms of health insurance. These plans tend to come with low or no deductibles, and your co-pays are generally lower than other plans. Your out-of-pocket costs will also be lower for your prescription. Billing also tends to be less complicated.
+
+There’s also a very good likelihood that you’ll have to deal with the insurer itself. That’s because you have a PCP who you choose and who is responsible for managing your treatment and care. This professional will also advocate for services on your behalf. This includes making referrals for specialty services for you.
+
+The quality of care is generally higher with an HMO plan. That is because patients are encouraged to get annual physicals and seek out treatment early.
+
+[Table of Content](#0.1)
+___
+
 # 25.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="25"></a>
 
 Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
