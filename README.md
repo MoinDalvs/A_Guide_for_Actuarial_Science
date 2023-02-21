@@ -1458,6 +1458,8 @@ You’ll need referrals for any specialists if you want your HMO to pay for any 
 
 There are very specific conditions that you must meet for certain medical claims, such as emergencies. For instance, there are usually very strict definitions of what constitutes an emergency. If your condition doesn’t fit the criteria, then the HMO plan won’t pay.
 
+![image](https://user-images.githubusercontent.com/99672298/220451813-7573c91e-4077-498b-87cb-cb535b2b8832.png)
+
 [Table of Content](#0.1)
 ___
 
