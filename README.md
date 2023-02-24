@@ -37,9 +37,10 @@
 22. [Health Savings Account (HSA)](#22)
 23. [Prefered Provider Organization (PPO)](#23)
 24. [Health Maintenance Organization (HMO)](#24)
-25. [What Is Incurred But Not Reported (IBNR)?](#25)
-26. [Wholesale and Retail Insurance?](#26)
-27. [Actuarial Common Interview Questions](#27)
+25. [Point-of-Service (POS)](#25)
+26. [What Is Incurred But Not Reported (IBNR)?](#26)
+27. [Wholesale and Retail Insurance?](#27)
+28. [Actuarial Common Interview Questions](#28)
 
 # 1.) Actuarial Analyst<a class="anchor" id="1"></a>
 **Actuarial analysts provide pivotal financial information to financial institutions, insurance companies, and other businesses. They predominantly analyze data using statistical modeling and complex mathematical formulas to assess risk. Actuarial analysts report to credentialed actuaries.**
@@ -1463,7 +1464,35 @@ There are very specific conditions that you must meet for certain medical claims
 [Table of Content](#0.1)
 ___
 
-# 25.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="25"></a>
+# 25.) Point-of-Service (POS)?<a class="anchor" id="25"></a>
+
+## What Is a Point-of-Service (POS) Plan?
+A point-of-service (POS) plan is a type of managed-care health insurance plan that provides different benefits depending on whether the policyholder uses in-network or out-of-network healthcare providers.
+
+A POS plan combines features of the two most common health insurance plans: the health maintenance organization (HMO) and the preferred provider organization (PPO). POS plans represent a small share of the health insurance market. Most policyholders have either HMO or PPO plans.
+
+![image](https://user-images.githubusercontent.com/99672298/221192350-f83d4ec1-4b88-4f91-b7b2-581d44501639.png)
+
+## How a Point-of-Service (POS) Works
+A POS plan is similar to an HMO. It requires the policyholder to choose an in-network primary care doctor and obtain referrals from that doctor if they want the policy to cover a specialist’s services. And a POS plan is like a PPO in that it still provides coverage for out-of-network services, but the policyholder will have to pay more than if they used in-network services.
+
+However, the POS plan will pay more toward an out-of-network service if the primary care physician makes a referral than if the policyholder goes outside the network without a referral. The premiums for a POS plan fall between the lower premiums offered by an HMO and the higher premiums of a PPO.
+
+POS plans require the policyholder to make co-payments, but in-network co-payments are often just $10 to $25 per appointment. POS plans also do not have deductibles for in-network services, which is a significant advantage over PPOs.
+
+POS plans offer nationwide coverage, which benefits patients who travel frequently. A disadvantage is that out-of-network deductibles tend to be high for POS plans. When a deductible is high, it means that patients who use out-of-network services will pay the full cost of care until they reach the plan’s deductible. A patient who never uses a POS plan’s out-of-network services probably would be better off with an HMO because of its lower premiums.
+
+![image](https://user-images.githubusercontent.com/99672298/221193723-e45e904a-b48f-4d92-b7d3-f4b33f0f3c44.png)
+
+## Disadvantages of POS Plans
+Though POS plans combine the best features of HMOs and PPOs, they hold a relatively small market share. One reason may be that POS plans are marketed less aggressively than other plans. Pricing also might be an issue. Though POS plans can be up to 50% cheaper than PPO plans, premiums can cost as much as 50% more than for HMO premiums.
+
+While POS plans are cheaper than PPO plans, plan details can be challenging, the policies can be confusing, and many consumers don’t understand how the associated costs work. Read the plan documents especially carefully—and compare them to other choices—before deciding whether this is the best option.
+
+[Table of Content](#0.1)
+___
+
+# 26.) What Is Incurred But Not Reported (IBNR)?<a class="anchor" id="26"></a>
 
 Incurred but not reported (IBNR) is a type of reserve account used in the insurance industry as the provision for claims and/or events that have transpired, but have not yet been reported to an insurance company.
 
@@ -1505,7 +1534,7 @@ Determining the right and proper formula for calculating an appropriate IBNR has
 [Table of Content](#0.1)
 ___
 
-# 26.) Wholesale and Retail Insurance?<a class="anchor" id="26"></a>
+# 27.) Wholesale and Retail Insurance?<a class="anchor" id="27"></a>
 
 #### Wholesale Insurance
 Wholesale insurance is sold to groups that may not be large enough to get typical group coverage. They are essentially provided by companies with fewer than 10 employees. Plans come with individual contracts but generally contain the same provisions for all members of the group. Some companies allow employees to purchase a policy while others pay premiums as part of the employee benefits package. 
@@ -1554,7 +1583,7 @@ There are two types of wholesale brokers: managing general agents and surplus li
 [Table of Content](#0.1)
 ___
 
-## 27.) Actuarial Analyst Common Interview Questions<a class="anchor" id="27"></a>
+## 28.) Actuarial Analyst Common Interview Questions<a class="anchor" id="28"></a>
 ![03 11 2022_12 41 21_REC](https://user-images.githubusercontent.com/99672298/199759091-2823b27d-9df3-4ef3-9289-5bfa73f5de36.png)
 ![03 11 2022_19 00 45_REC](https://user-images.githubusercontent.com/99672298/199759221-9caabc5e-ab97-4390-8806-bdd669170332.png)
 ![03 11 2022_19 01 11_REC - Copy](https://user-images.githubusercontent.com/99672298/199759274-47b4f657-c2ed-4e9c-82a7-52668301f8d7.png)
